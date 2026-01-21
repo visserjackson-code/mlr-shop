@@ -1,0 +1,803 @@
+{
+  "storeMeta": {
+    "currency": "USD",
+    "quantityRule": "one_of_one",
+    "conditionScale": [
+      "M",
+      "NM",
+      "VG+",
+      "VG",
+      "G+",
+      "G",
+      "F",
+      "P"
+    ]
+  },
+  "records": [
+    {
+      "id": "discogs-14664633",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg?si=T9Pbp3XaSpyE7BsZoyb_og",
+        "topSong": ""
+      },
+      "stripeProductId": "prod_TlzkqEyoOPI20L",
+      "stripePriceId": "price_1SoRkWARP79DaMXliIao8d6h",
+      "slug": "warren-zevon-excitable-boy-14664633",
+      "catalogNo": "018771966715, 18771-9667-3",
+      "artist": "Warren Zevon",
+      "title": "Excitable Boy",
+      "genre": ["Rock", "Pop"],
+      "labels": [
+        "Asylum Records",
+        "Rhino Records (2)"
+      ],
+      "formatText": "LP, Album, Ltd, RE, Glo",
+      "year": 2020,
+      "discogsReleaseId": 14664633,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+     "descriptions": {
+  "short": "Darkly funny songwriting wrapped in classic late-70s rock.",
+  "medium": "Excitable Boy pairs catchy, radio-friendly arrangements with Warren Zevon’s razor-sharp lyrics and offbeat humor. A cult classic that balances wit, darkness, and undeniable hooks."
+}
+,
+      "price": 49.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "",
+      "isColored": true,
+      "vinylColors": [
+  { "name": "Red", "hex": "#d30106", "note": "glow-in-the-dark" },
+  { "name": "White", "hex": "#d0ba9e", "note": "default color" }
+],
+"colorDisplay": {
+  "mode": "multiDisc", 
+  "discs": [
+    { "name": "Glow-in-the-dark color", "hex": "#d30106" },
+    { "name": "Default color", "hex": "#d0ba9e"}
+  ]
+},
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/excitableboy_front.jpg",
+        "back": "/covers/excitableboy_back.jpg",
+        "disc": "/covers/excitableboy_disc_glow.jpg",
+        "others": {
+          "1": "/covers/excitableboy_disc_noglow.jpg"
+        }
+      }
+    },
+    {
+      "id": "discogs-5734419",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=fcRJkPauTjyo8gTzBczzcw",
+        "topSong": ""
+      },
+      "stripeProductId": "prod_TlzllJQNpyGWFz",
+      "stripePriceId": "price_1SoRm7ARP79DaMXl0htIZZNq",
+      "slug": "led-zeppelin-led-zeppelin-5734419",
+      "catalogNo": "018771966715, 18771-9667-4",
+      "artist": "Led Zeppelin",
+      "title": "Led Zeppelin",
+      "genre":["Rock", "Blues Rock"],
+      "labels": [
+        "Atlantic"
+      ],
+      "formatText": "LP, Album, RE, RM, 180",
+      "year": 2014,
+      "discogsReleaseId": 5734419,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+  "short": "A thunderous debut that redefined what hard rock could be.",
+  "medium": "Led Zeppelin’s self-titled debut blends blues, folk, and sheer volume into a bold statement of intent. From heavy riffs to acoustic moments, it set the blueprint for rock in the decades that followed."
+}
+,
+      "price": 29.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors":[
+        {"name": "Black", "hex": "#000000", "note": ""}
+      ],
+      "colorDisplay": {
+  "mode": "standardBlack", 
+  "discs": [
+    { "name": "Black", "hex": "#000000" }
+  ]
+},
+      "status": "active",
+      "soldAt": null,
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "images": {
+        "cover": "/covers/ledzep_front.jpg",
+        "back": "/covers/ledzep_back.jpg",
+        "disc": "/covers/ledzep_disc_closeup.jpg",
+        "others": {
+        }
+      }
+    },
+    {
+      "id": "discogs-17922214",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj?si=GKOGOnt8SV6T3b5P6AeqtQ",
+        "topSong": ""
+      },
+      "stripeProductId": "prod_Tlzpx5OzQUhbq4",
+      "stripePriceId": "price_1SoRqJARP79DaMXljUcOFEj4",
+      "slug": "benny-the-butcher-the-plugs-i-met-2-17922214",
+      "catalogNo": "NXT 114-LP",
+      "artist": "Benny The Butcher",
+      "title": "The Plugs I Met II",
+      "genre": ["Hip-Hop", "Rap", "Underground Hip-Hop"],
+      "labels": [
+        "Black Soprano Family",
+        "Griselda Records"
+      ],
+      "formatText": "LP, EP",
+      "year": 2021,
+      "discogsReleaseId": 17922214,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+  "short": "Hard-hitting, modern street rap with a classic feel.",
+  "medium": "The Plugs I Met 2 continues Benny the Butcher’s gritty, uncompromising style, pairing sharp lyricism with soulful production. A concise, focused release that fits neatly into Griselda’s larger catalog."
+}
+,
+      "price": 29.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+     "vinylColors":[
+        {"name": "Black", "hex": "#000000", "note": ""}
+      ],
+      "colorDisplay": {
+  "mode": "standardBlack", 
+  "discs": [
+    { "name": "Black", "hex": "#000000" }
+  ]
+},
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/plugs2_front.jpg",
+        "back": "/covers/plugs2_back.jpg",
+        "disc": "/covers/plugs2_disc.jpg"
+      }
+    },
+    {
+      "id": "discogs-19441717",
+      "spotify":{
+        "albumURL": "https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz?si=wJ5K09SxToS69LmGyKNSBw",
+        "topSong": ""
+      },
+      "stripeProductId": "prod_TlztgpKk90qZ5t",
+      "stripePriceId": "price_1SoRu9ARP79DaMXlwO7njxuz",
+      "slug": "conway-6-la-maquina-19441717",
+      "catalogNo": "DRW 105",
+      "artist": "Conway The Machine",
+      "title": "La Maquina",
+      "genre": ["Hip-Hop", "Rap", "Underground Hip-Hop"],
+      "labels": [
+        "de Rap Winkel Records"
+      ],
+      "formatText": "LP, Album, Ltd, Num, Lil",
+      "year": 2021,
+      "discogsReleaseId": 19441717,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+  "short": "Dark, polished rap that balances grit and clarity.",
+  "medium": "La Maquina sharpens Conway the Machine’s sound, pairing his raw delivery with cleaner, more focused production. The result is a tense, deliberate record that rewards close listening."
+}
+,
+      "price": 59.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "",
+      "limitedNumber": 1,
+      "limitedTotal": 1000,
+      "isColored": true,
+      "vinylColors":[
+        {"name": "Lilac", "hex": "#a375ad", "note": ""}
+      ],
+      "colorDisplay": {
+  "mode": "singleDisc", 
+  "discs": [
+    { "name": "Lilac", "hex": "#a375ad"}
+  ]
+},
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/maquina_cover.jpg",
+        "back": "/covers/conway-6-la-maquina-19441717_back.jpg",
+        "disc": "/covers/conway-6-la-maquina-19441717_disc.jpg",
+        "others":{
+          "closeup": "/covers/maquina_disc_closeup.jpg"
+        }
+      }
+    },
+    {
+      "id": "discogs-34261831",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/7sYQ2Mz4d68h6e3WMSDfH8?si=TNz29cfYTBGVBoMynF-tng",
+        "topSong": ""
+      },
+      "stripeProductId": "prod_Tm01iA6NTWxgLf",
+      "stripePriceId": "price_1SoS1dARP79DaMXlEguvyJpf",
+      "slug": "boldy-james-your-boy-posca-magnolia-leflore-34261831",
+      "catalogNo": "NMR136",
+      "artist": "Boldy James, Your Boy Posca",
+      "title": "Magnolia Leflore",
+      "genre":["Hip-Hop", "Rap", "Underground Hip-Hop"],
+      "labels": [
+        "Near Mint"
+      ],
+      "formatText": "LP, Album, Ltd, Num, Mar",
+      "year": 2025,
+      "discogsReleaseId": 34261831,
+      "condition": {
+        "media": "NM-",
+        "sleeve": "NM-"
+      },
+      "sealed": false,
+      "descriptions": {
+  "short": "Atmospheric, detail-rich rap built for late-night listening.",
+  "medium": "Magnolia Leflore pairs Boldy James’ understated delivery with moody, textured production. It’s a subtle, immersive record that rewards patience and attention."
+}
+,
+      "price": 74.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Numbered gold foil stamp on the jacket.",
+      "limitedNumber": 1,
+      "limitedTotal": 200,
+      "isColored": true,
+      "vinylColors":[
+        {"name": "Maroon", "hex": "#a37567", "note": ""},
+        {"name": "Olive", "hex": "#719467", "note": ""}
+      ],
+      "colorDisplay": {
+        "mode": "blend",
+        "discs": [
+          {"name": "Maroon", "hex": "#a37567"},
+        {"name": "Olive", "hex": "#719467"}
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/leflore_front.jpg",
+        "back": "/covers/leflore_back.jpg",
+        "disc": "/covers/leflore_disc.jpg",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-4572010",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN?si=F31M--rpSZ-4fedkCGxsNw",
+        "topSong": ""
+      },
+      "stripeProductId": "prod_Tm0KZCLpLbio13",
+      "stripePriceId": "price_1SoSKHARP79DaMXl2e1DSRHv",
+      "slug": "the-smiths-the-smiths-4572010",
+      "catalogNo": "2564665880",
+      "artist": "The Smiths",
+      "title": "The Smiths",
+      "genre":["Jangle Pop", "Indie Pop", "Indie Rock"],
+      "labels": [
+        "Warner Music UK Ltd."
+      ],
+      "formatText": "LP, Album, RE",
+      "year": 2012,
+      "discogsReleaseId": 4572010,
+      "condition": {
+        "media": "M",
+        "sleeve": "M"
+      },
+      "sealed": true,
+      "descriptions": {
+  "short": "Melancholic, melodic indie rock with sharp lyrics.",
+  "medium": "The Smiths’ debut pairs jangly guitars with Morrissey’s distinctive vocals and wit. A foundational record for indie music that remains influential decades later."
+}
+,
+      "price": 29.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors":[
+        {"name": "Black", "hex": "#000000", "note": ""}
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {"name": "Black", "hex": "#000000"}
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/smiths_front.jpg",
+        "back": "/covers/smiths_back.jpg",
+        "disc": "/covers/smiths_disc_closeup.jpg"
+      }
+    },
+{
+  "id": "discogs-27116274",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/0BRThmbAV1p2CxAuxgpHRj?si=JzgTSlQFQLaRlVdUjnDvIQ",
+    "topSong": ""
+  },
+  "stripeProductId": "prod_TnraaoGi4FpClK",
+  "stripePriceId": "price_1SqFqvARP79DaMXl6gXzqcrU",
+  "slug": "the-cure-galore-the-singles-1987-1997-27116274",
+  "catalogNo": "DUREC 46",
+  "artist": "The Cure",
+  "title": "Galore: The Singles 1987–1997",
+  "genre": ["Rock", "Alternative Rock", "Post-Punk"],
+  "labels": ["Fiction Records"],
+  "formatText": "Vinyl, LP, Compilation",
+  "year": 1997,
+  "discogsReleaseId": 27116274,
+  "condition": {
+    "media": "",
+    "sleeve": ""
+  },
+  "sealed": false,
+  "descriptions": {
+    "short": "Compilation of singles spanning a decade of The Cure’s iconic output.",
+    "medium": "Galore: The Singles 1987–1997 collects key singles from a pivotal decade for The Cure, showcasing their evolution from moody post-punk to lush alternative rock. Features fan favorites and career highlights from the band’s late 80s and 90s period."
+  },
+  "price": 59.99,
+  "quantity": 1,
+  "isLimited": true,
+  "limitedDetails": "",
+  "limitedRetailer": "",
+  "isColored": true,
+  "vinylColors": [{"name": "Blue / Forest Green?", "hex": "#448d8e", "note": ""},
+                  {"name": "Pink", "hex": "#915670", "note": ""}
+                ],
+  "colorDisplay": {
+    "mode": "multiDisc",
+    "discs": [{"name": "Blue / Forest Green?", "hex": "#448d8e", "note":""},
+              {"name": "Pink", "hex": "#915670", "note":""}
+  ]
+  },
+  "status": "active",
+  "sortWeight": 0,
+  "createdAt": "2026-01-17",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers/cure_front.jpg",
+    "back": "/covers/cure_back.jpg",
+    "disc": "/covers/cure_disc_blue.png",
+    "others": {"1": "/covers/cure_disc_pink.png"}
+  }
+},
+{
+  "id": "discogs-28547689",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy?si=eEOWEnR_Rv62pFpdxekbTw",
+    "topSong": ""
+  },
+  "stripeProductId": "prod_TnrcJRSTGLkv09",
+  "stripePriceId": "price_1SqFtHARP79DaMXlloKCbmtt",
+  "slug": "elliott-smith-either-or-28547689",
+  "catalogNo": "12025",
+  "artist": "Elliott Smith",
+  "title": "Either/Or",
+  "genre": ["Rock", "Indie Rock", "Alternative Rock"],
+  "labels": ["Kill Rock Stars"],
+  "formatText": "Vinyl, LP, Album, Reissue",
+  "year": 1997,
+  "discogsReleaseId": 28547689,
+  "condition": {
+    "media": "VG+",
+    "sleeve": "VG+"
+  },
+  "sealed": false,
+  "descriptions": {
+    "short": "Elliott Smith’s acclaimed indie classic blending melancholic lyricism with gentle melodies.",
+    "medium": "Either/Or stands as one of Elliott Smith’s most beloved records, combining introspective acoustic guitar, delicate arrangements, and deeply honest songwriting. A landmark in 90s indie rock, the album’s haunting beauty and emotional depth have resonated with fans and critics alike."
+  },
+  "price": 32.99,
+  "quantity": 1,
+  "isLimited": false,
+  "limitedDetails": "",
+  "limitedRetailer": "",
+  "isColored": false,
+  "vinylColors": [{"name":"Black", "hex":"#000000", "note": ""}],
+  "colorDisplay": {
+    "mode": "standardBlack",
+    "discs": [{"name":"Black", "hex": "#000000", "note": ""}]
+  },
+  "status": "active",
+  "sortWeight": 0,
+  "createdAt": "2026-01-17",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers/eitheror_front.jpg",
+    "back": "/covers/eitheror_back.jpg",
+    "disc": "/covers/eitheror_disc_1.jpg",
+    "others": {"1": "/covers/eitheror_disc_2.jpg"}
+  }
+},
+{
+  "id": "discogs-35209627",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC?si=8ZsFbXZvSI2BlBvsGmnZPg",
+    "topSong": ""
+  },
+  "stripeProductId": "prod_Tnres9Qt5EpbTF",
+  "stripePriceId": "price_1SqFuqARP79DaMXl6WdFqAcN",
+  "slug": "geese-getting-killed-35209627",
+  "catalogNo": "PTPS60LPX",
+  "artist": "Geese",
+  "title": "Getting Killed",
+  "genre": ["Rock", "Folk Rock", "Experimental", "Indie Rock"],
+  "labels": ["Partisan Records", "Play It Again Sam"],
+  "formatText": "Vinyl, LP, Album, Clear Vinyl",
+  "year": 2025,
+  "discogsReleaseId": 35209627,
+  "condition": {
+    "media": "NM-",
+    "sleeve": "NM-"
+  },
+  "sealed": false,
+  "descriptions": {
+    "short": "A bold and inventive indie rock statement from Geese’s 2025 album.",
+    "medium": "Getting Killed captures Geese’s restless, experimental rock energy with a blend of folk influences, sharp guitar interplay, and expressive songwriting that showcases why the band has become one of the most talked-about acts of their scene."
+  },
+  "price": 34.99,
+  "quantity": 1,
+  "isLimited": false,
+  "limitedDetails": "",
+  "limitedRetailer": "",
+  "isColored": true,
+  "vinylColors": [{"name": "Clear", "hex": "#cbc5c1", "note": ""}],
+  "colorDisplay": {
+    "mode": "singleDisc",
+    "discs": [{"name": "Clear", "hex": "#cbc5c1", "note": ""}]
+  },
+  "status": "active",
+  "sortWeight": 0,
+  "createdAt": "2026-01-17",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers/geese_front.jpg",
+    "back": "/covers/geese_back.jpg",
+    "disc": "/covers/geese_disc.jpg",
+    "others": {}
+  }
+},
+{
+  "id": "discogs-8541806",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=qBqG1bv8SuebX8V7hqzUkA",
+    "topSong": ""
+  },
+  "stripeProductId": "prod_TnrgqP5cxyIKLG",
+  "stripePriceId": "price_1SqFwrARP79DaMXlFvaax3sG",
+  "slug": "the-jimi-hendrix-experience-are-you-experienced-8541806",
+  "catalogNo": "RS 6385",
+  "artist": "The Jimi Hendrix Experience",
+  "title": "Are You Experienced",
+  "genre": ["Rock", "Psychedelic Rock", "Classic Rock"],
+  "labels": ["Track Records", "Reprise Records"],
+  "formatText": "Vinyl, LP, Album, Reissue",
+  "year": 1967,
+  "discogsReleaseId": 8541806,
+  "condition": {
+    "media": "VG+",
+    "sleeve": "VG+"
+  },
+  "sealed": false,
+  "descriptions": {
+    "short": "Genre-defining debut from Jimi Hendrix, blending rock, blues and psychedelic flair.",
+    "medium": "Are You Experienced is the explosive debut album from The Jimi Hendrix Experience, capturing Hendrix’s groundbreaking guitar work and innovative songwriting. A cornerstone of rock music, the record reshaped the sound of the late 1960s and influences generations of players and listeners alike."
+  },
+  "price": 29.99,
+  "quantity": 1,
+  "isLimited": false,
+  "limitedDetails": "",
+  "limitedRetailer": "",
+  "isColored": false,
+  "vinylColors": [{"name":"Black", "hex":"#000000", "note": ""}],
+  "colorDisplay": {
+    "mode": "standardBlack",
+    "discs": [{"name":"Black", "hex":"#000000", "note": ""}]
+  },
+  "status": "active",
+  "sortWeight": 0,
+  "createdAt": "2026-01-17",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers/jimi_front.jpg",
+    "back": "/covers/jimi_back.jpg",
+    "disc": "/covers/jimi_disc_1",
+    "others": {"1": "covers/jimi_disc_2"}
+  }
+},
+{
+      "id": "discogs-29019493",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT?si=8kIp188gQFWv4Z2i6T3yTg",
+        "topSong": ""
+      },
+      "stripeProductId": "prod_TlznjcsZ3Dvs8g",
+      "stripePriceId": "price_1SoRnaARP79DaMXlR4Y5whvo",
+      "slug": "trans-siberian-orchestra-christmas-eve-and-other-stories-29019493",
+      "catalogNo": "603497832675, RCDI 92736",
+      "artist": "Trans-Siberian Orchestra",
+      "title": "Christmas Eve And Other Stories",
+      "genre": ["Prog Rock", "Holiday"],
+      "labels": [
+        "Atlantic",
+        "Rhino Records (2)"
+      ],
+      "formatText": "LP, Ltd, RE, Cry",
+      "year": 2021,
+      "discogsReleaseId": 29019493,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+  "short": "A dramatic, rock-driven take on holiday music.",
+  "medium": "Christmas Eve and Other Stories combines orchestral arrangements, rock guitars, and a loose narrative to create a cinematic holiday experience. A modern seasonal staple with big sound and theatrical flair."
+}
+,
+      "price": 49.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "",
+      "isColored": true,
+      "vinylColors": [
+        {"name": "Clear", "hex": "#79786e", "note": ""}
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs":[
+          {"name": "Clear", "hex": "#79786e"}
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/transib_front.jpg",
+        "back": "/covers/transib_back.jpg",
+        "disc": "/covers/transib_disc.jpg",
+        "others": {}
+    }},
+{
+  "id": "discogs-34817141",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop?si=YhGijdufRWSn8dXqiAfC_A",
+    "topSong": ""
+  },
+  "stripeProductId": "prod_Tnrj5sDlZS0LLZ",
+  "stripePriceId": "price_1SqG0OARP79DaMXlGNk5F1JQ",
+  "slug": "sabrina-carpenter-mans-best-friend-34817141",
+  "catalogNo": "602478338267",
+  "artist": "Sabrina Carpenter",
+  "title": "Man's Best Friend",
+  "genre": ["Pop"],
+  "labels": ["Island Records"],
+  "formatText": "Vinyl, LP, Album",
+  "year": 2025,
+  "discogsReleaseId": 34817141,
+  "condition": {
+    "media": "VG+",
+    "sleeve": "NM-"
+  },
+  "sealed": false,
+  "descriptions": {
+  "short": "Glossy, confident pop that leans playful and provocative while keeping a sharp, self-aware edge.",
+  "medium": "Man’s Best Friend sees Sabrina Carpenter leaning fully into polished, modern pop with a wink and a bite. The album balances flirtatious hooks, tongue-in-cheek lyricism, and sleek production, showcasing her growing confidence as both a vocalist and songwriter. It’s bright, catchy, and unapologetically fun, while still packing clever writing and a sense of control over the pop persona she’s built."
+},
+  "price": 32.99,
+  "quantity": 1,
+  "isLimited": true,
+  "limitedDetails": "Includes an 11in x 11in picture insert and a 17 1/2in x 8 3/4in poster.",
+  "limitedRetailer": "Target",
+  "isColored": true,
+  "vinylColors": [{"name": "Iridescent White", "hex": "#8f929b", "note": ""}],
+  "colorDisplay": {
+    "mode": "singleDisc",
+    "discs": [{"name": "Iridescent White", "hex": "#8f929b", "note": ""}]
+  },
+  "status": "active",
+  "sortWeight": 0,
+  "createdAt": "2026-01-17",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers/mbf_front.jpg",
+    "back": "/covers/mbf_back.jpg",
+    "disc": "/covers/mbf_disc.jpg",
+    "others": {"gatefold": "covers/mbf_gatefold.jpg"}
+        }
+      },
+{
+  "id": "discogs-35262241",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD?si=BDVBjy40QhmP5ZZiOdwEvQ",
+    "topSong": ""
+  },
+  "stripeProductId": "prod_Tnrl9Uhk3DFCRL",
+  "stripePriceId": "price_1SqG1nARP79DaMXl4l61sNXE",
+  "slug": "young-thug-uy-scuti-35262241",
+  "catalogNo": "YGMLP010",
+  "artist": "Young Thug",
+  "title": "Uy Scuti",
+  "genre": ["Hip-Hop", "Rap", "Trap"],
+  "labels": ["YSL Records", "300 Entertainment"],
+  "formatText": "Vinyl, LP, Album",
+  "year": 2024,
+  "discogsReleaseId": 35262241,
+  "condition": {
+    "media": "VG+",
+    "sleeve": "VG+"
+  },
+  "sealed": false,
+  "descriptions": {
+    "short": "Young Thug’s genre-blurring album blending trap, melody, and bold experimentation.",
+    "medium": "Uy Scuti is a standout record from Young Thug that showcases his eclectic style and boundary-pushing approach to modern hip hop. With a mix of hard-hitting tracks and melodic flourishes, the album reflects his dynamic range and artistic evolution."
+  },
+  "price": 49.99,
+  "quantity": 1,
+  "isLimited": false,
+  "limitedDetails": "",
+  "limitedRetailer": "",
+  "isColored": true,
+  "vinylColors": [{"name": "Silver", "hex": "#667f8e", "note": ""}],
+  "colorDisplay": {
+    "mode": "singleDisc",
+    "discs": [{"name": "Silver", "hex": "#667f8e", "note": ""}]
+  },
+  "status": "active",
+  "sortWeight": 0,
+  "createdAt": "2026-01-17",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers/scuti_front.jpg",
+    "back": "/covers/scuti_back.jpg",
+    "disc": "/covers/scuti_disc.jpg",
+    "others": {}
+  }
+},
+{
+  "id": "discogs-28794850",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/0onfcuwHGOWJKQIMkOCBh9?si=KchIPs18QTC-Oi9mAs2DhQ",
+    "topSong": ""
+  },
+  "stripeProductId": "prod_TnrmVz7HvqX3d6",
+  "stripePriceId": "price_1SqG3BARP79DaMXljt2Z0cSj",
+  "slug": "go-ichinose-hitomi-sato-hiromitsu-maeba-pokemon-legends-arceus-super-music-collection-28794850",
+  "catalogNo": "OVCP-0012",
+  "artist": "Go Ichinose / Hitomi Sato / Hiromitsu Maeba",
+  "title": "Pokémon Legends Arceus OST (Selected Tracks)",
+  "genre": ["Soundtrack", "Video Game Music"],
+  "labels": ["The Pokémon Company", "OVERLAP, Inc."],
+  "formatText": "4xCD, Album, Original Soundtrack",
+  "year": 2024,
+  "discogsReleaseId": 28794850,
+  "condition": {
+    "media": "VG+",
+    "sleeve": "NM-"
+  },
+  "sealed": false,
+  "descriptions": {
+  "short": "A curated selection of evocative music from Pokémon LEGENDS: Arceus, blending orchestral textures with adventurous themes.",
+  "medium": "This selected soundtrack from Pokémon LEGENDS: Arceus brings together memorable compositions that evoke the spirit of exploration and discovery in the ancient Sinnoh region. Featuring sweeping orchestral arrangements, atmospheric motifs, and thematic variations tied to key characters and environments, the Super Music Collection celebrates the game’s emotional and immersive musical identity in a single listening experience."
+},
+  "price": 59.99,
+  "quantity": 1,
+  "isLimited": false,
+  "limitedDetails": "Japan import",
+  "limitedRetailer": "",
+  "isColored": true,
+  "vinylColors": [{"name": "Blue / Green Pokeball Blend", "hex": "#03b3db", "note": ""},
+                  {"name": "Blue / Green Pokeball Blend (2)", "hex": "#01a555", "note": ""}                  
+],
+  "colorDisplay": {
+    "mode": "blend",
+    "discs": [{"name": "Blue / Green Pokeball Blend", "hex": "#03b3db", "note": ""},
+                  {"name": "Blue / Green Pokeball Blend (2)", "hex": "#01a555", "note": ""} ]
+  },
+  "status": "active",
+  "sortWeight": 0,
+  "createdAt": "2026-01-17",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers/arceus_front.jpg",
+    "back": "/covers/arceus_back.jpg",
+    "disc": "/covers/arceus_disc.jpg",
+    "others": {"1": "covers/arceus_insert.jpg"}
+  }
+},
+    {
+      "id": "discogs-5466884",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt?si=RLzGGN6yR3KinK8EcynR5w",
+        "topSong": ""
+      },
+      "stripeProductId":"prod_Tm0Mhq62FjkvbH",
+      "stripePriceId":"price_1SoSM7ARP79DaMXlPvwVLwRa",
+      "slug": "etta-james-at-last-5466884",
+      "catalogNo": "771824",
+      "artist": "Etta James",
+      "title": "At Last!",
+      "genre":["Soul", "Rhythm & Blues"],
+      "labels": [
+        "WaxTime"
+      ],
+      "formatText": "LP, Album, Ltd, RE, 180",
+      "year": 2013,
+      "discogsReleaseId": 5466884,
+      "condition": {
+        "media": "M",
+        "sleeve": "M"
+      },
+      "sealed": true,
+      "descriptions": {
+  "short": "A timeless vocal jazz and soul classic.",
+  "medium": "At Last! features Etta James’ powerful voice front and center, delivering standards and ballads with emotion and grace. A cornerstone record in American popular music."
+}
+,
+      "price": 29.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors":[
+        {"name": "Black", "hex": "#000000", "note": ""}
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {"name": "Black", "hex": "#000000"}
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/atlast_front.jpg",
+        "back": "/covers/atlast_back.jpg",
+        "disc": "/covers/atlast_disc_closeup.jpg"
+      }
+    }
+  ]
+} 
