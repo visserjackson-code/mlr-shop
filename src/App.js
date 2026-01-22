@@ -84,13 +84,15 @@ function App() {
         borderBottom: `4px solid ${colors.orange}`
       }}>
         <div style={{ 
-          maxWidth: '1400px', 
-          margin: '0 auto', 
-          padding: '0 20px',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'space-between'
-        }}>
+  maxWidth: '1400px', 
+  margin: '0 auto', 
+  padding: '0 20px',
+  display: 'flex',
+  flexDirection: window.innerWidth < 768 ? 'column' : 'row',
+  alignItems: 'center',
+  justifyContent: 'space-between',
+  gap: window.innerWidth < 768 ? '15px' : '0'
+}}>
          <img 
   src="/data/logo_vibrant.png"  // Use the new vibrant version
   alt="Most Likely Records"
@@ -106,7 +108,7 @@ function App() {
   }}
   onClick={() => setPage('shop')}
 />
-          <nav style={{ display: 'flex', gap: '30px' }}>
+          <nav style={{ display: 'flex', gap: '10px' }}>
             <button
               onClick={() => setPage('shop')}
               style={{
