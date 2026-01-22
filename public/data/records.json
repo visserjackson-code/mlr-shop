@@ -679,64 +679,6 @@
       }
     },
     {
-      "id": "clipse-hell-hath-no-fury",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/7JCTK2OTwO4LRVYndZeVJ1",
-        "topSong": ""
-      },
-      "slug": "clipse-hell-hath-no-fury",
-      "artist": "Clipse",
-      "title": "Hell Hath No Fury",
-      "genre": [
-        "Hip-Hop",
-        "Rap"
-      ],
-      "labels": [
-        "Re-Up Records",
-        "Star Trak Entertainment",
-        "Jive"
-      ],
-      "formatText": "LP, Album",
-      "year": 2006,
-      "condition": {
-        "media": "M",
-        "sleeve": "M"
-      },
-      "sealed": true,
-      "descriptions": {
-        "short": "Clipse and The Neptunes created something stark and futuristic on Hell Hath No Fury. The production is minimal and cold, the lyrics precise and menacing. This is essential listening for anyone who appreciates rap as high art.",
-        "medium": "'We Got It for Cheap' opens with skeletal drums and eerie synths\u2014peak Neptunes minimalism. 'Wamp Wamp (What It Do)' is confrontational and hard-hitting, while 'Mr. Me Too' critiques rap copycats over sparse, otherworldly production."
-      },
-      "price": 55.99,
-      "quantity": 1,
-      "isLimited": false,
-      "isColored": false,
-      "vinylColors": [
-        {
-          "name": "Black",
-          "hex": "#000000",
-          "note": ""
-        }
-      ],
-      "colorDisplay": {
-        "mode": "standardBlack",
-        "discs": [
-          {
-            "name": "Black",
-            "hex": "#000000"
-          }
-        ]
-      },
-      "status": "active",
-      "soldAt": null,
-      "createdAt": "2026-01-21",
-      "images": {
-        "cover": "/covers-optimized/clipse_front.webp",
-        "back": "/covers-optimized/clipse_back.webp",
-        "disc": "/covers-optimized/clipse_disc.webp"
-      }
-    },
-    {
       "id": "lil-wayne-tha-carter-iv",
       "spotify": {
         "albumURL": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp?si=M6T4BK3rR6SfszcQyUMh9w",
