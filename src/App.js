@@ -896,11 +896,11 @@ function RecordModal({ record, onClose }) {
 
         <div style={{ padding: '10px' }}>
           <div style={{
-            display: 'grid',
-            gridTemplateColumns: '1fr 1fr',
-            gap: '30px',
-            marginBottom: '10px'
-          }}>
+  display: 'grid',
+  gridTemplateColumns: window.innerWidth < 768 ? '1fr' : '1fr 1fr',
+  gap: '30px',
+  marginBottom: '30px'
+}}>
             <ImageGallery record={record} />
 
             <div>
@@ -960,11 +960,11 @@ function RecordModal({ record, onClose }) {
           </div>
 
           <div style={{
-            display: 'grid',
-            gridTemplateColumns: '1fr 1fr',
-            gap: '20px',
-            marginBottom: '30px'
-          }}>
+  display: 'grid',
+  gridTemplateColumns: window.innerWidth < 768 ? '1fr' : '1fr 1fr',
+  gap: '20px',
+  marginBottom: '30px'
+}}>
             {record.descriptions?.medium && (
               <div style={{
                 padding: '20px',
