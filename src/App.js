@@ -280,6 +280,7 @@ function App() {
             maxWidth: '1400px',
             margin: '0 auto',
             padding: '40px 20px',
+            paddingRight: '100px',
             display: 'grid',
             gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
             gap: '30px'
