@@ -26,7 +26,10 @@
       "catalogNo": "018771966715, 18771-9667-3",
       "artist": "Warren Zevon",
       "title": "Excitable Boy",
-      "genre": ["Rock", "Pop"],
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
       "labels": [
         "Asylum Records",
         "Rhino Records (2)"
@@ -39,27 +42,40 @@
         "sleeve": "VG+"
       },
       "sealed": false,
-     "descriptions": {
-  "short": "Darkly funny songwriting wrapped in classic late-70s rock.",
-  "medium": "Excitable Boy pairs catchy, radio-friendly arrangements with Warren Zevon’s razor-sharp lyrics and offbeat humor. A cult classic that balances wit, darkness, and undeniable hooks."
-}
-,
-      "price": 49.99,
+      "descriptions": {
+        "short": "Warren Zevon's 1978 breakthrough is dark comedy at its finest. His sharp wit and storytelling shine through tracks that are equal parts catchy and unsettling. If you're into songwriters who take risks, this one's essential.",
+        "medium": "The title track tells a disturbing story with an upbeat bounce, while 'Werewolves of London' became his biggest hit with that iconic piano riff. 'Roland the Headless Thompson Gunner' is a haunting tale of a mercenary's ghost seeking revenge\u2014Zevon at his most cinematic."
+      },
+      "price": 50.99,
       "quantity": 1,
       "isLimited": true,
       "limitedDetails": "",
       "isColored": true,
       "vinylColors": [
-  { "name": "Red", "hex": "#d30106", "note": "glow-in-the-dark" },
-  { "name": "White", "hex": "#d0ba9e", "note": "default color" }
-],
-"colorDisplay": {
-  "mode": "multiDisc", 
-  "discs": [
-    { "name": "Glow-in-the-dark color", "hex": "#d30106" },
-    { "name": "Default color", "hex": "#d0ba9e"}
-  ]
-},
+        {
+          "name": "Red",
+          "hex": "#d30106",
+          "note": "glow-in-the-dark"
+        },
+        {
+          "name": "White",
+          "hex": "#d0ba9e",
+          "note": "default color"
+        }
+      ],
+      "colorDisplay": {
+        "mode": "multiDisc",
+        "discs": [
+          {
+            "name": "Glow-in-the-dark color",
+            "hex": "#d30106"
+          },
+          {
+            "name": "Default color",
+            "hex": "#d0ba9e"
+          }
+        ]
+      },
       "status": "active",
       "sortWeight": 0,
       "createdAt": "2026-01-17",
@@ -85,7 +101,10 @@
       "catalogNo": "018771966715, 18771-9667-4",
       "artist": "Led Zeppelin",
       "title": "Led Zeppelin",
-      "genre":["Rock", "Blues Rock"],
+      "genre": [
+        "Rock",
+        "Blues Rock"
+      ],
       "labels": [
         "Atlantic"
       ],
@@ -98,24 +117,30 @@
       },
       "sealed": false,
       "descriptions": {
-  "short": "A thunderous debut that redefined what hard rock could be.",
-  "medium": "Led Zeppelin’s self-titled debut blends blues, folk, and sheer volume into a bold statement of intent. From heavy riffs to acoustic moments, it set the blueprint for rock in the decades that followed."
-}
-,
-      "price": 29.99,
+        "short": "This is where it all started. Led Zeppelin's 1969 debut took blues rock and cranked it to levels nobody had heard before. Heavy, raw, and dynamic\u2014it set the template for everything that followed.",
+        "medium": "'Good Times Bad Times' kicks things off with one of the most powerful drum intros ever recorded. 'Dazed and Confused' stretches out into psychedelic territory with Jimmy Page's violin bow theatrics, while 'Babe I'm Gonna Leave You' shows their softer, folk-influenced side."
+      },
+      "price": 30.99,
       "quantity": 1,
       "isLimited": false,
       "limitedDetails": "",
       "isColored": false,
-      "vinylColors":[
-        {"name": "Black", "hex": "#000000", "note": ""}
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
       ],
       "colorDisplay": {
-  "mode": "standardBlack", 
-  "discs": [
-    { "name": "Black", "hex": "#000000" }
-  ]
-},
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
       "status": "active",
       "soldAt": null,
       "sortWeight": 0,
@@ -124,8 +149,7 @@
         "cover": "/covers/ledzep_front.jpg",
         "back": "/covers/ledzep_back.jpg",
         "disc": "/covers/ledzep_disc_closeup.jpg",
-        "others": {
-        }
+        "others": {}
       }
     },
     {
@@ -140,7 +164,11 @@
       "catalogNo": "NXT 114-LP",
       "artist": "Benny The Butcher",
       "title": "The Plugs I Met II",
-      "genre": ["Hip-Hop", "Rap", "Underground Hip-Hop"],
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Underground Hip-Hop"
+      ],
       "labels": [
         "Black Soprano Family",
         "Griselda Records"
@@ -154,24 +182,30 @@
       },
       "sealed": false,
       "descriptions": {
-  "short": "Hard-hitting, modern street rap with a classic feel.",
-  "medium": "The Plugs I Met 2 continues Benny the Butcher’s gritty, uncompromising style, pairing sharp lyricism with soulful production. A concise, focused release that fits neatly into Griselda’s larger catalog."
-}
-,
-      "price": 29.99,
+        "short": "Benny the Butcher keeps it street-focused and uncompromising on this tight follow-up. His delivery is cold and calculated, the production soulful and heavy. If you're into Griselda's brand of gritty rap, this hits hard. B-Side is instrumentals only just in case you get inspired to spit a few bars after one playthrough.",
+        "medium": "As with the first installment, most tracks feature at least one guest appearance, adding extra layers to the gritty narratives. Production here is handled solely by Harry Fraud, a name who has become synonymous with high-quality, atmospheric beats. No Instructions is an eerie standout, showcasing Benny's storytelling prowess."
+      },
+      "price": 30.99,
       "quantity": 1,
       "isLimited": false,
       "limitedDetails": "",
       "isColored": false,
-     "vinylColors":[
-        {"name": "Black", "hex": "#000000", "note": ""}
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
       ],
       "colorDisplay": {
-  "mode": "standardBlack", 
-  "discs": [
-    { "name": "Black", "hex": "#000000" }
-  ]
-},
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
       "status": "active",
       "sortWeight": 0,
       "createdAt": "2026-01-17",
@@ -184,7 +218,7 @@
     },
     {
       "id": "discogs-19441717",
-      "spotify":{
+      "spotify": {
         "albumURL": "https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz?si=wJ5K09SxToS69LmGyKNSBw",
         "topSong": ""
       },
@@ -194,7 +228,11 @@
       "catalogNo": "DRW 105",
       "artist": "Conway The Machine",
       "title": "La Maquina",
-      "genre": ["Hip-Hop", "Rap", "Underground Hip-Hop"],
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Underground Hip-Hop"
+      ],
       "labels": [
         "de Rap Winkel Records"
       ],
@@ -202,31 +240,37 @@
       "year": 2021,
       "discogsReleaseId": 19441717,
       "condition": {
-        "media": "VG+",
+        "media": "NM-",
         "sleeve": "VG+"
       },
       "sealed": false,
       "descriptions": {
-  "short": "Dark, polished rap that balances grit and clarity.",
-  "medium": "La Maquina sharpens Conway the Machine’s sound, pairing his raw delivery with cleaner, more focused production. The result is a tense, deliberate record that rewards close listening."
-}
-,
-      "price": 59.99,
+        "short": "Conway sharpens his focus on La Maquina, trading raw aggression for a more refined sound. The production is crisp and intentional, giving his street tales extra weight. This one rewards close listening.",
+        "medium": "'Bruiser Brody' opens with a hard-hitting Daringer beat and vintage wrestling samples. 'Scatter Brain' featuring JID brings lyrical intensity over eerie production, while Had To Hustle (with El Camino and Shots) adds a smoother, more melodic touch to Conway's usual griminess."
+      },
+      "price": 60.99,
       "quantity": 1,
       "isLimited": true,
       "limitedDetails": "",
       "limitedNumber": 1,
       "limitedTotal": 1000,
       "isColored": true,
-      "vinylColors":[
-        {"name": "Lilac", "hex": "#a375ad", "note": ""}
+      "vinylColors": [
+        {
+          "name": "Lilac",
+          "hex": "#a375ad",
+          "note": ""
+        }
       ],
       "colorDisplay": {
-  "mode": "singleDisc", 
-  "discs": [
-    { "name": "Lilac", "hex": "#a375ad"}
-  ]
-},
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Lilac",
+            "hex": "#a375ad"
+          }
+        ]
+      },
       "status": "active",
       "sortWeight": 0,
       "createdAt": "2026-01-17",
@@ -235,331 +279,27 @@
         "cover": "/covers/maquina_cover.jpg",
         "back": "/covers/conway-6-la-maquina-19441717_back.jpg",
         "disc": "/covers/conway-6-la-maquina-19441717_disc.jpg",
-        "others":{
+        "others": {
           "closeup": "/covers/maquina_disc_closeup.jpg"
         }
       }
     },
     {
-      "id": "discogs-34261831",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/7sYQ2Mz4d68h6e3WMSDfH8?si=TNz29cfYTBGVBoMynF-tng",
-        "topSong": ""
-      },
-      "stripeProductId": "prod_Tm01iA6NTWxgLf",
-      "stripePriceId": "price_1SoS1dARP79DaMXlEguvyJpf",
-      "slug": "boldy-james-your-boy-posca-magnolia-leflore-34261831",
-      "catalogNo": "NMR136",
-      "artist": "Boldy James, Your Boy Posca",
-      "title": "Magnolia Leflore",
-      "genre":["Hip-Hop", "Rap", "Underground Hip-Hop"],
-      "labels": [
-        "Near Mint"
-      ],
-      "formatText": "LP, Album, Ltd, Num, Mar",
-      "year": 2025,
-      "discogsReleaseId": 34261831,
-      "condition": {
-        "media": "NM-",
-        "sleeve": "NM-"
-      },
-      "sealed": false,
-      "descriptions": {
-  "short": "Atmospheric, detail-rich rap built for late-night listening.",
-  "medium": "Magnolia Leflore pairs Boldy James’ understated delivery with moody, textured production. It’s a subtle, immersive record that rewards patience and attention."
-}
-,
-      "price": 74.99,
-      "quantity": 1,
-      "isLimited": true,
-      "limitedDetails": "Numbered gold foil stamp on the jacket.",
-      "limitedNumber": 1,
-      "limitedTotal": 200,
-      "isColored": true,
-      "vinylColors":[
-        {"name": "Maroon", "hex": "#a37567", "note": ""},
-        {"name": "Olive", "hex": "#719467", "note": ""}
-      ],
-      "colorDisplay": {
-        "mode": "blend",
-        "discs": [
-          {"name": "Maroon", "hex": "#a37567"},
-        {"name": "Olive", "hex": "#719467"}
-        ]
-      },
-      "status": "active",
-      "sortWeight": 0,
-      "createdAt": "2026-01-17",
-      "soldAt": null,
-      "images": {
-        "cover": "/covers/leflore_front.jpg",
-        "back": "/covers/leflore_back.jpg",
-        "disc": "/covers/leflore_disc.jpg",
-        "others": {}
-      }
-    },
-    {
-      "id": "discogs-4572010",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN?si=F31M--rpSZ-4fedkCGxsNw",
-        "topSong": ""
-      },
-      "stripeProductId": "prod_Tm0KZCLpLbio13",
-      "stripePriceId": "price_1SoSKHARP79DaMXl2e1DSRHv",
-      "slug": "the-smiths-the-smiths-4572010",
-      "catalogNo": "2564665880",
-      "artist": "The Smiths",
-      "title": "The Smiths",
-      "genre":["Jangle Pop", "Indie Pop", "Indie Rock"],
-      "labels": [
-        "Warner Music UK Ltd."
-      ],
-      "formatText": "LP, Album, RE",
-      "year": 2012,
-      "discogsReleaseId": 4572010,
-      "condition": {
-        "media": "M",
-        "sleeve": "M"
-      },
-      "sealed": true,
-      "descriptions": {
-  "short": "Melancholic, melodic indie rock with sharp lyrics.",
-  "medium": "The Smiths’ debut pairs jangly guitars with Morrissey’s distinctive vocals and wit. A foundational record for indie music that remains influential decades later."
-}
-,
-      "price": 29.99,
-      "quantity": 1,
-      "isLimited": false,
-      "limitedDetails": "",
-      "isColored": false,
-      "vinylColors":[
-        {"name": "Black", "hex": "#000000", "note": ""}
-      ],
-      "colorDisplay": {
-        "mode": "standardBlack",
-        "discs": [
-          {"name": "Black", "hex": "#000000"}
-        ]
-      },
-      "status": "active",
-      "sortWeight": 0,
-      "createdAt": "2026-01-17",
-      "soldAt": null,
-      "images": {
-        "cover": "/covers/smiths_front.jpg",
-        "back": "/covers/smiths_back.jpg",
-        "disc": "/covers/smiths_disc_closeup.jpg"
-      }
-    },
-{
-  "id": "discogs-27116274",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/0BRThmbAV1p2CxAuxgpHRj?si=JzgTSlQFQLaRlVdUjnDvIQ",
-    "topSong": ""
-  },
-  "stripeProductId": "prod_TnraaoGi4FpClK",
-  "stripePriceId": "price_1SqFqvARP79DaMXl6gXzqcrU",
-  "slug": "the-cure-galore-the-singles-1987-1997-27116274",
-  "catalogNo": "DUREC 46",
-  "artist": "The Cure",
-  "title": "Galore: The Singles 1987–1997",
-  "genre": ["Rock", "Alternative Rock", "Post-Punk"],
-  "labels": ["Fiction Records"],
-  "formatText": "Vinyl, LP, Compilation",
-  "year": 1997,
-  "discogsReleaseId": 27116274,
-  "condition": {
-    "media": "",
-    "sleeve": ""
-  },
-  "sealed": false,
-  "descriptions": {
-    "short": "Compilation of singles spanning a decade of The Cure’s iconic output.",
-    "medium": "Galore: The Singles 1987–1997 collects key singles from a pivotal decade for The Cure, showcasing their evolution from moody post-punk to lush alternative rock. Features fan favorites and career highlights from the band’s late 80s and 90s period."
-  },
-  "price": 59.99,
-  "quantity": 1,
-  "isLimited": true,
-  "limitedDetails": "",
-  "limitedRetailer": "",
-  "isColored": true,
-  "vinylColors": [{"name": "Blue / Forest Green?", "hex": "#448d8e", "note": ""},
-                  {"name": "Pink", "hex": "#915670", "note": ""}
-                ],
-  "colorDisplay": {
-    "mode": "multiDisc",
-    "discs": [{"name": "Blue / Forest Green?", "hex": "#448d8e", "note":""},
-              {"name": "Pink", "hex": "#915670", "note":""}
-  ]
-  },
-  "status": "active",
-  "sortWeight": 0,
-  "createdAt": "2026-01-17",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers/cure_front.jpg",
-    "back": "/covers/cure_back.jpg",
-    "disc": "/covers/cure_disc_blue.png",
-    "others": {"1": "/covers/cure_disc_pink.png"}
-  }
-},
-{
-  "id": "discogs-28547689",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy?si=eEOWEnR_Rv62pFpdxekbTw",
-    "topSong": ""
-  },
-  "stripeProductId": "prod_TnrcJRSTGLkv09",
-  "stripePriceId": "price_1SqFtHARP79DaMXlloKCbmtt",
-  "slug": "elliott-smith-either-or-28547689",
-  "catalogNo": "12025",
-  "artist": "Elliott Smith",
-  "title": "Either/Or",
-  "genre": ["Rock", "Indie Rock", "Alternative Rock"],
-  "labels": ["Kill Rock Stars"],
-  "formatText": "Vinyl, LP, Album, Reissue",
-  "year": 1997,
-  "discogsReleaseId": 28547689,
-  "condition": {
-    "media": "VG+",
-    "sleeve": "VG+"
-  },
-  "sealed": false,
-  "descriptions": {
-    "short": "Elliott Smith’s acclaimed indie classic blending melancholic lyricism with gentle melodies.",
-    "medium": "Either/Or stands as one of Elliott Smith’s most beloved records, combining introspective acoustic guitar, delicate arrangements, and deeply honest songwriting. A landmark in 90s indie rock, the album’s haunting beauty and emotional depth have resonated with fans and critics alike."
-  },
-  "price": 32.99,
-  "quantity": 1,
-  "isLimited": false,
-  "limitedDetails": "",
-  "limitedRetailer": "",
-  "isColored": false,
-  "vinylColors": [{"name":"Black", "hex":"#000000", "note": ""}],
-  "colorDisplay": {
-    "mode": "standardBlack",
-    "discs": [{"name":"Black", "hex": "#000000", "note": ""}]
-  },
-  "status": "active",
-  "sortWeight": 0,
-  "createdAt": "2026-01-17",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers/eitheror_front.jpg",
-    "back": "/covers/eitheror_back.jpg",
-    "disc": "/covers/eitheror_disc_1.jpg",
-    "others": {"1": "/covers/eitheror_disc_2.jpg"}
-  }
-},
-{
-  "id": "discogs-35209627",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC?si=8ZsFbXZvSI2BlBvsGmnZPg",
-    "topSong": ""
-  },
-  "stripeProductId": "prod_Tnres9Qt5EpbTF",
-  "stripePriceId": "price_1SqFuqARP79DaMXl6WdFqAcN",
-  "slug": "geese-getting-killed-35209627",
-  "catalogNo": "PTPS60LPX",
-  "artist": "Geese",
-  "title": "Getting Killed",
-  "genre": ["Rock", "Folk Rock", "Experimental", "Indie Rock"],
-  "labels": ["Partisan Records", "Play It Again Sam"],
-  "formatText": "Vinyl, LP, Album, Clear Vinyl",
-  "year": 2025,
-  "discogsReleaseId": 35209627,
-  "condition": {
-    "media": "NM-",
-    "sleeve": "NM-"
-  },
-  "sealed": false,
-  "descriptions": {
-    "short": "A bold and inventive indie rock statement from Geese’s 2025 album.",
-    "medium": "Getting Killed captures Geese’s restless, experimental rock energy with a blend of folk influences, sharp guitar interplay, and expressive songwriting that showcases why the band has become one of the most talked-about acts of their scene."
-  },
-  "price": 34.99,
-  "quantity": 1,
-  "isLimited": false,
-  "limitedDetails": "",
-  "limitedRetailer": "",
-  "isColored": true,
-  "vinylColors": [{"name": "Clear", "hex": "#cbc5c1", "note": ""}],
-  "colorDisplay": {
-    "mode": "singleDisc",
-    "discs": [{"name": "Clear", "hex": "#cbc5c1", "note": ""}]
-  },
-  "status": "active",
-  "sortWeight": 0,
-  "createdAt": "2026-01-17",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers/geese_front.jpg",
-    "back": "/covers/geese_back.jpg",
-    "disc": "/covers/geese_disc.jpg",
-    "others": {}
-  }
-},
-{
-  "id": "discogs-8541806",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=qBqG1bv8SuebX8V7hqzUkA",
-    "topSong": ""
-  },
-  "stripeProductId": "prod_TnrgqP5cxyIKLG",
-  "stripePriceId": "price_1SqFwrARP79DaMXlFvaax3sG",
-  "slug": "the-jimi-hendrix-experience-are-you-experienced-8541806",
-  "catalogNo": "RS 6385",
-  "artist": "The Jimi Hendrix Experience",
-  "title": "Are You Experienced",
-  "genre": ["Rock", "Psychedelic Rock", "Classic Rock"],
-  "labels": ["Track Records", "Reprise Records"],
-  "formatText": "Vinyl, LP, Album, Reissue",
-  "year": 1967,
-  "discogsReleaseId": 8541806,
-  "condition": {
-    "media": "VG+",
-    "sleeve": "VG+"
-  },
-  "sealed": false,
-  "descriptions": {
-    "short": "Genre-defining debut from Jimi Hendrix, blending rock, blues and psychedelic flair.",
-    "medium": "Are You Experienced is the explosive debut album from The Jimi Hendrix Experience, capturing Hendrix’s groundbreaking guitar work and innovative songwriting. A cornerstone of rock music, the record reshaped the sound of the late 1960s and influences generations of players and listeners alike."
-  },
-  "price": 29.99,
-  "quantity": 1,
-  "isLimited": false,
-  "limitedDetails": "",
-  "limitedRetailer": "",
-  "isColored": false,
-  "vinylColors": [{"name":"Black", "hex":"#000000", "note": ""}],
-  "colorDisplay": {
-    "mode": "standardBlack",
-    "discs": [{"name":"Black", "hex":"#000000", "note": ""}]
-  },
-  "status": "active",
-  "sortWeight": 0,
-  "createdAt": "2026-01-17",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers/jimi_front.jpg",
-    "back": "/covers/jimi_back.jpg",
-    "disc": "/covers/jimi_disc_1",
-    "others": {"1": "covers/jimi_disc_2"}
-  }
-},
-{
       "id": "discogs-29019493",
       "spotify": {
-        "albumURL": "https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT?si=8kIp188gQFWv4Z2i6T3yTg",
+        "albumURL": "https://open.spotify.com/album/5nDkHXfKXPEezNYQzBHXpu?si=kKSMQnMlQvuPsaALY-7QYA",
         "topSong": ""
       },
-      "stripeProductId": "prod_TlznjcsZ3Dvs8g",
-      "stripePriceId": "price_1SoRnaARP79DaMXlR4Y5whvo",
+      "stripeProductId": "prod_Tm0Q7gZ76XrJkP",
+      "stripePriceId": "price_1SoSQHARP79DaMXlk1qSXJqP",
       "slug": "trans-siberian-orchestra-christmas-eve-and-other-stories-29019493",
-      "catalogNo": "603497832675, RCDI 92736",
+      "catalogNo": "081227957629, R1 579576",
       "artist": "Trans-Siberian Orchestra",
       "title": "Christmas Eve And Other Stories",
-      "genre": ["Prog Rock", "Holiday"],
+      "genre": [
+        "Prog Rock",
+        "Holiday"
+      ],
       "labels": [
         "Atlantic",
         "Rhino Records (2)"
@@ -573,22 +313,28 @@
       },
       "sealed": false,
       "descriptions": {
-  "short": "A dramatic, rock-driven take on holiday music.",
-  "medium": "Christmas Eve and Other Stories combines orchestral arrangements, rock guitars, and a loose narrative to create a cinematic holiday experience. A modern seasonal staple with big sound and theatrical flair."
-}
-,
-      "price": 49.99,
+        "short": "Trans-Siberian Orchestra turned holiday music into a rock opera. This album is over-the-top in the best way\u2014orchestral, electric, and dramatic. Perfect for anyone who wants their Christmas music with more guitars and less Bing Crosby.",
+        "medium": "The album weaves a narrative through tracks like 'O Come All Ye Faithful/O Holy Night,' which builds from quiet reverence to full rock choir. 'Christmas Eve/Sarajevo 12/24' is their signature piece\u2014a mashup of 'God Rest Ye Merry Gentlemen' and 'Carol of the Bells' that's become a modern holiday classic."
+      },
+      "price": 50.99,
       "quantity": 1,
       "isLimited": true,
       "limitedDetails": "",
       "isColored": true,
       "vinylColors": [
-        {"name": "Clear", "hex": "#79786e", "note": ""}
+        {
+          "name": "Clear",
+          "hex": "#79786e",
+          "note": ""
+        }
       ],
       "colorDisplay": {
         "mode": "singleDisc",
-        "discs":[
-          {"name": "Clear", "hex": "#79786e"}
+        "discs": [
+          {
+            "name": "Clear",
+            "hex": "#79786e"
+          }
         ]
       },
       "status": "active",
@@ -600,167 +346,236 @@
         "back": "/covers/transib_back.jpg",
         "disc": "/covers/transib_disc.jpg",
         "others": {}
-    }},
-{
-  "id": "discogs-34817141",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop?si=YhGijdufRWSn8dXqiAfC_A",
-    "topSong": ""
-  },
-  "stripeProductId": "prod_Tnrj5sDlZS0LLZ",
-  "stripePriceId": "price_1SqG0OARP79DaMXlGNk5F1JQ",
-  "slug": "sabrina-carpenter-mans-best-friend-34817141",
-  "catalogNo": "602478338267",
-  "artist": "Sabrina Carpenter",
-  "title": "Man's Best Friend",
-  "genre": ["Pop"],
-  "labels": ["Island Records"],
-  "formatText": "Vinyl, LP, Album",
-  "year": 2025,
-  "discogsReleaseId": 34817141,
-  "condition": {
-    "media": "VG+",
-    "sleeve": "NM-"
-  },
-  "sealed": false,
-  "descriptions": {
-  "short": "Glossy, confident pop that leans playful and provocative while keeping a sharp, self-aware edge.",
-  "medium": "Man’s Best Friend sees Sabrina Carpenter leaning fully into polished, modern pop with a wink and a bite. The album balances flirtatious hooks, tongue-in-cheek lyricism, and sleek production, showcasing her growing confidence as both a vocalist and songwriter. It’s bright, catchy, and unapologetically fun, while still packing clever writing and a sense of control over the pop persona she’s built."
-},
-  "price": 32.99,
-  "quantity": 1,
-  "isLimited": true,
-  "limitedDetails": "Includes an 11in x 11in picture insert and a 17 1/2in x 8 3/4in poster.",
-  "limitedRetailer": "Target",
-  "isColored": true,
-  "vinylColors": [{"name": "Iridescent White", "hex": "#8f929b", "note": ""}],
-  "colorDisplay": {
-    "mode": "singleDisc",
-    "discs": [{"name": "Iridescent White", "hex": "#8f929b", "note": ""}]
-  },
-  "status": "active",
-  "sortWeight": 0,
-  "createdAt": "2026-01-17",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers/mbf_front.jpg",
-    "back": "/covers/mbf_back.jpg",
-    "disc": "/covers/mbf_disc.jpg",
-    "others": {"gatefold": "covers/mbf_gatefold.jpg"}
-        }
+      }
+    },
+    {
+      "id": "discogs-34817141",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop?si=YhGijdufRWSn8dXqiAfC_A",
+        "topSong": ""
       },
-{
-  "id": "discogs-35262241",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD?si=BDVBjy40QhmP5ZZiOdwEvQ",
-    "topSong": ""
-  },
-  "stripeProductId": "prod_Tnrl9Uhk3DFCRL",
-  "stripePriceId": "price_1SqG1nARP79DaMXl4l61sNXE",
-  "slug": "young-thug-uy-scuti-35262241",
-  "catalogNo": "YGMLP010",
-  "artist": "Young Thug",
-  "title": "Uy Scuti",
-  "genre": ["Hip-Hop", "Rap", "Trap"],
-  "labels": ["YSL Records", "300 Entertainment"],
-  "formatText": "Vinyl, LP, Album",
-  "year": 2024,
-  "discogsReleaseId": 35262241,
-  "condition": {
-    "media": "VG+",
-    "sleeve": "VG+"
-  },
-  "sealed": false,
-  "descriptions": {
-    "short": "Young Thug’s genre-blurring album blending trap, melody, and bold experimentation.",
-    "medium": "Uy Scuti is a standout record from Young Thug that showcases his eclectic style and boundary-pushing approach to modern hip hop. With a mix of hard-hitting tracks and melodic flourishes, the album reflects his dynamic range and artistic evolution."
-  },
-  "price": 49.99,
-  "quantity": 1,
-  "isLimited": false,
-  "limitedDetails": "",
-  "limitedRetailer": "",
-  "isColored": true,
-  "vinylColors": [{"name": "Silver", "hex": "#667f8e", "note": ""}],
-  "colorDisplay": {
-    "mode": "singleDisc",
-    "discs": [{"name": "Silver", "hex": "#667f8e", "note": ""}]
-  },
-  "status": "active",
-  "sortWeight": 0,
-  "createdAt": "2026-01-17",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers/scuti_front.jpg",
-    "back": "/covers/scuti_back.jpg",
-    "disc": "/covers/scuti_disc.jpg",
-    "others": {}
-  }
-},
-{
-  "id": "discogs-28794850",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/0onfcuwHGOWJKQIMkOCBh9?si=KchIPs18QTC-Oi9mAs2DhQ",
-    "topSong": ""
-  },
-  "stripeProductId": "prod_TnrmVz7HvqX3d6",
-  "stripePriceId": "price_1SqG3BARP79DaMXljt2Z0cSj",
-  "slug": "go-ichinose-hitomi-sato-hiromitsu-maeba-pokemon-legends-arceus-super-music-collection-28794850",
-  "catalogNo": "OVCP-0012",
-  "artist": "Go Ichinose / Hitomi Sato / Hiromitsu Maeba",
-  "title": "Pokémon Legends Arceus OST (Selected Tracks)",
-  "genre": ["Soundtrack", "Video Game Music"],
-  "labels": ["The Pokémon Company", "OVERLAP, Inc."],
-  "formatText": "4xCD, Album, Original Soundtrack",
-  "year": 2024,
-  "discogsReleaseId": 28794850,
-  "condition": {
-    "media": "VG+",
-    "sleeve": "NM-"
-  },
-  "sealed": false,
-  "descriptions": {
-  "short": "A curated selection of evocative music from Pokémon LEGENDS: Arceus, blending orchestral textures with adventurous themes.",
-  "medium": "This selected soundtrack from Pokémon LEGENDS: Arceus brings together memorable compositions that evoke the spirit of exploration and discovery in the ancient Sinnoh region. Featuring sweeping orchestral arrangements, atmospheric motifs, and thematic variations tied to key characters and environments, the Super Music Collection celebrates the game’s emotional and immersive musical identity in a single listening experience."
-},
-  "price": 59.99,
-  "quantity": 1,
-  "isLimited": false,
-  "limitedDetails": "Japan import",
-  "limitedRetailer": "",
-  "isColored": true,
-  "vinylColors": [{"name": "Blue / Green Pokeball Blend", "hex": "#03b3db", "note": ""},
-                  {"name": "Blue / Green Pokeball Blend (2)", "hex": "#01a555", "note": ""}                  
-],
-  "colorDisplay": {
-    "mode": "blend",
-    "discs": [{"name": "Blue / Green Pokeball Blend", "hex": "#03b3db", "note": ""},
-                  {"name": "Blue / Green Pokeball Blend (2)", "hex": "#01a555", "note": ""} ]
-  },
-  "status": "active",
-  "sortWeight": 0,
-  "createdAt": "2026-01-17",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers/arceus_front.jpg",
-    "back": "/covers/arceus_back.jpg",
-    "disc": "/covers/arceus_disc.jpg",
-    "others": {"1": "covers/arceus_insert.jpg"}
-  }
-},
+      "stripeProductId": "prod_Tnrj5sDlZS0LLZ",
+      "stripePriceId": "price_1SqG0OARP79DaMXlGNk5F1JQ",
+      "slug": "sabrina-carpenter-mans-best-friend-34817141",
+      "catalogNo": "602478338267",
+      "artist": "Sabrina Carpenter",
+      "title": "Man's Best Friend",
+      "genre": [
+        "Pop"
+      ],
+      "labels": [
+        "Island Records"
+      ],
+      "formatText": "Vinyl, LP, Album",
+      "year": 2025,
+      "discogsReleaseId": 34817141,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "NM-"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": 
+"Sabrina Carpenter leans into her playful, provocative side on Man's Best Friend. The production is sleek and confident, with hooks that stick. If you're into pop that knows exactly what it's doing, this one delivers. Production from Jack Antonoff of Bleachers throughout.",
+        "medium": "The album's best tracks, like Manchild and House Tour, showcase Carpenter's vocal control and self-aware lyricism. Tracks blend modern pop production with just enough edge to feel current without chasing trends. It's polished work from an artist who's found her lane."
+      },
+      "price": 33.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Includes an 11in x 11in picture insert and a 17 1/2in x 8 3/4in poster.",
+      "limitedRetailer": "Target",
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Iridescent White",
+          "hex": "#8f929b",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Iridescent White",
+            "hex": "#8f929b",
+            "note": ""
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/mbf_front.jpg",
+        "back": "/covers/mbf_back.jpg",
+        "disc": "/covers/mbf_disc.jpg",
+        "others": {
+          "gatefold": "covers/mbf_gatefold.jpg"
+        }
+      }
+    },
+    {
+      "id": "discogs-35262241",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD?si=BDVBjy40QhmP5ZZiOdwEvQ",
+        "topSong": ""
+      },
+      "stripeProductId": "prod_Tnrl9Uhk3DFCRL",
+      "stripePriceId": "price_1SqG1nARP79DaMXl4l61sNXE",
+      "slug": "young-thug-uy-scuti-35262241",
+      "catalogNo": "YGMLP010",
+      "artist": "Young Thug",
+      "title": "Uy Scuti",
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Trap"
+      ],
+      "labels": [
+        "YSL Records",
+        "300 Entertainment"
+      ],
+      "formatText": "Vinyl, LP, Album",
+      "year": 2024,
+      "discogsReleaseId": 35262241,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Young Thug blurs genre lines on Uy Scuti, mixing trap energy with melodic experimentation. His voice is an instrument here\u2014unpredictable and creative. This album shows why he's one of the most influential artists in modern rap.",
+        "medium": "Fucking Told U, Spit In My Mouth, and Mami are standout tracks. Features are not listed on back cover so surprise potential even if you've caught tastes of his most recent work."
+      },
+      "price": 50.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "limitedRetailer": "",
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Silver",
+          "hex": "#667f8e",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Silver",
+            "hex": "#667f8e",
+            "note": ""
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/scuti_front.jpg",
+        "back": "/covers/scuti_back.jpg",
+        "disc": "/covers/scuti_disc.jpg",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-28794850",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/0onfcuwHGOWJKQIMkOCBh9?si=KchIPs18QTC-Oi9mAs2DhQ",
+        "topSong": ""
+      },
+      "stripeProductId": "prod_TnrmVz7HvqX3d6",
+      "stripePriceId": "price_1SqG3BARP79DaMXljt2Z0cSj",
+      "slug": "go-ichinose-hitomi-sato-hiromitsu-maeba-pokemon-legends-arceus-super-music-collection-28794850",
+      "catalogNo": "OVCP-0012",
+      "artist": "Go Ichinose / Hitomi Sato / Hiromitsu Maeba",
+      "title": "Pok\u00e9mon Legends Arceus OST (Selected Tracks)",
+      "genre": [
+        "Soundtrack",
+        "Video Game Music"
+      ],
+      "labels": [
+        "The Pok\u00e9mon Company",
+        "OVERLAP, Inc."
+      ],
+      "formatText": "4xCD, Album, Original Soundtrack",
+      "year": 2024,
+      "discogsReleaseId": 28794850,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "NM-"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "The Pok\u00e9mon Legends: Arceus soundtrack captures the game's sense of adventure and mystery. Orchestral arrangements mix with traditional Japanese instruments for a sound that feels both epic and intimate. Perfect for video game music fans.",
+        "medium": "Tracks like 'Jubilife Village' create a warm, welcoming atmosphere with woodwinds and strings. This gorgeous pressing truly brings the sound of Hisui to your media room. Something to enjoy for fans of immersive, atmospheric soundscapes."
+      },
+      "price": 60.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "Japan import",
+      "limitedRetailer": "",
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Blue / Green Pokeball Blend",
+          "hex": "#03b3db",
+          "note": ""
+        },
+        {
+          "name": "Blue / Green Pokeball Blend (2)",
+          "hex": "#01a555",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "blend",
+        "discs": [
+          {
+            "name": "Blue / Green Pokeball Blend",
+            "hex": "#03b3db",
+            "note": ""
+          },
+          {
+            "name": "Blue / Green Pokeball Blend (2)",
+            "hex": "#01a555",
+            "note": ""
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-17",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers/arceus_front.jpg",
+        "back": "/covers/arceus_back.jpg",
+        "disc": "/covers/arceus_disc.jpg",
+        "others": {
+          "1": "covers/arceus_insert.jpg"
+        }
+      }
+    },
     {
       "id": "discogs-5466884",
       "spotify": {
         "albumURL": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt?si=RLzGGN6yR3KinK8EcynR5w",
         "topSong": ""
       },
-      "stripeProductId":"prod_Tm0Mhq62FjkvbH",
-      "stripePriceId":"price_1SoSM7ARP79DaMXlPvwVLwRa",
+      "stripeProductId": "prod_Tm0Mhq62FjkvbH",
+      "stripePriceId": "price_1SoSM7ARP79DaMXlPvwVLwRa",
       "slug": "etta-james-at-last-5466884",
       "catalogNo": "771824",
       "artist": "Etta James",
       "title": "At Last!",
-      "genre":["Soul", "Rhythm & Blues"],
+      "genre": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
       "labels": [
         "WaxTime"
       ],
@@ -773,31 +588,966 @@
       },
       "sealed": true,
       "descriptions": {
-  "short": "A timeless vocal jazz and soul classic.",
-  "medium": "At Last! features Etta James’ powerful voice front and center, delivering standards and ballads with emotion and grace. A cornerstone record in American popular music."
-}
-,
-      "price": 29.99,
+        "short": "Etta James' voice is the main event here. At Last! is a masterclass in vocal jazz and soul, full of emotion and restraint. This is essential listening for anyone who loves classic American music.",
+        "medium": "The title track 'At Last' is one of the most iconic love songs ever recorded, with Etta's voice soaring over lush strings. 'I Just Want to Make Love to You' brings blues grit, while 'Sunday Kind of Love' is tender and wistful."
+      },
+      "price": 30.99,
       "quantity": 1,
       "isLimited": true,
       "limitedDetails": "",
       "isColored": false,
-      "vinylColors":[
-        {"name": "Black", "hex": "#000000", "note": ""}
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
       ],
       "colorDisplay": {
         "mode": "standardBlack",
         "discs": [
-          {"name": "Black", "hex": "#000000"}
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
         ]
       },
       "status": "active",
       "soldAt": null,
+      "createdAt": "2026-01-17",
       "images": {
         "cover": "/covers/atlast_front.jpg",
         "back": "/covers/atlast_back.jpg",
         "disc": "/covers/atlast_disc_closeup.jpg"
       }
+    },
+    {
+      "id": "souls-of-mischief-93-til-infinity",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/5yHw65dRowpN4jGktek8lJ",
+        "topSong": ""
+      },
+      "slug": "souls-of-mischief-93-til-infinity",
+      "artist": "Souls of Mischief",
+      "title": "'93 til Infinity (O.G. 1993 PROMOTIONAL COPY)",
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Alternative Hip-Hop"
+      ],
+      "labels": [
+        "Jive"
+      ],
+      "formatText": "LP, Album, Promo",
+      "year": 1993,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "This is golden-era hip-hop at its purest. Souls of Mischief's debut is jazzy, laid-back, and lyrically sharp. The Hieroglyphics crew brought a West Coast alternative sound that still feels fresh decades later.",
+        "medium": "The title track '93 til Infinity' is one of the most iconic beats in hip-hop history\u2014smooth bass and Rhodes piano. The crew's rapid-fire lyricism shines, while 'Tell Me Who Profits' tackles social issues with intelligence."
+      },
+      "price": 45.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Promotional copy",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/souls93_front.jpg",
+        "back": "/covers/souls93_back.jpg",
+        "disc": "/covers/souls93_disc.jpg"
+      }
+    },
+    {
+      "id": "clipse-hell-hath-no-fury",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/7JCTK2OTwO4LRVYndZeVJ1",
+        "topSong": ""
+      },
+      "slug": "clipse-hell-hath-no-fury",
+      "artist": "Clipse",
+      "title": "Hell Hath No Fury",
+      "genre": [
+        "Hip-Hop",
+        "Rap"
+      ],
+      "labels": [
+        "Re-Up Records",
+        "Star Trak Entertainment",
+        "Jive"
+      ],
+      "formatText": "LP, Album",
+      "year": 2006,
+      "condition": {
+        "media": "M",
+        "sleeve": "M"
+      },
+      "sealed": true,
+      "descriptions": {
+        "short": "Clipse and The Neptunes created something stark and futuristic on Hell Hath No Fury. The production is minimal and cold, the lyrics precise and menacing. This is essential listening for anyone who appreciates rap as high art.",
+        "medium": "'We Got It for Cheap' opens with skeletal drums and eerie synths\u2014peak Neptunes minimalism. 'Wamp Wamp (What It Do)' is confrontational and hard-hitting, while 'Mr. Me Too' critiques rap copycats over sparse, otherworldly production."
+      },
+      "price": 55.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/clipse_front.jpg",
+        "back": "/covers/clipse_back.jpg",
+        "disc": "/covers/clipse_disc.jpg"
+      }
+    },
+    {
+      "id": "lil-wayne-tha-carter-iv",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp?si=M6T4BK3rR6SfszcQyUMh9w",
+        "topSong": ""
+      },
+      "slug": "lil-wayne-tha-carter-iv",
+      "artist": "Lil Wayne",
+      "title": "Tha Carter IV",
+      "genre": [
+        "Hip-Hop",
+        "Rap"
+      ],
+      "labels": [
+        "Cash Money Records",
+        "Young Money Entertainment",
+        "Universal"
+      ],
+      "formatText": "2xLP, Album",
+      "year": 2011,
+      "condition": {
+        "media": "NM+",
+        "sleeve": "NM+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Wayne was riding high when Tha Carter IV dropped, and it shows. The album balances radio hits with deeper album cuts, showcasing his technical skill and charisma. It's a snapshot of Wayne at his most commercially dominant.",
+        "medium": "'6 Foot 7 Foot' featuring Cory Gunz is pure bars over a Bangladesh beat that became unavoidable in 2011. 'Blunt Blowin' is Wayne in peak form over a Lex Luger-esque beat (actually produced by DVLP - who has writing credits on 'Rap God', while 'It's Good' with Drake and Jadakiss is a posse cut with heavy quotable lines."
+      },
+      "price": 40.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/carter4_front.jpg",
+        "back": "/covers/carter4_back.jpg",
+        "disc": "/covers/carter4_disc.jpeg"
+      }
+    },
+    {
+      "id": "jay-z-the-black-album",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO?si=N2GNLqNcTE-1beCNDv1KUw",
+        "topSong": ""
+      },
+      "slug": "jay-z-the-black-album",
+      "artist": "Jay-Z",
+      "title": "The Black Album",
+      "genre": [
+        "Hip-Hop",
+        "Rap"
+      ],
+      "labels": [
+        "Roc-A-Fella Records",
+        "Def Jam Recordings"
+      ],
+      "formatText": "2xLP, Album",
+      "year": 2003,
+      "condition": {
+        "media": "M",
+        "sleeve": "M"
+      },
+      "sealed": true,
+      "descriptions": {
+        "short": "Jay-Z billed this as his retirement album, and he went out swinging. Every beat is from a legend, every verse quotable. Whether or not you believed he'd actually retire, The Black Album delivers front to back.",
+        "medium": "'99 Problems' with Rick Rubin's rock-influenced production became a cultural phenomenon. 'Dirt Off Your Shoulder' is pure confidence over Timbaland's signature bounce, while 'Lucifer' with Kanye's pitched-up soul sample is dark and introspective."
+      },
+      "price": 48.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/blackalbum_front.jpg",
+        "back": "/covers/blackalbum_back.jpg",
+        "disc": "/covers/blackalbum_disc.jpg"
+      }
+    },
+    {
+      "id": "three-6-mafia-live-by-yo-rep",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/5Qjiv90Jq6ux1mKEru9Rq6?si=KT3LfBCnTtiSSunl4C63Cw",
+        "topSong": ""
+      },
+      "slug": "three-6-mafia-live-by-yo-rep",
+      "artist": "Three 6 Mafia",
+      "title": "Live by Yo Rep",
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Southern Hip-Hop"
+      ],
+      "labels": [
+        "Prophet Entertainment"
+      ],
+      "formatText": "LP, Album",
+      "year": 1994,
+      "condition": {
+        "media": "M",
+        "sleeve": "M"
+      },
+      "sealed": true,
+      "descriptions": {
+        "short": "Three 6 Mafia's early work is lo-fi, menacing, and influential. Live by Yo Rep captures the group in their rawest form\u2014dark production and aggressive delivery. This is foundational Memphis rap.",
+        "medium": "The title track sets the tone with haunting synths and chanted hooks. Gangsta Boo delivers a standout verse on 'Throw Your Sets In The Air,' showcasing her unique style and presence. Yellow lemonade vinyl is a fresh switch-up for a group that often releases blood-red discs."
+      },
+      "price": 50.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Lemonade yellow vinyl",
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Lemonade Yellow",
+          "hex": "#ffeb3b",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Lemonade Yellow",
+            "hex": "#ffeb3b"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/three6_front.jpg",
+        "back": "/covers/three6_back.jpg",
+        "disc": "/covers/three6_disc.jpg"
+      }
+    },
+    {
+      "id": "earl-sweatshirt-alchemist-voir-dire",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6?si=tUhkJ0OHTsmLpB7wGASa3A",
+        "topSong": ""
+      },
+      "slug": "earl-sweatshirt-alchemist-voir-dire",
+      "artist": "Earl Sweatshirt x The Alchemist",
+      "title": "Voir Dire",
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Abstract Hip-Hop"
+      ],
+      "labels": [
+        "Gala Records",
+        "ALC Records"
+      ],
+      "formatText": "LP, Album",
+      "year": 2023,
+      "condition": {
+        "media": "M",
+        "sleeve": "M"
+      },
+      "sealed": true,
+      "descriptions": {
+        "short": "Earl and Alchemist make a perfect match on Voir Dire. The production is lush and sample-heavy, Earl's bars dense and poetic. It's meditative, jazz-soaked hip-hop for late nights and deep listens.",
+        "medium": "'Vin Skully' opens with chopped soul samples and Earl's signature intricate wordplay. 'The Caliphate' features Vince Staples and is an unabashed banger, yet feels perfectly at home. Production from Uncle Al shines throughout."
+      },
+      "price": 45.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Silver vinyl",
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Silver",
+          "hex": "#c0c0c0",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Silver",
+            "hex": "#c0c0c0"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/voirdire_front.jpg",
+        "back": "/covers/voirdire_back.jpg",
+        "disc": "/covers/voirdire_disc.jpg"
+      }
+    },
+    {
+      "id": "tyler-the-creator-cherry-bomb",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In?si=iXJVru2VRDOtyon4xyylZA",
+        "topSong": ""
+      },
+      "slug": "tyler-the-creator-cherry-bomb",
+      "artist": "Tyler, the Creator",
+      "title": "Cherry Bomb",
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Alternative Hip-Hop"
+      ],
+      "labels": [
+        "Odd Future Records",
+        "Columbia"
+      ],
+      "formatText": "2xLP, Album",
+      "year": 2015,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Cherry Bomb finds Tyler experimenting aggressively with loud, abrasive production. It's chaotic and unpolished by design\u2014a transitional album that pushed boundaries. Love it or hate it, it's bold.",
+        "medium": "The title track 'Cherry Bomb' is intentionally blown-out and distorted, almost unlistenable in parts. 'Smuckers' featuring Kanye West and Lil Wayne is the standout with a dreamy beat and all-star verses, while '2Seater' is surprisingly melodic and smooth."
+      },
+      "price": 50.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Blue vinyl",
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Blue",
+          "hex": "#1e88e5",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Blue",
+            "hex": "#1e88e5"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/cherrybomb_front.jpg",
+        "back": "/covers/cherrybomb_back.jpg",
+        "disc": "/covers/cherrybomb_disc.jpg"
+      }
+    },
+    {
+      "id": "de-la-soul-stakes-is-high",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu?si=WL2SXshfTx2bE7as5MFBhQ",
+        "topSong": ""
+      },
+      "slug": "de-la-soul-stakes-is-high",
+      "artist": "De La Soul",
+      "title": "Stakes is High",
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Alternative Hip-Hop"
+      ],
+      "labels": [
+        "Tommy Boy"
+      ],
+      "formatText": "2xLP, Album",
+      "year": 1996,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "De La Soul matured on Stakes is High, trading playful samples for live instrumentation and social commentary. It's thoughtful, soulful hip-hop that pushed back against the commercial trends of the mid-90s.",
+        "medium": "The title track critiques the state of hip-hop with a somber tone and live bass. 'Itzsoweezee (HOT)' keeps things funky with a bouncing rhythm, while 'Brakes' showcases the group's storytelling ability over jazzy production."
+      },
+      "price": 40.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/stakes_front.jpg",
+        "back": "/covers/stakes_back.jpg",
+        "disc": "/covers/stakes_disc.jpg"
+      }
+    },
+    {
+      "id": "action-bronson-only-for-dolphins",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k?si=3R975klhT2a_OMS2FC1WQQ",
+        "topSong": ""
+      },
+      "slug": "action-bronson-only-for-dolphins",
+      "artist": "Action Bronson",
+      "title": "Only for Dolphins",
+      "genre": [
+        "Hip-Hop",
+        "Rap"
+      ],
+      "labels": [
+        "Loma Vista Recordings"
+      ],
+      "formatText": "LP, Album",
+      "year": 2020,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Action Bronson gets psychedelic and adventurous on Only for Dolphins. The production is colorful and eclectic, Bronson's bars equal parts food references and street tales. It's a fun, unpredictable listen.",
+        "medium": "'Capoeira' opens with hypnotic production and Bronson's rapid-fire flow. 'Latin Grammys' featuring Hologram is built around a dreamy sample and showcases Bronson's personality, while 'Sergio' is a reflection on his life and career over a stunning Alchemist beat."
+      },
+      "price": 33.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/dolphins_front.jpg",
+        "back": "/covers/dolphins_back.jpg",
+        "disc": "/covers/dolphins_disc.jpg"
+      }
+    },
+    {
+      "id": "biggie-life-after-death",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB?si=phB83g9kRBaZSV9IjhK_zg",
+        "topSong": ""
+      },
+      "slug": "biggie-life-after-death",
+      "artist": "The Notorious B.I.G.",
+      "title": "Life After Death",
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "East Coast Hip-Hop"
+      ],
+      "labels": [
+        "Bad Boy Records",
+        "Arista"
+      ],
+      "formatText": "4xLP, Album",
+      "year": 1997,
+      "condition": {
+        "media": "NM+",
+        "sleeve": "NM+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Biggie's double album is a victory lap and a farewell. Life After Death is sprawling, ambitious, and full of hits. It proved he could do street anthems and radio records with equal skill.",
+        "medium": "'Hypnotize' is pure hit-making -- unfortunately [REDACTED] is all over Biggie's final statement, but that's history as it happened. 'Mo Money Mo Problems' became one of the biggest songs of 1997 with its Diana Ross sample, while 'Kick in the Door' is raw, aggressive Biggie over hard drums. STICKER AND SHRINK WRAP NOT INCLUDED."
+      },
+      "price": 50.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/biggie_front.jpg",
+        "back": "/covers/biggie_back.jpg",
+        "disc": "/covers/biggie_disc.jpg"
+      }
+    },
+    {
+      "id": "conway-big-ghost-if-it-bleeds",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/6xegQVK4FefeN720gDDFKe?si=eBYOED-uS7GCA6xF9-KYdw",
+        "topSong": ""
+      },
+      "slug": "conway-big-ghost-if-it-bleeds",
+      "artist": "Conway The Machine x Big Ghost Ltd",
+      "title": "If It Bleeds It Can Be Killed",
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Underground Hip-Hop"
+      ],
+      "labels": [
+        "Tuff Kong Records"
+      ],
+      "formatText": "LP, Album, Ltd, Picture Disc, Num",
+      "year": 2021,
+      "condition": {
+        "media": "M",
+        "sleeve": "M"
+      },
+      "sealed": true,
+      "descriptions": {
+        "short": "This is top-tier Griselda material. Conway's delivery is ice-cold, Big Ghost Ltd's production dusty and hard-hitting. It's a short, focused project that doesn't waste a second. Cassette also available as bundle or solo deal  -- reach out for details!",
+        "medium": "'Commencement' sets the tone with menacing production and an unflinching spoken word introduction. 'Way We Move' keeps the energy intense with hard-hitting vocals and grimy drums, while 'Highly Praised' takes Conway's bars and pairs them with Big Ghost's heavenly production over a choir sample."
+      },
+      "price": 210.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Picture disc numbered 1/50 with cassette tape included",
+      "limitedNumber": 1,
+      "limitedTotal": 50,
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Picture Disc",
+          "hex": "#666666",
+          "note": "Limited picture disc"
+        }
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Picture Disc (1/50)",
+            "hex": "#666666"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/ifitbleeds_front.jpg",
+        "back": "/covers/ifitbleeds_back.jpg",
+        "disc": "/covers/ifitbleeds_disc.jpg"
+      }
+    },
+    {
+      "id": "the-national-bundle",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs?si=xHfo5--kQFCgqpYJHCL7Gg",
+        "topSong": ""
+      },
+      "slug": "the-national-bundle",
+      "artist": "The National",
+      "title": "Bundle: Alligator + Boxer + High Violet",
+      "genre": [
+        "Indie",
+        "Alternative",
+        "Indie Rock"
+      ],
+      "labels": [
+        "Beggars Banquet",
+        "4AD"
+      ],
+      "formatText": "3x LP, Album Bundle",
+      "year": 2010,
+      "condition": {
+        "media": "VG+/NM-",
+        "sleeve": "VG+/NM-"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "This bundle captures The National's evolution from indie darlings to festival headliners. Matt Berninger's baritone voice and the band's layered instrumentation create a moody, literary sound. Essential for indie rock fans.",
+        "medium": "Alligator's 'Mr. November' is a live show staple with its driving rhythm. Boxer's 'Fake Empire' opens with hypnotic piano and became their breakthrough, while High Violet's 'Bloodbuzz Ohio' is anthemic and melancholic. Often referred to as the 'divine trilogy' for fans of their brand of indie rock. Hard to argue it ever got this consistent again post 2010. (yes, Sleep Well Beast in 2017 had incredible highs but also tough misses.) Ultimately, it's a matter of opinion. As for facts, these three are the only National albums in inventory at present"
+      },
+      "price": 100.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/thenational_bundle_front.jpg",
+        "back": "/covers/thenational_bundle_back.jpg",
+        "disc": "/covers/thenational_bundle_disc.jpg"
+      }
+    },
+    {
+      "id": "new-order-power-corruption-lies",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ?si=9V-AeXhCRyaypBokMMEJcQ",
+        "topSong": ""
+      },
+      "slug": "new-order-power-corruption-lies",
+      "artist": "New Order",
+      "title": "Power, Corruption & Lies",
+      "genre": [
+        "Indie",
+        "Alternative",
+        "New Wave",
+        "Post-Punk"
+      ],
+      "labels": [
+        "Factory",
+        "Qwest Records"
+      ],
+      "formatText": "LP, Album",
+      "year": 1983,
+      "condition": {
+        "media": "NM-",
+        "sleeve": "NM-"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "New Order found their footing on this 1983 album, moving beyond Joy Division's shadow into electronic experimentation. It's a bridge between post-punk darkness and dance-floor euphoria.",
+        "medium": "'Age of Consent' opens with one of the band's most iconic guitar riffs and propulsive drums. 'Your Silent Face' is atmospheric and emotional, featuring synths and Bernard Sumner's distant vocals, while '5 8 6' is pure dance-floor energy."
+      },
+      "price": 30.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/neworder_power_front.jpg",
+        "back": "/covers/neworder_power_back.jpg",
+        "disc": "/covers/neworder_power_disc.jpg"
+      }
+    },
+    {
+      "id": "new-order-brotherhood",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/4u8Ys5euKiHfYuFeSrPFao?si=bOBYXAD2RA2JMk8RNJrHSw",
+        "topSong": ""
+      },
+      "slug": "new-order-brotherhood",
+      "artist": "New Order",
+      "title": "Brotherhood",
+      "genre": [
+        "Indie",
+        "Alternative",
+        "New Wave",
+        "Synth-pop"
+      ],
+      "labels": [
+        "Factory",
+        "Qwest Records"
+      ],
+      "formatText": "LP, Album",
+      "year": 1986,
+      "condition": {
+        "media": "NM-",
+        "sleeve": "NM-"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Brotherhood finds New Order balancing their electronic and rock sides. Half the album leans into synth-pop, the other half into guitar-driven songs. It's a snapshot of the band at a creative crossroads.",
+        "medium": "'Bizarre Love Triangle' is their most enduring pop song with its irresistible synth hook. 'Angel Dust' brings more rock energy with driving guitars, while 'Every Little Counts' showcases their ability to craft melancholic, atmospheric tracks."
+      },
+      "price": 30.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/neworder_brotherhood_front.jpg",
+        "back": "/covers/neworder_brotherhood_back.jpg",
+        "disc": "/covers/neworder_brotherhood_disc.jpg"
+      }
+    },
+    {
+      "id": "joy-division-love-will-tear-us-apart",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G?si=gmtzqTrXTtq5JYCcSAnQkw",
+        "topSong": ""
+      },
+      "slug": "joy-division-love-will-tear-us-apart",
+      "artist": "Joy Division",
+      "title": "Love Will Tear Us Apart",
+      "genre": [
+        "Indie",
+        "Alternative",
+        "Post-Punk"
+      ],
+      "labels": [
+        "Factory"
+      ],
+      "formatText": "7\", Single",
+      "year": 1980,
+      "condition": {
+        "media": "M",
+        "sleeve": "M"
+      },
+      "sealed": true,
+      "descriptions": {
+        "short": "This is one of the most iconic singles in post-punk history. Ian Curtis's haunting vocals over the shimmering synth line create something timeless. If you only own one Joy Division record, make it this one.",
+        "medium": "The A-side 'Love Will Tear Us Apart' is the definitive version of Joy Division's sound\u2014emotional, precise, and devastating. The B-sides vary by pressing but often include tracks like 'These Days' which showcase the band's more experimental, atmospheric side."
+      },
+      "price": 36.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/joydivision_single_front.jpg",
+        "back": "/covers/joydivision_single_back.jpg",
+        "disc": "/covers/joydivision_single_disc.jpg"
+      }
+    },
+    {
+      "id": "chi-lites-best-of",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/4inpIR7WJzJEGAay1kAZ3s?si=2oIBZ7OSTH6R9PEOV1aiig",
+        "topSong": ""
+      },
+      "slug": "chi-lites-best-of",
+      "artist": "The Chi-Lites",
+      "title": "The Best Of The Chi-Lites",
+      "genre": [
+        "Soul",
+        "R&B",
+        "Funk"
+      ],
+      "labels": [
+        "Brunswick"
+      ],
+      "formatText": "LP, Compilation",
+      "year": 1973,
+      "condition": {
+        "media": "VG",
+        "sleeve": "VG"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "The Chi-Lites' smooth harmonies and sophisticated arrangements defined early '70s soul. This compilation captures their best work, including songs that have been sampled countless times in hip-hop.",
+        "medium": "'Oh Girl' is their signature ballad\u2014tender and beautifully arranged with lush strings. Besides serving as a 'Have you seen the Sopranos?' filter, there's also great music here. 'Have You Seen Her' tells a heartbreak story with genuine emotion, while 'Stoned Out of My Mind' grooves with a psychedelic soul edge. A hit's a hit, and the Chi-Lites have plenty."
+      },
+      "price": 19.99,
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers/chilites_front.jpg",
+        "back": "/covers/chilites_back.jpg",
+        "disc": "/covers/chilites_disc.jpg"
+      }
     }
   ]
-} 
+}
