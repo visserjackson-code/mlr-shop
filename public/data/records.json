@@ -81,11 +81,11 @@
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
-        "cover": "/covers/excitableboy_front.jpg",
-        "back": "/covers/excitableboy_back.jpg",
-        "disc": "/covers/excitableboy_disc_glow.jpg",
+        "cover": "/covers-optimized/excitableboy_front.webp",
+        "back": "/covers-optimized/excitableboy_back.webp",
+        "disc": "/covers-optimized/excitableboy_disc_glow.webp",
         "others": {
-          "1": "/covers/excitableboy_disc_noglow.jpg"
+          "1": "/covers-optimized/excitableboy_disc_noglow.webp"
         }
       }
     },
@@ -146,9 +146,9 @@
       "sortWeight": 0,
       "createdAt": "2026-01-17",
       "images": {
-        "cover": "/covers/ledzep_front.jpg",
-        "back": "/covers/ledzep_back.jpg",
-        "disc": "/covers/ledzep_disc_closeup.jpg",
+        "cover": "/covers-optimized/ledzep_front.webp",
+        "back": "/covers-optimized/ledzep_back.webp",
+        "disc": "/covers-optimized/ledzep_disc_closeup.webp",
         "others": {}
       }
     },
@@ -211,9 +211,9 @@
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
-        "cover": "/covers/plugs2_front.jpg",
-        "back": "/covers/plugs2_back.jpg",
-        "disc": "/covers/plugs2_disc.jpg"
+        "cover": "/covers-optimized/plugs2_front.webp",
+        "back": "/covers-optimized/plugs2_back.webp",
+        "disc": "/covers-optimized/plugs2_disc.webp"
       }
     },
     {
@@ -276,11 +276,11 @@
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
-        "cover": "/covers/maquina_cover.jpg",
-        "back": "/covers/conway-6-la-maquina-19441717_back.jpg",
-        "disc": "/covers/conway-6-la-maquina-19441717_disc.jpg",
+        "cover": "/covers-optimized/maquina_cover.webp",
+        "back": "/covers-optimized/conway-6-la-maquina-19441717_back.webp",
+        "disc": "/covers-optimized/conway-6-la-maquina-19441717_disc.webp",
         "others": {
-          "closeup": "/covers/maquina_disc_closeup.jpg"
+          "closeup": "/covers-optimized/maquina_disc_closeup.webp"
         }
       }
     },
@@ -342,9 +342,9 @@
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
-        "cover": "/covers/transib_front.jpg",
-        "back": "/covers/transib_back.jpg",
-        "disc": "/covers/transib_disc.jpg",
+        "cover": "/covers-optimized/transib_front.webp",
+        "back": "/covers-optimized/transib_back.webp",
+        "disc": "/covers-optimized/transib_disc.webp",
         "others": {}
       }
     },
@@ -375,8 +375,7 @@
       },
       "sealed": false,
       "descriptions": {
-        "short": 
-"Sabrina Carpenter leans into her playful, provocative side on Man's Best Friend. The production is sleek and confident, with hooks that stick. If you're into pop that knows exactly what it's doing, this one delivers. Production from Jack Antonoff of Bleachers throughout.",
+        "short": "Sabrina Carpenter leans into her playful, provocative side on Man's Best Friend. The production is sleek and confident, with hooks that stick. If you're into pop that knows exactly what it's doing, this one delivers. Production from Jack Antonoff of Bleachers throughout.",
         "medium": "The album's best tracks, like Manchild and House Tour, showcase Carpenter's vocal control and self-aware lyricism. Tracks blend modern pop production with just enough edge to feel current without chasing trends. It's polished work from an artist who's found her lane."
       },
       "price": 33.99,
@@ -407,11 +406,11 @@
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
-        "cover": "/covers/mbf_front.jpg",
-        "back": "/covers/mbf_back.jpg",
-        "disc": "/covers/mbf_disc.jpg",
+        "cover": "/covers-optimized/mbf_front.webp",
+        "back": "/covers-optimized/mbf_back.webp",
+        "disc": "/covers-optimized/mbf_disc.webp",
         "others": {
-          "gatefold": "covers/mbf_gatefold.jpg"
+          "gatefold": "/covers-optimized/mbf_gatefold.webp"
         }
       }
     },
@@ -476,9 +475,9 @@
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
-        "cover": "/covers/scuti_front.jpg",
-        "back": "/covers/scuti_back.jpg",
-        "disc": "/covers/scuti_disc.jpg",
+        "cover": "/covers-optimized/scuti_front.webp",
+        "back": "/covers-optimized/scuti_back.webp",
+        "disc": "/covers-optimized/scuti_disc.webp",
         "others": {}
       }
     },
@@ -552,11 +551,11 @@
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
-        "cover": "/covers/arceus_front.jpg",
-        "back": "/covers/arceus_back.jpg",
-        "disc": "/covers/arceus_disc.jpg",
+        "cover": "/covers-optimized/arceus_front.webp",
+        "back": "/covers-optimized/arceus_back.webp",
+        "disc": "/covers-optimized/arceus_disc.webp",
         "others": {
-          "1": "covers/arceus_insert.jpg"
+          "1": "/covers-optimized/arceus_insert.webp"
         }
       }
     },
@@ -616,9 +615,9 @@
       "soldAt": null,
       "createdAt": "2026-01-17",
       "images": {
-        "cover": "/covers/atlast_front.jpg",
-        "back": "/covers/atlast_back.jpg",
-        "disc": "/covers/atlast_disc_closeup.jpg"
+        "cover": "/covers-optimized/atlast_front.webp",
+        "back": "/covers-optimized/atlast_back.webp",
+        "disc": "/covers-optimized/atlast_disc_closeup.webp"
       }
     },
     {
@@ -674,9 +673,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/souls93_front.jpg",
-        "back": "/covers/souls93_back.jpg",
-        "disc": "/covers/souls93_disc.jpg"
+        "cover": "/covers-optimized/souls93_front.webp",
+        "back": "/covers-optimized/souls93_back.webp",
+        "disc": "/covers-optimized/souls93_disc.webp"
       }
     },
     {
@@ -732,9 +731,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/clipse_front.jpg",
-        "back": "/covers/clipse_back.jpg",
-        "disc": "/covers/clipse_disc.jpg"
+        "cover": "/covers-optimized/clipse_front.webp",
+        "back": "/covers-optimized/clipse_back.webp",
+        "disc": "/covers-optimized/clipse_disc.webp"
       }
     },
     {
@@ -790,9 +789,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/carter4_front.jpg",
-        "back": "/covers/carter4_back.jpg",
-        "disc": "/covers/carter4_disc.jpeg"
+        "cover": "/covers-optimized/carter4_front.webp",
+        "back": "/covers-optimized/carter4_back.webp",
+        "disc": "/covers-optimized/carter4_disc.webp"
       }
     },
     {
@@ -847,9 +846,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/blackalbum_front.jpg",
-        "back": "/covers/blackalbum_back.jpg",
-        "disc": "/covers/blackalbum_disc.jpg"
+        "cover": "/covers-optimized/blackalbum_front.webp",
+        "back": "/covers-optimized/blackalbum_back.webp",
+        "disc": "/covers-optimized/blackalbum_disc.webp"
       }
     },
     {
@@ -905,9 +904,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/three6_front.jpg",
-        "back": "/covers/three6_back.jpg",
-        "disc": "/covers/three6_disc.jpg"
+        "cover": "/covers-optimized/three6_front.webp",
+        "back": "/covers-optimized/three6_back.webp",
+        "disc": "/covers-optimized/three6_disc.webp"
       }
     },
     {
@@ -964,9 +963,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/voirdire_front.jpg",
-        "back": "/covers/voirdire_back.jpg",
-        "disc": "/covers/voirdire_disc.jpg"
+        "cover": "/covers-optimized/voirdire_front.webp",
+        "back": "/covers-optimized/voirdire_back.webp",
+        "disc": "/covers-optimized/voirdire_disc.webp"
       }
     },
     {
@@ -1023,9 +1022,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/cherrybomb_front.jpg",
-        "back": "/covers/cherrybomb_back.jpg",
-        "disc": "/covers/cherrybomb_disc.jpg"
+        "cover": "/covers-optimized/cherrybomb_front.webp",
+        "back": "/covers-optimized/cherrybomb_back.webp",
+        "disc": "/covers-optimized/cherrybomb_disc.webp"
       }
     },
     {
@@ -1080,9 +1079,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/stakes_front.jpg",
-        "back": "/covers/stakes_back.jpg",
-        "disc": "/covers/stakes_disc.jpg"
+        "cover": "/covers-optimized/stakes_front.webp",
+        "back": "/covers-optimized/stakes_back.webp",
+        "disc": "/covers-optimized/stakes_disc.webp"
       }
     },
     {
@@ -1136,9 +1135,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/dolphins_front.jpg",
-        "back": "/covers/dolphins_back.jpg",
-        "disc": "/covers/dolphins_disc.jpg"
+        "cover": "/covers-optimized/dolphins_front.webp",
+        "back": "/covers-optimized/dolphins_back.webp",
+        "disc": "/covers-optimized/dolphins_disc.webp"
       }
     },
     {
@@ -1194,9 +1193,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/biggie_front.jpg",
-        "back": "/covers/biggie_back.jpg",
-        "disc": "/covers/biggie_disc.jpg"
+        "cover": "/covers-optimized/biggie_front.webp",
+        "back": "/covers-optimized/biggie_back.webp",
+        "disc": "/covers-optimized/biggie_disc.webp"
       }
     },
     {
@@ -1254,9 +1253,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/ifitbleeds_front.jpg",
-        "back": "/covers/ifitbleeds_back.jpg",
-        "disc": "/covers/ifitbleeds_disc.jpg"
+        "cover": "/covers-optimized/ifitbleeds_front.webp",
+        "back": "/covers-optimized/ifitbleeds_back.webp",
+        "disc": "/covers-optimized/ifitbleeds_disc.webp"
       }
     },
     {
@@ -1312,9 +1311,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/thenational_bundle_front.jpg",
-        "back": "/covers/thenational_bundle_back.jpg",
-        "disc": "/covers/thenational_bundle_disc.jpg"
+        "cover": "/covers-optimized/thenational_bundle_front.webp",
+        "back": "/covers-optimized/thenational_bundle_back.webp",
+        "disc": "/covers-optimized/thenational_bundle_disc.webp"
       }
     },
     {
@@ -1371,9 +1370,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/neworder_power_front.jpg",
-        "back": "/covers/neworder_power_back.jpg",
-        "disc": "/covers/neworder_power_disc.jpg"
+        "cover": "/covers-optimized/neworder_power_front.webp",
+        "back": "/covers-optimized/neworder_power_back.webp",
+        "disc": "/covers-optimized/neworder_power_disc.webp"
       }
     },
     {
@@ -1430,9 +1429,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/neworder_brotherhood_front.jpg",
-        "back": "/covers/neworder_brotherhood_back.jpg",
-        "disc": "/covers/neworder_brotherhood_disc.jpg"
+        "cover": "/covers-optimized/neworder_brotherhood_front.webp",
+        "back": "/covers-optimized/neworder_brotherhood_back.webp",
+        "disc": "/covers-optimized/neworder_brotherhood_disc.webp"
       }
     },
     {
@@ -1487,9 +1486,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/joydivision_single_front.jpg",
-        "back": "/covers/joydivision_single_back.jpg",
-        "disc": "/covers/joydivision_single_disc.jpg"
+        "cover": "/covers-optimized/joydivision_single_front.webp",
+        "back": "/covers-optimized/joydivision_single_back.webp",
+        "disc": "/covers-optimized/joydivision_single_disc.webp"
       }
     },
     {
@@ -1544,9 +1543,9 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers/chilites_front.jpg",
-        "back": "/covers/chilites_back.jpg",
-        "disc": "/covers/chilites_disc.jpg"
+        "cover": "/covers-optimized/chilites_front.webp",
+        "back": "/covers-optimized/chilites_back.webp",
+        "disc": "/covers-optimized/chilites_disc.webp"
       }
     }
   ]

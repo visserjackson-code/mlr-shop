@@ -3,8 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const archiver = require('archiver');
 
-const inputDir = path.join(__dirname, '../public/data/covers');
-const outputDir = path.join(__dirname, '../public/data/covers-optimized');
+const inputDir = path.join(__dirname, '../public/covers');
+const outputDir = path.join(__dirname, '../public/covers-optimized');
 const backupDir = path.join(__dirname, '../backups');
 
 // Create backup
@@ -40,27 +40,30 @@ async function optimizeImages() {
     fs.mkdirSync(outputDir, { recursive: true });
   }
 
-  const files = fs.readdirSync(inputDir).filter(file => 
-    /\.(jpg|jpeg|png)$/i.test(file)
-  );
+  const allFiles = fs.readdirSync(inputDir);
+  const files = allFiles.filter(file => {
+    const ext = path.extname(file).toLowerCase();
+    return ext === '.jpg' || ext === '.jpeg' || ext === '.png';
+  });
 
-  console.log(`\nConverting ${files.length} images...`);
+  console.log(`\nFound ${files.length} images to convert...`);
 
   await Promise.all(
     files.map(async (file) => {
       const inputPath = path.join(inputDir, file);
-      const outputPath = path.join(outputDir, file.replace(/\.(jpg|jpeg|png)$/i, '.webp'));
+      const baseName = path.basename(file, path.extname(file));
+      const outputPath = path.join(outputDir, `${baseName}.webp`);
       
       await sharp(inputPath)
         .resize(800, 800, { fit: 'inside', withoutEnlargement: true })
         .webp({ quality: 85 })
         .toFile(outputPath);
       
-      console.log(`✓ ${file}`);
+      console.log(`✓ ${file} → ${baseName}.webp`);
     })
   );
 
-  console.log('\nDone! Images saved to public/data/covers-optimized');
+  console.log('\nDone! Images saved to public/covers-optimized');
 }
 
 // Run both
