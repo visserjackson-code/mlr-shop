@@ -365,7 +365,7 @@ function AboutPage() {
     <div style={{
       maxWidth: '800px',
       margin: '0 auto',
-      padding: '90px 30px'
+      padding: '90px 0px'
     }}>
       <h1 style={{
         fontSize: '3rem',
@@ -381,7 +381,8 @@ function AboutPage() {
       <div style={{
         fontSize: '1.1rem',
         lineHeight: '2.1',
-        color: '#333'
+        color: '#333',
+        paddingBottom: '30px'
       }}>
         <p style={{ marginBottom: '20px' }}>
 Most Likely Records is a curated vinyl shop run by me,
@@ -820,14 +821,14 @@ function SpotifyEmbed({ albumURL }) {
       height: '352px'
     }}>
       <iframe
-        src={embedURL}
-        width="100%"
-        height="352"
-        frameBorder="0"
-        allow="encrypted-media"
-        title="Spotify Player"
-        style={{ display: 'block' }}
-      />
+  src={embedURL}
+  width="100%"
+  height={window.innerWidth < 768 ? "250" : "352"}
+  frameBorder="0"
+  allow="encrypted-media"
+  title="Spotify Player"
+  style={{ display: 'block', minWidth: '100%' }}
+/>
     </div>
   );
 }
@@ -855,22 +856,23 @@ function RecordModal({ record, onClose }) {
         alignItems: 'center',
         justifyContent: 'center',
         zIndex: 1000,
-        padding: '20px',
+        padding: window.innerWidth < 768 ? '15px' : '40px',
         overflowY: 'auto'
       }}
     >
       <div
-        onClick={e => e.stopPropagation()}
-        style={{
-          backgroundColor: colors.white,
-          maxWidth: '1000px',
-          width: '100%',
-          maxHeight: '90vh',
-          overflowY: 'auto',
-          border: `4px solid ${colors.black}`,
-          position: 'relative'
-        }}
-      >
+  onClick={e => e.stopPropagation()}
+  style={{
+    backgroundColor: colors.white,
+    maxWidth: window.innerWidth < 768 ? '95vw' : '1000px',
+    width: '100%',
+    maxHeight: '90vh',
+    overflowY: 'auto',
+    border: `4px solid ${colors.black}`,
+    position: 'relative',
+    margin: window.innerWidth < 768 ? '10px' : '0'
+  }}
+>
         <button
           onClick={onClose}
           style={{
@@ -894,7 +896,7 @@ function RecordModal({ record, onClose }) {
           ×
         </button>
 
-        <div style={{ padding: '10px' }}>
+        <div style={{ padding: window.innerWidth < 768 ? '20px' : '40px' }}>
           <div style={{
   display: 'grid',
   gridTemplateColumns: window.innerWidth < 768 ? '1fr' : '1fr 1fr',
@@ -950,10 +952,10 @@ function RecordModal({ record, onClose }) {
               </div>
 
               <p style={{
-                fontSize: '1rem',
-                lineHeight: '1.6',
-                color: '#333'
-              }}>
+  fontSize: window.innerWidth < 768 ? '0.9rem' : '1rem',
+  lineHeight: '1.6',
+  color: '#333'
+}}>
                 {record.descriptions?.short || record.description || ''}
               </p>
             </div>
@@ -962,8 +964,9 @@ function RecordModal({ record, onClose }) {
           <div style={{
   display: 'grid',
   gridTemplateColumns: window.innerWidth < 768 ? '1fr' : '1fr 1fr',
-  gap: '20px',
-  marginBottom: '30px'
+  gap: window.innerWidth < 768 ? '15px' : '20px',
+  marginBottom: '30px',
+  padding: window.innerWidth < 768 ? '0 5px' : '0'
 }}>
             {record.descriptions?.medium && (
               <div style={{
@@ -982,7 +985,7 @@ function RecordModal({ record, onClose }) {
           </div>
 
           <div style={{
-            padding: '30px',
+            padding: '2rem',
             backgroundColor: colors.turquoise,
             border: `4px solid ${colors.black}`,
             textAlign: 'center'
@@ -999,19 +1002,20 @@ function RecordModal({ record, onClose }) {
             </h3>
 
             <div style={{
-              backgroundColor: colors.white,
-              border: `3px solid ${colors.black}`,
-              padding: '16px',
-              display: 'inline-block',
-              marginBottom: '20px'
+              padding: window.innerWidth < 768 ? '20px' : '30px',
+              backgroundColor: colors.turquoise,
+              border: `4px solid ${colors.black}`,
+              textAlign: 'center',
+              margin: window.innerWidth < 768 ? '0 15px' : '0'
             }}>
-              <img 
-                src="/data/venmo-qr.jpg" 
+              <img
+                src="/data/venmo-qr.jpg"
                 alt="Venmo QR Code"
                 style={{
                   width: '200px',
                   height: '200px',
-                  display: 'block'
+                  display: 'block',
+                  margin: '0 auto 20px auto'
                 }}
               />
             </div>
@@ -1031,6 +1035,7 @@ function RecordModal({ record, onClose }) {
                 textTransform: 'uppercase',
                 letterSpacing: '0.05em',
                 border: `3px solid ${colors.black}`,
+                marginTop: '20px',
                 marginBottom: '16px'
               }}
             >
