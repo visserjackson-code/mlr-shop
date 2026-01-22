@@ -365,7 +365,7 @@ function AboutPage() {
     <div style={{
       maxWidth: '800px',
       margin: '0 auto',
-      padding: '60px 20px'
+      padding: '90px 30px'
     }}>
       <h1 style={{
         fontSize: '3rem',
@@ -380,7 +380,7 @@ function AboutPage() {
 
       <div style={{
         fontSize: '1.1rem',
-        lineHeight: '1.8',
+        lineHeight: '2.1',
         color: '#333'
       }}>
         <p style={{ marginBottom: '20px' }}>
