@@ -728,63 +728,6 @@
       }
     },
     {
-      "id": "de-la-soul-stakes-is-high",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu?si=WL2SXshfTx2bE7as5MFBhQ",
-        "topSong": ""
-      },
-      "slug": "de-la-soul-stakes-is-high",
-      "artist": "De La Soul",
-      "title": "Stakes is High",
-      "genre": [
-        "Hip-Hop",
-        "Rap",
-        "Alternative Hip-Hop"
-      ],
-      "labels": [
-        "Tommy Boy"
-      ],
-      "formatText": "2xLP, Album",
-      "year": 1996,
-      "condition": {
-        "media": "VG+",
-        "sleeve": "VG+"
-      },
-      "sealed": false,
-      "descriptions": {
-        "short": "De La Soul matured on Stakes is High, trading playful samples for live instrumentation and social commentary. It's thoughtful, soulful hip-hop that pushed back against the commercial trends of the mid-90s.",
-        "medium": "The title track critiques the state of hip-hop with a somber tone and live bass. 'Itzsoweezee (HOT)' keeps things funky with a bouncing rhythm, while 'Brakes' showcases the group's storytelling ability over jazzy production."
-      },
-      "price": 40.99,
-      "quantity": 1,
-      "isLimited": false,
-      "isColored": false,
-      "vinylColors": [
-        {
-          "name": "Black",
-          "hex": "#000000",
-          "note": ""
-        }
-      ],
-      "colorDisplay": {
-        "mode": "standardBlack",
-        "discs": [
-          {
-            "name": "Black",
-            "hex": "#000000"
-          }
-        ]
-      },
-      "status": "active",
-      "soldAt": null,
-      "createdAt": "2026-01-21",
-      "images": {
-        "cover": "/covers-optimized/stakes_front.webp",
-        "back": "/covers-optimized/stakes_back.webp",
-        "disc": "/covers-optimized/stakes_disc.webp"
-      }
-    },
-    {
       "id": "action-bronson-only-for-dolphins",
       "spotify": {
         "albumURL": "https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k?si=3R975klhT2a_OMS2FC1WQQ",
