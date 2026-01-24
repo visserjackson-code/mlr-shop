@@ -14,6 +14,316 @@
     ]
   },
   "records": [
+     {
+      "id": "discogs-totoro-soundtrack",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/2Dn4ABFUYJbrlMF7K12RT3?si=zfDbSYESQSOlbqIOepSN_g",
+        "topSong": ""
+      },
+      "slug": "totoro-my-neighbor-totoro-soundtrack",
+      "catalogNo": "TJJA-10015",
+      "artist": "となりのトトロサウンドトラック集 = My Neighbor Totoro 久石譲*",
+      "title": "となりのトトロサウンドトラック集 = My Neighbor Totoro",
+      "genre": [
+        "Soundtrack",
+        "Film Score"
+      ],
+      "labels": [
+        "Studio Ghibli Records"
+      ],
+      "formatText": "LP, Album, Ltd, RE, Stereo",
+      "year": 2018,
+      "discogsReleaseId": null,
+      "condition": {
+        "media": "NM+",
+        "sleeve": "NM+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Joe Hisaishi's enchanting score for My Neighbor Totoro brings Studio Ghibli's magical forest to life. From whimsical melodies to tender moments, this soundtrack captures childhood wonder perfectly. Essential for any Ghibli fan or soundtrack collector.",
+        "medium": "The iconic 'Tonari no Totoro' theme is instantly recognizable with its playful arrangement and catchy melody. 'Kaze no Toori Michi' (Path of the Wind) is a gentle, pastoral piece that evokes the rural Japanese countryside. Hisaishi's orchestration throughout creates a timeless, nostalgic atmosphere."
+      },
+      "price": 49.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Limited Edition Reissue",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-07",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/totoro_front.webp",
+        "back": "/covers-optimized/totoro_back.webp",
+        "disc": "/covers-optimized/totoro_disc.webp",
+        "others": {
+          "liner": "covers-optimized/totoro_liner.webp"
+        }
+      }
+    },
+    {
+      "id": "discogs-princess-mononoke-symphonic",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/5BHtoNvVkT1QxEnPP551kK?si=LQTqsdw-Tz2O4KmC7MlUDw",
+        "topSong": ""
+      },
+      "slug": "princess-mononoke-symphonic-suite",
+      "catalogNo": "TJJA-10026",
+      "artist": "交響組曲 もののけ姫 = Princess Mononoke Symphonic Suite 久石譲*",
+      "title": "交響組曲 もののけ姫 = Princess Mononoke Symphonic Suite",
+      "genre": [
+        "Soundtrack",
+        "Film Score",
+        "Symphonic"
+      ],
+      "labels": [
+        "Studio Ghibli Records"
+      ],
+      "formatText": "LP, Album, Stereo",
+      "year": 2020,
+      "discogsReleaseId": null,
+      "condition": {
+        "media": "NM+",
+        "sleeve": "NM+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Joe Hisaishi's symphonic suite for Princess Mononoke is epic and haunting. This isn't just background music—it's a full orchestral experience that captures the film's themes of nature, conflict, and redemption. A masterwork of film composition.",
+        "medium": "The suite opens with powerful brass and percussion that immediately sets the stage for the film's grand scale. 'Ashitaka and San' is an emotional centerpiece featuring delicate strings and woodwinds. The main theme weaves throughout with its distinctive Japanese instrumentation blended with Western orchestration."
+      },
+      "price": 54.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-07",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/mononoke_front.webp",
+        "back": "/covers-optimized/mononoke_back.webp",
+        "disc": "/covers-optimized/mononoke_disc.webp",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-pacific-v25ah426",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/6PnbwR4pgQQZDrLUdw6Kc7?si=4lePI6TdQtSzuXIQPKSHvQ",
+        "topSong": ""
+      },
+      "slug": "haruomi-hosono-pacific",
+      "catalogNo": "V25AH426",
+      "artist": "Haruomi Hosono, Shigeru Suzuki, Tatsuro Yamashita",
+      "title": "Pacific",
+      "genre": [
+        "Electronic",
+        "City Pop",
+        "Ambient"
+      ],
+      "labels": [
+        "Victory (4)"
+      ],
+      "formatText": "LP, Album, RE, RP, Unofficial",
+      "year": 2025,
+      "discogsReleaseId": null,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Haruomi Hosono's Pacific is an ambient masterpiece that captures the feeling of tropical islands through electronic soundscapes. It's chill, experimental, and beautifully textured. Perfect for late-night listening or setting a vibe.",
+        "medium": "The album blends synthesizers, marimba, and field recordings to create immersive sonic environments. 'Talking' features playful vocal loops and percussion, while 'Crossover' drifts into more abstract territory. This is Hosono at his most adventurous, predating modern ambient and chillwave by decades."
+      },
+      "price": 39.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-07",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/pacific_front.webp",
+        "back": "/covers-optimized/pacific_back.webp",
+        "disc": "/covers-optimized/pacific_disc.webp",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-33439859",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES?si=ye9TH8rARPqNhBPPuWDJkg",
+        "topSong": ""
+      },
+      "slug": "japanese-breakfast-for-melancholy-brunettes-sad-women",
+      "catalogNo": "",
+      "artist": "Japanese Breakfast",
+      "title": "For Melancholy Brunettes (& sad women)",
+      "genre": [
+        "Indie Rock",
+        "Alternative",
+        "Art Pop"
+      ],
+      "labels": [
+        "Dead Oceans"
+      ],
+      "formatText": "LP, Album, Ltd, Indie Exclusive",
+      "year": 2025,
+      "discogsReleaseId": 33439859,
+      "condition": {
+        "media": "NM",
+        "sleeve": "NM"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Michelle Zauner's most ambitious work yet. Produced by Blake Mills, this is Japanese Breakfast at their most cinematic—lush orchestration, literary references, and an exploration of desire's darker edges. It's gothic, romantic, and absolutely stunning.",
+        "medium": "After the bright pop of Jubilee, Zauner pulls back into melancholy territory with European Romanticism as her guide. 'Orlando in Love' tells the story of a poet seduced by a siren, with staccato strings and nautical grunge. 'Men in Bars' features Jeff Bridges on vocals for a sultry country-tinged duet. The album draws from Wuthering Heights, Thomas Mann, and John Cheever, transforming literary obsession into sonic landscapes that feel both intimate and epic."
+      },
+      "price": 24.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Indie Exclusive - Frosted Snow Shadow Vinyl",
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Frosted Snow",
+          "hex": "#e8e8e8",
+          "note": "shadow effect"
+        }
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Frosted Snow Shadow",
+            "hex": "#e8e8e8"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-24",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/jbrekkie_melancholy_front.webp",
+        "back": "/covers-optimized/jbrekkie_melancholy_back.webp",
+        "disc": "/covers-optimized/jbrekkie_melancholy_disc.webp",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-17295373",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu?si=NSy25hOKSKqFCfOJxkugyA",
+        "topSong": ""
+      },
+      "slug": "deftones-around-the-fur",
+      "catalogNo": "9 46810-2",
+      "artist": "Deftones",
+      "title": "Around the Fur",
+      "genre": [
+        "Alternative Metal",
+        "Nu Metal"
+      ],
+      "labels": [
+        "Maverick"
+      ],
+      "formatText": "LP, Album, RE",
+      "year": 1997,
+      "discogsReleaseId": 17295373,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "The album that launched Deftones into the stratosphere. Around the Fur is a masterclass in controlled chaos—Chino Moreno's whisper-to-scream vocals over Stephen Carpenter's crushing riffs created a blueprint that bands still copy today. If you're into shoegaze, metal, or just raw emotion, this is essential.",
+        "medium": "'My Own Summer (Shove It)' is the sludgy opener that put them on the map, but the real magic is in tracks like 'Be Quiet and Drive (Far Away)'—atmospheric, heavy, and genuinely beautiful. 'Mascara' showcases their emotional range, while 'Dai the Flu' is pure aggression. Recorded in Seattle at Studio Litho (Pearl Jam's spot), the album captures lightning in a bottle. Gen Z discovered Deftones through TikTok, but this is where it all started—before White Pony, before the memes, just pure Sacramento fury."
+      },
+      "price": 39.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 0,
+      "createdAt": "2026-01-24",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/deftones_fur_front.webp",
+        "back": "/covers-optimized/deftones_fur_back.webp",
+        "disc": "/covers-optimized/deftones_fur_disc.webp",
+        "others": {}
+      }
+    },
     {
       "id": "discogs-14664633",
       "spotify": {

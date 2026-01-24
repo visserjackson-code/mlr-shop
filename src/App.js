@@ -1155,7 +1155,7 @@ function RecordModal({ record, onClose }) {
               color: colors.black,
               fontWeight: '600'
             }}>
-              Scan QR or click button • Then email confirmation
+              Scan QR or click button • $6.00 shipping fee will be added to each order. Then email confirmation
             </p>
 
             <p style={{ margin: '0', fontSize: '0.85rem', color: colors.black }}>
