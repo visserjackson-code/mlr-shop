@@ -706,9 +706,7 @@
       "soldAt": null,
       "createdAt": "2026-01-21",
       "images": {
-        "cover": "/covers-optimized/souls93_front.webp",
-        "back": "/covers-optimized/souls93_back.webp",
-        "disc": "/covers-optimized/souls93_disc.webp"
+        "cover": "/covers-optimized/souls93_front.webp"
       }
     },
     {
