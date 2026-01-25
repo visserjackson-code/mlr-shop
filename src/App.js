@@ -917,31 +917,9 @@ function LimitedBadge({ record }) {
   );
 }
 
-function SpotifyEmbed({ albumURL }) {
-  if (!albumURL) return null;
-
-  const embedURL = albumURL.replace('/album/', '/embed/album/');
-
-  return (
-    <div style={{
-      border: `2px solid ${colors.black}`,
-      overflow: 'hidden',
-      height: '352px'
-    }}>
-      <iframe
-  src={embedURL}
-  width="100%"
-  height={window.innerWidth < 768 ? "250" : "352"}
-  frameBorder="0"
-  allow="encrypted-media"
-  title="Spotify Player"
-  style={{ display: 'block', minWidth: '100%' }}
-/>
-    </div>
-  );
-}
-
 function RecordModal({ record, onClose }) {
+  const [showSpotify, setShowSpotify] = useState(false);
+  
   useEffect(() => {
     const onEscape = (e) => {
       if (e.key === 'Escape') onClose();
@@ -1089,7 +1067,42 @@ function RecordModal({ record, onClose }) {
               </div>
             )}
 
-            <SpotifyEmbed albumURL={record.spotify?.albumURL} />
+           {/* Spotify - LAZY LOAD */}
+{record.spotify?.albumURL && (
+  <div style={{ marginBottom: '20px' }}>
+    {!showSpotify ? (
+      <button
+        onClick={() => setShowSpotify(true)}
+        style={{
+          width: '100%',
+          padding: '16px',
+          backgroundColor: '#1DB954',
+          color: colors.white,
+          border: `3px solid ${colors.black}`,
+          fontSize: '1rem',
+          fontWeight: '700',
+          cursor: 'pointer',
+          textTransform: 'uppercase',
+          letterSpacing: '0.05em'
+        }}
+      >
+        ▶ PREVIEW ON SPOTIFY
+      </button>
+    ) : (
+      <iframe
+        src={`https://open.spotify.com/embed/album/${record.spotify.albumURL.split('/album/')[1]?.split('?')[0]}`}
+        width="100%"
+        height="380"
+        frameBorder="0"
+        allow="encrypted-media"
+        title="Spotify Player"
+        style={{
+          border: `3px solid ${colors.black}`
+        }}
+      />
+    )}
+  </div>
+)}
           </div>
 
           <div style={{
