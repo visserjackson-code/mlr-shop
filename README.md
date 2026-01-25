@@ -1,7 +1,3 @@
-Sure, I'll add a note at the top:
-
----
-
 # Most Likely Records
 
 > **Note:** This README was AI-generated and may need updates as the project evolves.
