@@ -257,12 +257,20 @@ function App() {
                 }}>
                   FEELING LUCKY?
                 </label>
-                <button
+              <button
   onClick={() => {
     const randomIndex = Math.floor(Math.random() * sorted.length);
     if (sorted[randomIndex]) {
       setSelectedRecord(sorted[randomIndex]);
     }
+  }}
+  onMouseEnter={(e) => {
+    const cd = e.currentTarget.querySelector('.cd-spin');
+    if (cd) cd.style.animation = 'spin 2s linear infinite';
+  }}
+  onMouseLeave={(e) => {
+    const cd = e.currentTarget.querySelector('.cd-spin');
+    if (cd) cd.style.animation = 'none';
   }}
   style={{
     width: '100%',
@@ -274,9 +282,25 @@ function App() {
     cursor: 'pointer',
     textTransform: 'uppercase',
     letterSpacing: '0.05em',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: '8px'
   }}
 >
-  💿 RANDOM
+  <span className="cd-spin" style={{
+    display: 'inline-block',
+    fontSize: '1.2rem'
+  }}>
+    💿
+  </span>
+  RANDOM
+  <style>{`
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+  `}</style>
 </button>
               </div>
             </div>
