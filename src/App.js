@@ -749,9 +749,78 @@ function ImageGallery({ record }) {
   );
 }
 
-// Placeholder - replace with your actual AboutPage component
+// about me
 function AboutPage() {
-  return <div style={{ padding: '40px' }}>About page content</div>;
+  return (
+    <div style={{
+      maxWidth: '800px',
+      margin: '0 auto',
+      padding: '90px 0px'
+    }}>
+      <h1 style={{
+        fontSize: '3rem',
+        fontWeight: '900',
+        textTransform: 'uppercase',
+        letterSpacing: '0.05em',
+        marginBottom: '30px',
+        color: colors.black
+      }}>
+        ABOUT
+      </h1>
+
+      <div style={{
+        fontSize: '1.1rem',
+        lineHeight: '2.1',
+        color: '#333',
+        paddingBottom: '30px'
+      }}>
+        <p style={{ marginBottom: '20px' }}>
+Most Likely Records is a curated vinyl shop run by me,
+ Jackson—a longtime music fan who's relatively new to vinyl collecting.
+  I focus on hip-hop (particularly underground and alternative scenes like
+   Griselda and early Southern rap), post-punk and new wave classics (Joy Division, The Cure),
+    and the occasional unexpected find (Pokémon soundtracks, Trans-Siberian Orchestra).
+     The collection prioritizes cult favorites, limited pressings, and records
+      with strong personal appeal over mass market hits.
+       Most records are one-of-one—once they're gone, they're gone.
+        I've been running this online and offline for 6 months and am gauging whether it becomes a sustainable side hustle,
+         a significant income stream, or if I'll pivot back to local hand-to-hand sales and trades.
+         Your purchases directly inform that decision.
+</p>
+        <p style={{ marginBottom: '20px' }}>
+          Every record here has been carefully selected and graded honestly. All records are stored vertically in a climate-controlled home environment away from direct sunlight. I'm based in Richmond, Virginia, and ship within the US.
+        </p>
+
+        <p style={{ marginBottom: '20px' }}>
+          If you have questions about a specific record, want more photos, or need help with anything, just email me at <a href="mailto:visserjackson@gmail.com" style={{ color: colors.orange, fontWeight: '600' }}>visserjackson@gmail.com</a>.
+        </p>
+
+        <div style={{
+          marginTop: '40px',
+          padding: '30px',
+          backgroundColor: colors.skyBlue,
+          border: `3px solid ${colors.black}`
+        }}>
+          <h2 style={{
+            fontSize: '1.5rem',
+            fontWeight: '900',
+            textTransform: 'uppercase',
+            letterSpacing: '0.05em',
+            marginBottom: '20px',
+            color: colors.black
+          }}>
+            HOW TO BUY
+          </h2>
+          <ol style={{ paddingLeft: '20px', lineHeight: '1.8' }}>
+            <li>Browse the shop and click on any record for details</li>
+            <li>Pay via Venmo (scan QR code or click the payment link)</li>
+            <li>Email me confirmation at visserjackson@gmail.com</li>
+            <li>I'll ship within 1-2 business days and send tracking</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  );
 }
 
 export default App;
