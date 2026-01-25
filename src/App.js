@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 const colors = {
   skyBlue: '#87CEEB',
   turquoise: '#40E0D0',
-  orange: '#FF6B35',
+  orange: '#E8630A',
   black: '#000000',
   white: '#FFFFFF',
   gray: '#F5F5F5'
@@ -79,9 +79,9 @@ function App() {
     }}>
       {/* Header */}
       <header style={{
-        backgroundColor: colors.black,
+        backgroundColor: colors.orange,
         padding: '20px 0',
-        borderBottom: `4px solid ${colors.orange}`
+        borderBottom: `4px solid ${colors.black}`
       }}>
         <div style={{ 
   maxWidth: '1400px', 
@@ -1170,8 +1170,8 @@ function RecordModal({ record, onClose }) {
             {/* // FOOTER*/}
 
 <footer style={{
-  backgroundColor: '#000000',
-  borderTop: '4px solid #FF6B35',
+  backgroundColor: '#E8630A',
+  borderTop: `4px solid ${colors.black}`,
   padding: '40px 20px',
   marginTop: '60px'
 }}>
