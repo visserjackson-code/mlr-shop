@@ -258,26 +258,26 @@ function App() {
                   FEELING LUCKY?
                 </label>
                 <button
-                  onClick={() => {
-                    const randomIndex = Math.floor(Math.random() * sorted.length);
-                    if (sorted[randomIndex]) {
-                      setSelectedRecord(sorted[randomIndex]);
-                    }
-                  }}
-                  style={{
-                    width: '100%',
-                    padding: '12px',
-                    border: `2px solid ${colors.black}`,
-                    backgroundColor: colors.skyBlue,
-                    fontSize: '1rem',
-                    fontWeight: '700',
-                    cursor: 'pointer',
-                    textTransform: 'uppercase',
-                    letterSpacing: '0.05em',
-                  }}
-                >
-                  SURPRISE ME
-                </button>
+  onClick={() => {
+    const randomIndex = Math.floor(Math.random() * sorted.length);
+    if (sorted[randomIndex]) {
+      setSelectedRecord(sorted[randomIndex]);
+    }
+  }}
+  style={{
+    width: '100%',
+    padding: '12px',
+    border: `2px solid ${colors.black}`,
+    backgroundColor: colors.skyBlue,
+    fontSize: '1rem',
+    fontWeight: '700',
+    cursor: 'pointer',
+    textTransform: 'uppercase',
+    letterSpacing: '0.05em',
+  }}
+>
+  💿 RANDOM
+</button>
               </div>
             </div>
           </div>
