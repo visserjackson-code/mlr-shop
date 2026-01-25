@@ -566,6 +566,7 @@ function RecordCard({ record, onClick }) {
           <img
             src={record.images.cover}
             alt={`${record.artist} - ${record.title}`}
+            loading='lazy'
             style={{
               width: '100%',
               height: '100%',
@@ -1332,6 +1333,7 @@ function ImageGallery({ record }) {
       <img
         src={images[activeIndex]}
         alt=""
+        loading='lazy'
         style={{
           width: '100%',
           border: `3px solid ${colors.black}`,
@@ -1406,6 +1408,7 @@ function ImageGallery({ record }) {
                 <img
                   src={src}
                   alt=""
+                  loading='lazy'
                   style={{
                     width: '100%',
                     height: '100%',
