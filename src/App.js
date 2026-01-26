@@ -352,7 +352,7 @@ function App() {
               MOST LIKELY RECORDS
             </p>
             <p style={{ margin: '0', color: colors.gray }}>
-              Richmond, VA • <a href="mailto:visserjackson@gmail.com" style={{ color: colors.turquoise, textDecoration: 'none' }}>visserjackson@gmail.com</a>
+              Richmond, VA • <a href="mailto:jackson@mostlikelyrecords.shop" style={{ color: colors.turquoise, textDecoration: 'none' }}>jackson@mostlikelyrecords.shop</a>
             </p>
           </div>
         </div>
@@ -446,7 +446,7 @@ Most Likely Records is a curated vinyl shop run by me,
 </div>
 
         <p style={{ marginBottom: '20px' }}>
-          If you have questions about a specific record, want more photos, or need help with anything, just email me at <a href="mailto:visserjackson@gmail.com" style={{ color: colors.orange, fontWeight: '600' }}>visserjackson@gmail.com</a>.
+          If you have questions about a specific record, want more photos, or need help with anything, just email me at <a href="mailto:jackson@mostlikelyrecords.shop" style={{ color: colors.orange, fontWeight: '600' }}>jackson@mostlikelyrecords.shop</a>.
         </p>
 
         <div style={{
@@ -468,7 +468,7 @@ Most Likely Records is a curated vinyl shop run by me,
           <ol style={{ paddingLeft: '20px', lineHeight: '1.8' }}>
             <li>Browse the shop and click on any record for details</li>
             <li>Pay via Venmo (scan QR code or click the payment link)</li>
-            <li>Email me confirmation at visserjackson@gmail.com</li>
+            <li>Email me confirmation at jackson@mostlikelyrecords.shop</li>
             <li>I'll ship within 1-2 business days and send tracking</li>
           </ol>
         </div>
@@ -1216,8 +1216,8 @@ function RecordModal({ record, onClose }) {
             </p>
 
             <p style={{ margin: '0', fontSize: '0.85rem', color: colors.black }}>
-              <a href="mailto:visserjackson@gmail.com" style={{ color: colors.black, fontWeight: '700' }}>
-                visserjackson@gmail.com
+              <a href="mailto:jackson@mostlikelyrecords.shop" style={{ color: colors.black, fontWeight: '700' }}>
+                jackson@mostlikelyrecords.shop
               </a>
             </p>
 
