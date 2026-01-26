@@ -402,6 +402,49 @@ Most Likely Records is a curated vinyl shop run by me,
           Every record here has been carefully selected and graded honestly. All records are stored vertically in a climate-controlled home environment away from direct sunlight. I'm based in Richmond, Virginia, and ship within the US.
         </p>
 
+        {/* YouTube Video Section */}
+<div style={{
+  marginTop: '40px',
+  marginBottom: '40px'
+}}>
+
+  <h2 style={{
+    fontSize: '1.5rem',
+    fontWeight: '700',
+    textTransform: 'uppercase',
+    letterSpacing: '0.1em',
+    marginBottom: '20px',
+    color: colors.orange
+  }}>
+    LATEST VIDEO
+  </h2>
+  
+  <div style={{
+    position: 'relative',
+    paddingBottom: '56.25%', // 16:9 aspect ratio
+    height: 0,
+    overflow: 'hidden',
+    border: `4px solid ${colors.black}`,
+    backgroundColor: colors.black
+  }}>
+    <iframe
+      src="https://www.youtube.com/embed/F1dBQBfX-KM"
+      title="Oliver Francis: Most Slept On SoundCloud Rapper"
+      frameBorder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowFullScreen
+      style={{
+        position: 'absolute',
+        top: 0,
+        left: 0,
+        width: '100%',
+        height: '100%'
+      }}
+    />
+  </div>
+  <p>I also make music-related content on Youtube and other social platforms.</p>
+</div>
+
         <p style={{ marginBottom: '20px' }}>
           If you have questions about a specific record, want more photos, or need help with anything, just email me at <a href="mailto:visserjackson@gmail.com" style={{ color: colors.orange, fontWeight: '600' }}>visserjackson@gmail.com</a>.
         </p>
