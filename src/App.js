@@ -430,8 +430,8 @@ Most Likely Records is a curated vinyl shop run by me,
     backgroundColor: colors.black
   }}>
     <iframe
-      src="https://www.youtube.com/embed/F1dBQBfX-KM"
-      title="Oliver Francis: Most Slept On SoundCloud Rapper"
+      src="https://youtu.be/wB9YaN2Dx70"
+      title="JID GOD DOES LIKE UGLY REACTION / REVIEW"
       frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowFullScreen
