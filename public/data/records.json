@@ -14,7 +14,446 @@
     ]
   },
   "records": [
-     {
+    {
+      "id": "discogs-10960101-macintosh-plus-floral-shoppe",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/2ruC4aZ4YGzPicGGzGBgE8?si=eruf0OIPT5qmmN3Rs4mbDA",
+        "topSong": ""
+      },
+      "slug": "macintosh-plus-floral-shoppe",
+      "catalogNo": "",
+      "artist": "Macintosh Plus",
+      "title": "Floral Shoppe",
+      "genre": [
+        "Electronic",
+        "Vaporwave"
+      ],
+      "labels": [
+        "Beer On The Rug"
+      ],
+      "formatText": "LP, Album, RE",
+      "year": 2017,
+      "discogsReleaseId": "10960101",
+      "condition": {
+        "media": "NM+",
+        "sleeve": "NM+",
+        "notes": "Shrink intact"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "The definitive vaporwave album that launched a genre. Slowed, chopped samples of 80s smooth jazz and city pop create surreal nostalgia for a future that never existed. Pink vinyl pressing in near-mint condition with original shrink wrap intact.",
+        "medium": "Macintosh Plus transformed Diana Ross and corporate muzak into hypnotic, disorienting soundscapes that critique and celebrate consumerism simultaneously. The iconic 'リサフランク420 / 現代のコンピュー' became vaporwave's signature track, defining internet music culture and aesthetic philosophy for a generation."
+      },
+      "price": 64.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Pink",
+          "hex": "#df3660",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Pink",
+            "hex": "#df3660"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 10,
+      "createdAt": "2026-01-27",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/macshoppe_front.webp",
+        "back": "/covers-optimized/macshoppe_back.webp",
+        "disc": "/covers-optimized/macshop_disc.webp",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-7173453-joy-division-closer",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/0KBdfMTMxi0oD1oVqApTjr?si=ZjwTphf8QTWRdWduuXjVxA",
+        "topSong": ""
+      },
+      "slug": "joy-division-closer",
+      "catalogNo": "",
+      "artist": "Joy Division",
+      "title": "Closer",
+      "genre": [
+        "Rock",
+        "Post-Punk"
+      ],
+      "labels": [
+        "Factory Records"
+      ],
+      "formatText": "LP, Album, RE",
+      "year": 2015,
+      "discogsReleaseId": "7173453",
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Joy Division's haunting final album, recorded months before Ian Curtis's death. Post-punk masterpiece featuring stark atmospheres and existential lyrics that influenced decades of alternative music. Essential listening for understanding the genre's foundations.",
+        "medium": "Closer represents Joy Division at their most experimental and emotionally raw. Bernard Sumner's icy synths, Peter Hook's melodic bass, and Stephen Morris's precise drumming create atmospheric backdrops for Curtis's deeply personal lyrics exploring isolation and inner turmoil."
+      },
+      "price": 23.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 4,
+      "createdAt": "2026-01-27",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/closer_front.webp",
+        "back": "/covers-optimized/closer_back.webp",
+        "disc": "/covers-optimized/closer_disc.webp",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-2538368-kanye-west-college-dropout",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/3lQePoIm6iNQIiZkCYxCy0?si=6jvNZProQ2-Tr4igcH7HAg",
+        "topSong": ""
+      },
+      "slug": "kanye-west-college-dropout-promo",
+      "catalogNo": "",
+      "artist": "Kanye West",
+      "title": "The College Dropout",
+      "genre": [
+        "Hip Hop"
+      ],
+      "labels": [
+        "Roc-A-Fella Records"
+      ],
+      "formatText": "2xLP, Album, Promo",
+      "year": 2004,
+      "discogsReleaseId": "2538368",
+      "condition": {
+        "media": "VG",
+        "sleeve": "VG"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Rare promo copy of Kanye's groundbreaking debut that redefined hip-hop production. Soulful samples and introspective lyrics challenged gangsta rap dominance. Features 'Through the Wire,' 'Jesus Walks,' and 'All Falls Down.' Clean version with 'NOT FOR SALE' marking.",
+        "medium": "This promo pressing captures the moment Kanye West transformed from underground producer to revolutionary artist. Chipmunk soul samples and conscious themes broke conventions, influencing a generation of rappers. The 'NOT FOR SALE' stamp adds historical significance to an album that changed hip-hop's trajectory."
+      },
+      "price": 32.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "Promo Copy",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 7,
+      "createdAt": "2026-01-27",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/collegedrop_front.webp",
+        "back": "/covers-optimized/collegedrop_back.webp",
+        "disc": "/covers-optimized/collegedrop_disc.webp",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-12726464-juice-wrld-goodbye-good-riddance",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ?si=thLk_FivTTGGtjsOdyLtTQ",
+        "topSong": ""
+      },
+      "slug": "juice-wrld-goodbye-good-riddance",
+      "catalogNo": "",
+      "artist": "Juice WRLD",
+      "title": "Goodbye & Good Riddance",
+      "genre": [
+        "Hip Hop",
+        "Emo Rap"
+      ],
+      "labels": [
+        "Interscope Records"
+      ],
+      "formatText": "1LP, Album",
+      "year": 2018,
+      "discogsReleaseId": "12726464",
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Juice WRLD's breakout debut blending emo sensibilities with melodic trap. Heartbreak anthems and pill-popping confessionals over Nick Mira production defined SoundCloud rap's mainstream moment. Features 'Lucid Dreams' and 'All Girls Are The Same.'",
+        "medium": "This album captured lightning in a bottle, showcasing Juice's ability to freestyle melancholic melodies over trap beats. The raw emotional honesty and pop hooks made him a voice for Gen Z heartbreak, while his effortless delivery influenced countless imitators in the emo rap wave."
+      },
+      "price": 19.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 3,
+      "createdAt": "2026-01-27",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/juicewrld_front.webp",
+        "back": "/covers-optimized/juicewrld__back.webp",
+        "disc": "/covers-optimized/juicewrld_disc.webp",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-27116274-the-cure-galore",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/0BRThmbAV1p2CxAuxgpHRj?si=MTEYQUAoQleVWgBazJYaHw",
+        "topSong": ""
+      },
+      "slug": "the-cure-galore-singles-1987-1997",
+      "catalogNo": "",
+      "artist": "The Cure",
+      "title": "Galore - The Singles 1987-1997",
+      "genre": [
+        "Rock",
+        "Alternative Rock",
+        "Gothic Rock"
+      ],
+      "labels": [
+        "Fiction Records"
+      ],
+      "formatText": "2xLP, Compilation",
+      "year": 1997,
+      "discogsReleaseId": "27116274",
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Essential compilation of The Cure's most iconic singles from their commercial peak. Blue and pink vinyl pressing captures the band's blend of darkness and pop sensibility across hits like 'Lovesong,' 'Just Like Heaven,' and 'Pictures of You.'",
+        "medium": "This compilation spans The Cure's most successful era, featuring Robert Smith's distinctive vocals over Gothic rock arrangements that defined alternative music. The colored vinyl pressing on blue and pink adds visual appeal to tracks that range from melancholic ballads to new wave anthems."
+      },
+      "price": 49.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Blue",
+          "hex": "#1b3f4e",
+          "note": ""
+        },
+        {
+          "name": "Pink",
+          "hex": "#b06e93",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "multiDisc",
+        "discs": [
+          {
+            "name": "Blue",
+            "hex": "#1b3f4e"
+          },
+          {
+            "name": "Pink",
+            "hex": "#b06e93"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 8,
+      "createdAt": "2026-01-27",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/cure_front.webp",
+        "back": "/covers-optimized/cure_back.webp",
+        "disc": "/covers-optimized/cure_disc_blue.webp",
+        "others": {
+          "pink": "/covers-optimized/cure_disc_pink.webp"
+        }
+      }
+    },
+    {
+      "id": "discogs-33791067-boldy-james-hidden-in-plain-sight",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/4I0JgHeRwkkV51z2zPdQgN?si=6bRxh_VAT5CECJ4x-KwIpQ",
+        "topSong": ""
+      },
+      "slug": "boldy-james-hidden-in-plain-sight",
+      "catalogNo": "",
+      "artist": "Boldy James & WhoTheHellisCarlo",
+      "title": "Hidden In Plain Sight",
+      "genre": [
+        "Hip Hop"
+      ],
+      "labels": [
+        "Griselda Records"
+      ],
+      "formatText": "LP, Album",
+      "year": 2024,
+      "discogsReleaseId": "33791067",
+      "condition": {
+        "media": "VG+",
+        "sleeve": "G"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Boldy James delivers razor-sharp Detroit street narratives over WhoTheHellisCarlo's dusty, sample-heavy production. Limited green vinyl pressing from Griselda captures raw, uncompromising lyricism that defines contemporary underground hip-hop.",
+        "medium": "This collaboration showcases Boldy's monotone delivery and vivid storytelling over production that channels classic East Coast boom-bap with modern touches. The green vinyl variant adds collectibility to an album that represents Griselda's dedication to pure, unfiltered hip-hop craftsmanship."
+      },
+      "price": 54.99,
+      "quantity": 1,
+      "isLimited": true,
+      "limitedDetails": "",
+      "isColored": true,
+      "vinylColors": [
+        {
+          "name": "Green",
+          "hex": "#4e7860",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "singleDisc",
+        "discs": [
+          {
+            "name": "Green",
+            "hex": "#4e7860"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 9,
+      "createdAt": "2026-01-27",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/boldyhips_front.webp",
+        "back": "/covers-optimized/boldyhips_back.webp",
+        "disc": "/covers-optimized/boldyhips_disc.webp",
+        "others": {}
+      }
+    },
+    {
+      "id": "discogs-16926270-mac-miller-live-from-space",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/4PIsExpUeEzF6qJcKc95Yb?si=pLK9IDgNTumGSztAsddSvQ",
+        "topSong": ""
+      },
+      "slug": "mac-miller-live-from-space",
+      "catalogNo": "",
+      "artist": "Mac Miller",
+      "title": "Live From Space",
+      "genre": [
+        "Hip Hop",
+        "Jazz Rap"
+      ],
+      "labels": [
+        "Rostrum Records"
+      ],
+      "formatText": "2xLP, Album",
+      "year": 2021,
+      "discogsReleaseId": "16926270",
+      "condition": {
+        "media": "VG",
+        "sleeve": "VG",
+        "notes": "Small hole punch"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Mac Miller's genre-blending live performance album showcasing his evolution beyond traditional hip-hop. Jazz-inflected arrangements and introspective lyricism highlight his musicianship during a creative peak, captured in an intimate live setting.",
+        "medium": "Recorded during Mac's transition into more experimental territory, this album features live band performances that reimagine his catalog with jazz and soul influences. The intimate atmosphere captures Mac's growth as both an MC and musician, blending improvisation with tight song structures."
+      },
+      "price": 39.99,
+      "quantity": 1,
+      "isLimited": false,
+      "limitedDetails": "",
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "sortWeight": 5,
+      "createdAt": "2026-01-27",
+      "soldAt": null,
+      "images": {
+        "cover": "/covers-optimized/macspace_front.webp",
+        "back": "/covers-optimized/macspace_back.webp",
+        "disc": "/covers-optimized/macspace_disc.webp",
+        "others": {}
+      }
+    },
+    {
       "id": "discogs-totoro-soundtrack",
       "spotify": {
         "albumURL": "https://open.spotify.com/album/2Dn4ABFUYJbrlMF7K12RT3?si=zfDbSYESQSOlbqIOepSN_g",
@@ -65,7 +504,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 0,
+      "sortWeight": 9,
       "createdAt": "2026-01-07",
       "soldAt": null,
       "images": {
@@ -129,7 +568,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 0,
+      "sortWeight": 9,
       "createdAt": "2026-01-07",
       "soldAt": null,
       "images": {
@@ -191,7 +630,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 0,
+      "sortWeight": 5,
       "createdAt": "2026-01-07",
       "soldAt": null,
       "images": {
@@ -253,7 +692,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 0,
+      "sortWeight": 5,
       "createdAt": "2026-01-24",
       "soldAt": null,
       "images": {
@@ -314,7 +753,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 0,
+      "sortWeight": 6,
       "createdAt": "2026-01-24",
       "soldAt": null,
       "images": {
@@ -354,7 +793,7 @@
       "sealed": false,
       "descriptions": {
         "short": "Warren Zevon's 1978 breakthrough is dark comedy at its finest. His sharp wit and storytelling shine through tracks that are equal parts catchy and unsettling. If you're into songwriters who take risks, this one's essential.",
-        "medium": "The title track tells a disturbing story with an upbeat bounce, while 'Werewolves of London' became his biggest hit with that iconic piano riff. 'Roland the Headless Thompson Gunner' is a haunting tale of a mercenary's ghost seeking revenge\u2014Zevon at his most cinematic."
+        "medium": "The title track tells a disturbing story with an upbeat bounce, while 'Werewolves of London' became his biggest hit with that iconic piano riff. 'Roland the Headless Thompson Gunner' is a haunting tale of a mercenary's ghost seeking revenge—Zevon at his most cinematic."
       },
       "price": 50.99,
       "quantity": 1,
@@ -387,7 +826,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 0,
+      "sortWeight": 8,
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
@@ -427,7 +866,7 @@
       },
       "sealed": false,
       "descriptions": {
-        "short": "This is where it all started. Led Zeppelin's 1969 debut took blues rock and cranked it to levels nobody had heard before. Heavy, raw, and dynamic\u2014it set the template for everything that followed.",
+        "short": "This is where it all started. Led Zeppelin's 1969 debut took blues rock and cranked it to levels nobody had heard before. Heavy, raw, and dynamic—it set the template for everything that followed.",
         "medium": "'Good Times Bad Times' kicks things off with one of the most powerful drum intros ever recorded. 'Dazed and Confused' stretches out into psychedelic territory with Jimmy Page's violin bow theatrics, while 'Babe I'm Gonna Leave You' shows their softer, folk-influenced side."
       },
       "price": 30.99,
@@ -453,7 +892,7 @@
       },
       "status": "active",
       "soldAt": null,
-      "sortWeight": 0,
+      "sortWeight": 4,
       "createdAt": "2026-01-17",
       "images": {
         "cover": "/covers-optimized/ledzep_front.webp",
@@ -491,8 +930,8 @@
       },
       "sealed": false,
       "descriptions": {
-        "short": "Trans-Siberian Orchestra turned holiday music into a rock opera. This album is over-the-top in the best way\u2014orchestral, electric, and dramatic. Perfect for anyone who wants their Christmas music with more guitars and less Bing Crosby.",
-        "medium": "The album weaves a narrative through tracks like 'O Come All Ye Faithful/O Holy Night,' which builds from quiet reverence to full rock choir. 'Christmas Eve/Sarajevo 12/24' is their signature piece\u2014a mashup of 'God Rest Ye Merry Gentlemen' and 'Carol of the Bells' that's become a modern holiday classic."
+        "short": "Trans-Siberian Orchestra turned holiday music into a rock opera. This album is over-the-top in the best way—orchestral, electric, and dramatic. Perfect for anyone who wants their Christmas music with more guitars and less Bing Crosby.",
+        "medium": "The album weaves a narrative through tracks like 'O Come All Ye Faithful/O Holy Night,' which builds from quiet reverence to full rock choir. 'Christmas Eve/Sarajevo 12/24' is their signature piece—a mashup of 'God Rest Ye Merry Gentlemen' and 'Carol of the Bells' that's become a modern holiday classic."
       },
       "price": 50.99,
       "quantity": 1,
@@ -516,7 +955,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 0,
+      "sortWeight": 6,
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
@@ -580,7 +1019,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 0,
+      "sortWeight": 2,
       "createdAt": "2026-01-17",
       "soldAt": null,
       "images": {
@@ -651,7 +1090,8 @@
         "cover": "/covers-optimized/atlast_front.webp",
         "back": "/covers-optimized/atlast_back.webp",
         "disc": "/covers-optimized/atlast_disc_closeup.webp"
-      }
+      },
+      "sortWeight": 6
     },
     {
       "id": "souls-of-mischief-93-til-infinity",
@@ -679,7 +1119,7 @@
       "sealed": false,
       "descriptions": {
         "short": "This is golden-era hip-hop at its purest. Souls of Mischief's debut is jazzy, laid-back, and lyrically sharp. The Hieroglyphics crew brought a West Coast alternative sound that still feels fresh decades later.",
-        "medium": "The title track '93 til Infinity' is one of the most iconic beats in hip-hop history\u2014smooth bass and Rhodes piano. The crew's rapid-fire lyricism shines, while 'Tell Me Who Profits' tackles social issues with intelligence."
+        "medium": "The title track '93 til Infinity' is one of the most iconic beats in hip-hop history—smooth bass and Rhodes piano. The crew's rapid-fire lyricism shines, while 'Tell Me Who Profits' tackles social issues with intelligence."
       },
       "price": 45.99,
       "quantity": 1,
@@ -707,7 +1147,8 @@
       "createdAt": "2026-01-21",
       "images": {
         "cover": "/covers-optimized/souls93_front.webp"
-      }
+      },
+      "sortWeight": 8
     },
     {
       "id": "lil-wayne-tha-carter-iv",
@@ -765,7 +1206,8 @@
         "cover": "/covers-optimized/carter4_front.webp",
         "back": "/covers-optimized/carter4_back.webp",
         "disc": "/covers-optimized/carter4_disc.webp"
-      }
+      },
+      "sortWeight": 3
     },
     {
       "id": "action-bronson-only-for-dolphins",
@@ -821,7 +1263,8 @@
         "cover": "/covers-optimized/dolphins_front.webp",
         "back": "/covers-optimized/dolphins_back.webp",
         "disc": "/covers-optimized/dolphins_disc.webp"
-      }
+      },
+      "sortWeight": 2
     },
     {
       "id": "new-order-power-corruption-lies",
@@ -880,7 +1323,8 @@
         "cover": "/covers-optimized/neworder_power_front.webp",
         "back": "/covers-optimized/neworder_power_back.webp",
         "disc": "/covers-optimized/neworder_power_disc.webp"
-      }
+      },
+      "sortWeight": 4
     },
     {
       "id": "new-order-brotherhood",
@@ -939,7 +1383,8 @@
         "cover": "/covers-optimized/neworder_brotherhood_front.webp",
         "back": "/covers-optimized/neworder_brotherhood_back.webp",
         "disc": "/covers-optimized/neworder_brotherhood_disc.webp"
-      }
+      },
+      "sortWeight": 3
     },
     {
       "id": "joy-division-love-will-tear-us-apart",
@@ -967,7 +1412,7 @@
       "sealed": true,
       "descriptions": {
         "short": "This is one of the most iconic singles in post-punk history. Ian Curtis's haunting vocals over the shimmering synth line create something timeless. If you only own one Joy Division record, make it this one.",
-        "medium": "The A-side 'Love Will Tear Us Apart' is the definitive version of Joy Division's sound\u2014emotional, precise, and devastating. The B-sides vary by pressing but often include tracks like 'These Days' which showcase the band's more experimental, atmospheric side."
+        "medium": "The A-side 'Love Will Tear Us Apart' is the definitive version of Joy Division's sound—emotional, precise, and devastating. The B-sides vary by pressing but often include tracks like 'These Days' which showcase the band's more experimental, atmospheric side."
       },
       "price": 36.99,
       "quantity": 1,
@@ -996,7 +1441,8 @@
         "cover": "/covers-optimized/joydivision_single_front.webp",
         "back": "/covers-optimized/joydivision_single_back.webp",
         "disc": "/covers-optimized/joydivision_single_disc.webp"
-      }
+      },
+      "sortWeight": 5
     },
     {
       "id": "chi-lites-best-of",
@@ -1024,7 +1470,7 @@
       "sealed": false,
       "descriptions": {
         "short": "The Chi-Lites' smooth harmonies and sophisticated arrangements defined early '70s soul. This compilation captures their best work, including songs that have been sampled countless times in hip-hop.",
-        "medium": "'Oh Girl' is their signature ballad\u2014tender and beautifully arranged with lush strings. Besides serving as a 'Have you seen the Sopranos?' filter, there's also great music here. 'Have You Seen Her' tells a heartbreak story with genuine emotion, while 'Stoned Out of My Mind' grooves with a psychedelic soul edge. A hit's a hit, and the Chi-Lites have plenty."
+        "medium": "'Oh Girl' is their signature ballad—tender and beautifully arranged with lush strings. Besides serving as a 'Have you seen the Sopranos?' filter, there's also great music here. 'Have You Seen Her' tells a heartbreak story with genuine emotion, while 'Stoned Out of My Mind' grooves with a psychedelic soul edge. A hit's a hit, and the Chi-Lites have plenty."
       },
       "price": 19.99,
       "quantity": 1,
@@ -1053,7 +1499,8 @@
         "cover": "/covers-optimized/chilites_front.webp",
         "back": "/covers-optimized/chilites_back.webp",
         "disc": "/covers-optimized/chilites_disc.webp"
-      }
+      },
+      "sortWeight": 1
     }
   ]
 }

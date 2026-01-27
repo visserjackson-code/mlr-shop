@@ -50,7 +50,9 @@ function App() {
     }
     if (sortBy === 'price-low') return (a.price || 0) - (b.price || 0);
     if (sortBy === 'price-high') return (b.price || 0) - (a.price || 0);
-    return 0;
+    
+    // Default: sort by sortWeight (high to low)
+    return (b.sortWeight || 0) - (a.sortWeight || 0);
   });
 
   if (loading) {
