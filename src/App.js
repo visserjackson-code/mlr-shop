@@ -430,7 +430,7 @@ Most Likely Records is a curated vinyl shop run by me,
     backgroundColor: colors.black
   }}>
     <iframe
-      src="https://youtu.be/F1dBQBfX-KM"
+      src="https://youtu.be/vwzso2qaFgo"
       title="JID GOD DOES LIKE UGLY REACTION / REVIEW"
       frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
