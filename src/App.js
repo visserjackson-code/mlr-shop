@@ -418,7 +418,7 @@ Most Likely Records is a curated vinyl shop run by me,
     marginBottom: '20px',
     color: colors.orange
   }}>
-    <a href="https://youtu.be/vwzso2qaFgo" style={{ color: colors.orange, textDecoration: 'none' }}>LATEST VIDEO</a>
+    <a href="https://youtu.be/vwzso2qaFgo" target='_blank' rel='noreferrer' style={{ color: colors.orange, textDecoration: 'none' }}>LATEST VIDEO</a>
   </h2>
   
   <div style={{
