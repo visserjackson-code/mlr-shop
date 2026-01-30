@@ -430,7 +430,7 @@ Most Likely Records is a curated vinyl shop run by me,
     backgroundColor: colors.black
   }}>
     <iframe
-      src="https://youtu.be/Vx5TuRLMeF0"
+      src="https://www.youtube.com/embed/Vx5TuRLMeF0"
       title="GLORILLA GLORIOUS REACTION / REVIEW"
       frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
