@@ -1111,8 +1111,7 @@
       "createdAt": "2026-01-21",
       "images": {
         "cover": "/covers-optimized/joydivision_single_front.webp",
-        "back": "/covers-optimized/joydivision_single_back.webp",
-        "disc": "/covers-optimized/joydivision_single_disc.webp"
+        "back": "/covers-optimized/joydivision_single_back.webp"
       },
       "sortWeight": 5
     },
