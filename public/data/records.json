@@ -253,7 +253,7 @@
       "soldAt": null,
       "images": {
         "cover": "/covers-optimized/juicewrld_front.webp",
-        "back": "/covers-optimized/juicewrld__back.webp",
+        "back": "/covers-optimized/juicewrld_back.webp",
         "disc": "/covers-optimized/juicewrld_disc.webp",
         "others": {}
       }
