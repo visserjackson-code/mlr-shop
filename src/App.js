@@ -411,15 +411,15 @@ Most Likely Records is a curated vinyl shop run by me,
 }}>
 
   <h2 style={{
-    fontSize: '1.5rem',
-    fontWeight: '700',
-    textTransform: 'uppercase',
-    letterSpacing: '0.1em',
-    marginBottom: '20px',
-    color: colors.orange
-  }}>
-     style={{ color: colors.orange, textDecoration: 'none' }}LATEST VIDEO
-  </h2>
+  fontSize: '1.5rem',
+  fontWeight: '700',
+  textTransform: 'uppercase',
+  letterSpacing: '0.1em',
+  marginBottom: '20px',
+  color: colors.orange
+}}>
+  LATEST VIDEO
+</h2>
   
   <div style={{
     position: 'relative',
