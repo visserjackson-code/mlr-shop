@@ -920,8 +920,8 @@
           }
         ]
       },
-      "status": "active",
-      "soldAt": null,
+      "status": "sold",
+      "soldAt": "default",
       "createdAt": "2026-01-21",
       "images": {
         "cover": "/covers-optimized/joydivision_single_front.webp",
