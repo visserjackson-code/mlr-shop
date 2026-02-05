@@ -1,7 +1,7 @@
 {
   "storeMeta": {
     "currency": "USD",
-    "quantityRule": "one_of_one",
+    "quantityRule": "one_of_one_type_shii",
     "conditionScale": [
       "M",
       "NM",
