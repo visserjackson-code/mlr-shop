@@ -587,6 +587,7 @@ Most Likely Records is a curated vinyl shop run by me,
 
 function RecordCard({ record, onClick }) {
   const hasCoverImage = record?.images?.cover;
+  const isOnSale = record.salePrice && record.salePrice < record.price;
 
   return (
     <div
@@ -658,13 +659,35 @@ function RecordCard({ record, onClick }) {
           {record.title}
         </h3>
 
-        <div style={{
-          fontSize: '1.5rem',
-          fontWeight: '900',
-          color: colors.orange,
-          marginBottom: '12px'
-        }}>
-          ${record.price?.toFixed(2)}
+        {/* UPDATED PRICING SECTION */}
+        <div style={{ marginBottom: '12px' }}>
+          {isOnSale ? (
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px', flexWrap: 'wrap' }}>
+              <span style={{
+                textDecoration: 'line-through',
+                color: '#999',
+                fontSize: '1.2rem',
+                fontWeight: '700'
+              }}>
+                ${record.price?.toFixed(2)}
+              </span>
+              <span style={{
+                fontSize: '1.8rem',
+                fontWeight: '900',
+                color: colors.orange
+              }}>
+                ${record.salePrice?.toFixed(2)}
+              </span>
+            </div>
+          ) : (
+            <div style={{
+              fontSize: '1.5rem',
+              fontWeight: '900',
+              color: colors.orange
+            }}>
+              ${record.price?.toFixed(2)}
+            </div>
+          )}
         </div>
 
         <VinylColorDisplay record={record} />
