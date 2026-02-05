@@ -357,7 +357,7 @@ function App() {
               MOST LIKELY RECORDS
             </p>
             <p style={{ margin: '0', color: colors.gray }}>
-              Richmond, VA • <a href="mailto:jackson@mostlikelyrecords.shop" style={{ color: colors.turquoise, textDecoration: 'none' }}>jackson@mostlikelyrecords.shop</a>
+              Richmond, VA • <a href="mailto:visserjackson@gmail.com" style={{ color: colors.turquoise, textDecoration: 'none' }}>visserjackson@gmail.com</a>
             </p>
           </div>
         </div>
@@ -369,8 +369,9 @@ function App() {
 function PromoBanner() {
   return (
     <div style={{
-      backgroundColor: colors.orange,
-      borderBottom: `4px solid ${colors.black}`,
+      backgroundColor: colors.black,
+      color: colors.white,
+      borderBottom: `4px solid ${colors.orange}`,
       padding: '16px 20px',
       textAlign: 'center'
     }}>
@@ -383,13 +384,22 @@ function PromoBanner() {
         lineHeight: '1.6',
         letterSpacing: '0.03em'
       }}>
-        🔥 <strong style={{ textTransform: 'uppercase' }}>SUPER BOWL SALE</strong> 🔥
+       <span style={{ 
+  fontSize: window.innerWidth < 768 ? '1.3rem' : '1.6rem',
+  color: colors.orange,
+  textTransform: 'uppercase',
+  fontWeight: '900',
+  letterSpacing: '0.1em',
+  textShadow: '2px 2px 0px rgba(0,0,0,0.3)'
+}}>
+  🔥🏈 SUPER BOWL SALE 🏈🔥
+</span>
         <br />
-        Buy any record at regular price and add <strong>GNX</strong> (Grammy-winning Best Rap Album!) 
-        and/or <strong>CHROMAKOPIA</strong> for just <strong style={{ fontSize: '1.2em' }}>$20</strong> each!
+        Buy any record at regular price and add <strong>GNX</strong> <i>(current Grammy winning Best Rap Album) </i> 
+           and/or <strong>CHROMAKOPIA</strong> for just <strong style={{ fontSize: '1.2em' }}>$20</strong> each!
         <br />
         <span style={{ fontSize: '0.85em' }}>
-          (Otherwise $35 each • Not valid with other discounts • Ends Super Bowl Sunday 2/8)
+          Otherwise $35 each • Not valid with other discounts • Ends Monday 2/09 at 9AM EST
         </span>
       </div>
     </div>
@@ -481,7 +491,7 @@ Most Likely Records is a curated vinyl shop run by me,
 </div>
 
         <p style={{ marginBottom: '20px' }}>
-          If you have questions about a specific record, want more photos, or need help with anything, just email me at <a href="mailto:jackson@mostlikelyrecords.shop" style={{ color: colors.orange, fontWeight: '600' }}>jackson@mostlikelyrecords.shop</a>.
+          If you have questions about a specific record, want more photos, or need help with anything, just email me at <a href="mailto:visserjackson@gmail.com" style={{ color: colors.orange, fontWeight: '600' }}>visserjackson@gmail.com</a>.
         </p>
 
         <div style={{
@@ -503,7 +513,7 @@ Most Likely Records is a curated vinyl shop run by me,
           <ol style={{ paddingLeft: '20px', lineHeight: '1.8' }}>
             <li>Browse the shop and click on any record for details</li>
             <li>Pay via Venmo (scan QR code or click the payment link)</li>
-            <li>Email me confirmation at jackson@mostlikelyrecords.shop</li>
+            <li>Email me confirmation at visserjackson@gmail.com</li>
             <li>I'll ship within 1-2 business days and send tracking</li>
           </ol>
         </div>
@@ -1247,65 +1257,43 @@ function RecordModal({ record, onClose }) {
               READY TO BUY?
             </h3>
 
-            <div style={{
-              padding: window.innerWidth < 768 ? '20px' : '30px',
-              backgroundColor: colors.turquoise,
-              border: `4px solid ${colors.black}`,
-              textAlign: 'center',
-              margin: window.innerWidth < 768 ? '0 15px' : '0'
-            }}>
-              <img
-                src="/data/venmo-qr.jpg"
-                alt="Venmo QR Code"
-                style={{
-                  width: '200px',
-                  height: '200px',
-                  display: 'block',
-                  margin: '0 auto 20px auto'
-                }}
-              />
-            </div>
-
-            {/* UPDATED VENMO BUTTON - uses displayPrice */}
-            
-             <a href={`https://venmo.com/u/Jackson-Visser?txn=pay&amount=${displayPrice}&note=${encodeURIComponent(record.artist + ' - ' + record.title)}`}
-  target="_blank"
-  rel="noopener noreferrer"
-  style={{
-    display: 'inline-block',
-    padding: '16px 40px',
-    backgroundColor: colors.orange,
-    color: colors.white,
-    textDecoration: 'none',
-    fontWeight: '900',
-    fontSize: '1.1rem',
-    textTransform: 'uppercase',
-    letterSpacing: '0.05em',
-    border: `3px solid ${colors.black}`,
-    marginTop: '20px',
-    marginBottom: '16px'
-  }}
->
-  PAY ${displayPrice?.toFixed(2)}
-</a>
-
             <p style={{
-              margin: '0 0 8px 0',
-              fontSize: '0.9rem',
+              fontSize: '1.1rem',
+              lineHeight: '1.8',
               color: colors.black,
+              marginBottom: '20px',
               fontWeight: '600'
             }}>
-              Scan QR or click button • $6.00 shipping fee will be added to each order. Then email confirmation
+              Email your order to get a custom Venmo request with your total, including any sale discounts and $6 shipping. <br /> <i>(other payment options also accepted!)</i>
             </p>
 
-            <p style={{ margin: '0', fontSize: '0.85rem', color: colors.black }}>
-              <a href="mailto:jackson@mostlikelyrecords.shop" style={{ color: colors.black, fontWeight: '700' }}>
-                jackson@mostlikelyrecords.shop
+            
+              <a href={`mailto:visserjackson@gmail.com?subject=Order: ${encodeURIComponent(record.artist + ' - ' + record.title)}&body=Hi! I'd like to order this record. Please send me a Venmo request for the total.`}
+              style={{
+                display: 'inline-block',
+                padding: '16px 40px',
+                backgroundColor: colors.orange,
+                color: colors.white,
+                textDecoration: 'none',
+                fontWeight: '900',
+                fontSize: '1.1rem',
+                textTransform: 'uppercase',
+                letterSpacing: '0.05em',
+                border: `3px solid ${colors.black}`,
+                marginBottom: '16px'
+              }}
+            >
+              EMAIL TO ORDER
+            </a>
+
+            <p style={{
+              margin: '16px 0 0 0',
+              fontSize: '0.9rem',
+              color: colors.black
+            }}>
+              <a href="mailto:visserjackson@gmail.com" style={{ color: colors.black, fontWeight: '700' }}>
+                visserjackson@gmail.com
               </a>
-            </p>
-
-            <p style={{ margin: '16px 0 0 0', fontSize: '0.85rem', color: colors.black, fontStyle: 'italic' }}>
-              Don't have Venmo? Email to arrange payment.
             </p>
           </div>
         </div>
