@@ -1031,7 +1031,7 @@ function LimitedBadge({ record }) {
 function RecordModal({ record, onClose }) {
   const [showSpotify, setShowSpotify] = useState(false);
   const isOnSale = record.salePrice && record.salePrice < record.price;
-  const displayPrice = isOnSale ? record.salePrice : record.price;
+  // const displayPrice = isOnSale ? record.salePrice : record.price;
   
   useEffect(() => {
     const onEscape = (e) => {
