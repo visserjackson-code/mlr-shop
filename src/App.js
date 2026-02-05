@@ -147,6 +147,9 @@ function App() {
         </div>
       </header>
 
+{/* PROMO BANNER */}
+<PromoBanner />
+
       {page === 'about' ? (
         <AboutPage />
       ) : (
@@ -359,6 +362,36 @@ function App() {
           </div>
         </div>
       </footer>
+    </div>
+  );
+}
+
+function PromoBanner() {
+  return (
+    <div style={{
+      backgroundColor: colors.orange,
+      borderBottom: `4px solid ${colors.black}`,
+      padding: '16px 20px',
+      textAlign: 'center'
+    }}>
+      <div style={{
+        maxWidth: '1400px',
+        margin: '0 auto',
+        color: colors.white,
+        fontSize: window.innerWidth < 768 ? '0.85rem' : '1rem',
+        fontWeight: '700',
+        lineHeight: '1.6',
+        letterSpacing: '0.03em'
+      }}>
+        🔥 <strong style={{ textTransform: 'uppercase' }}>SUPER BOWL SALE</strong> 🔥
+        <br />
+        Buy any record at regular price and add <strong>GNX</strong> (Grammy-winning Best Rap Album!) 
+        and/or <strong>CHROMAKOPIA</strong> for just <strong style={{ fontSize: '1.2em' }}>$20</strong> each!
+        <br />
+        <span style={{ fontSize: '0.85em' }}>
+          (Otherwise $35 each • Not valid with other discounts • Ends Super Bowl Sunday 2/8)
+        </span>
+      </div>
     </div>
   );
 }
@@ -987,6 +1020,8 @@ function LimitedBadge({ record }) {
 
 function RecordModal({ record, onClose }) {
   const [showSpotify, setShowSpotify] = useState(false);
+  const isOnSale = record.salePrice && record.salePrice < record.price;
+  const displayPrice = isOnSale ? record.salePrice : record.price;
   
   useEffect(() => {
     const onEscape = (e) => {
@@ -1015,18 +1050,18 @@ function RecordModal({ record, onClose }) {
       }}
     >
       <div
-  onClick={e => e.stopPropagation()}
-  style={{
-    backgroundColor: colors.white,
-    maxWidth: window.innerWidth < 768 ? '95vw' : '1000px',
-    width: '100%',
-    maxHeight: '90vh',
-    overflowY: 'auto',
-    border: `4px solid ${colors.black}`,
-    position: 'relative',
-    margin: window.innerWidth < 768 ? '10px' : '0'
-  }}
->
+        onClick={e => e.stopPropagation()}
+        style={{
+          backgroundColor: colors.white,
+          maxWidth: window.innerWidth < 768 ? '95vw' : '1000px',
+          width: '100%',
+          maxHeight: '90vh',
+          overflowY: 'auto',
+          border: `4px solid ${colors.black}`,
+          position: 'relative',
+          margin: window.innerWidth < 768 ? '10px' : '0'
+        }}
+      >
         <button
           onClick={onClose}
           style={{
@@ -1052,11 +1087,11 @@ function RecordModal({ record, onClose }) {
 
         <div style={{ padding: window.innerWidth < 768 ? '20px' : '40px' }}>
           <div style={{
-  display: 'grid',
-  gridTemplateColumns: window.innerWidth < 768 ? '1fr' : '1fr 1fr',
-  gap: '30px',
-  marginBottom: '30px'
-}}>
+            display: 'grid',
+            gridTemplateColumns: window.innerWidth < 768 ? '1fr' : '1fr 1fr',
+            gap: '30px',
+            marginBottom: '30px'
+          }}>
             <ImageGallery record={record} />
 
             <div>
@@ -1078,13 +1113,35 @@ function RecordModal({ record, onClose }) {
                 {record.title}
               </h3>
 
-              <div style={{
-                fontSize: '3rem',
-                fontWeight: '900',
-                marginBottom: '20px',
-                color: colors.black
-              }}>
-                ${record.price?.toFixed(2)}
+              {/* UPDATED PRICING SECTION */}
+              <div style={{ marginBottom: '20px' }}>
+                {isOnSale ? (
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '15px', flexWrap: 'wrap' }}>
+                    <span style={{
+                      textDecoration: 'line-through',
+                      color: '#999',
+                      fontSize: '2rem',
+                      fontWeight: '700'
+                    }}>
+                      ${record.price?.toFixed(2)}
+                    </span>
+                    <span style={{
+                      fontSize: '3rem',
+                      fontWeight: '900',
+                      color: colors.orange
+                    }}>
+                      ${record.salePrice?.toFixed(2)}
+                    </span>
+                  </div>
+                ) : (
+                  <div style={{
+                    fontSize: '3rem',
+                    fontWeight: '900',
+                    color: colors.black
+                  }}>
+                    ${record.price?.toFixed(2)}
+                  </div>
+                )}
               </div>
 
               <VinylColorDisplayLarge record={record} />
@@ -1106,22 +1163,22 @@ function RecordModal({ record, onClose }) {
               </div>
 
               <p style={{
-  fontSize: window.innerWidth < 768 ? '0.9rem' : '1rem',
-  lineHeight: '1.6',
-  color: '#333'
-}}>
+                fontSize: window.innerWidth < 768 ? '0.9rem' : '1rem',
+                lineHeight: '1.6',
+                color: '#333'
+              }}>
                 {record.descriptions?.short || record.description || ''}
               </p>
             </div>
           </div>
 
           <div style={{
-  display: 'grid',
-  gridTemplateColumns: window.innerWidth < 768 ? '1fr' : '1fr 1fr',
-  gap: window.innerWidth < 768 ? '15px' : '20px',
-  marginBottom: '30px',
-  padding: window.innerWidth < 768 ? '0 5px' : '0'
-}}>
+            display: 'grid',
+            gridTemplateColumns: window.innerWidth < 768 ? '1fr' : '1fr 1fr',
+            gap: window.innerWidth < 768 ? '15px' : '20px',
+            marginBottom: '30px',
+            padding: window.innerWidth < 768 ? '0 5px' : '0'
+          }}>
             {record.descriptions?.medium && (
               <div style={{
                 padding: '20px',
@@ -1135,42 +1192,42 @@ function RecordModal({ record, onClose }) {
               </div>
             )}
 
-           {/* Spotify - LAZY LOAD */}
-{record.spotify?.albumURL && (
-  <div style={{ marginBottom: '20px' }}>
-    {!showSpotify ? (
-      <button
-        onClick={() => setShowSpotify(true)}
-        style={{
-          width: '100%',
-          padding: '16px',
-          backgroundColor: '#1DB954',
-          color: colors.white,
-          border: `3px solid ${colors.black}`,
-          fontSize: '1rem',
-          fontWeight: '700',
-          cursor: 'pointer',
-          textTransform: 'uppercase',
-          letterSpacing: '0.05em'
-        }}
-      >
-        ▶ PREVIEW ON SPOTIFY
-      </button>
-    ) : (
-      <iframe
-        src={`https://open.spotify.com/embed/album/${record.spotify.albumURL.split('/album/')[1]?.split('?')[0]}`}
-        width="100%"
-        height="380"
-        frameBorder="0"
-        allow="encrypted-media"
-        title="Spotify Player"
-        style={{
-          border: `3px solid ${colors.black}`
-        }}
-      />
-    )}
-  </div>
-)}
+            {/* Spotify - LAZY LOAD */}
+            {record.spotify?.albumURL && (
+              <div style={{ marginBottom: '20px' }}>
+                {!showSpotify ? (
+                  <button
+                    onClick={() => setShowSpotify(true)}
+                    style={{
+                      width: '100%',
+                      padding: '16px',
+                      backgroundColor: '#1DB954',
+                      color: colors.white,
+                      border: `3px solid ${colors.black}`,
+                      fontSize: '1rem',
+                      fontWeight: '700',
+                      cursor: 'pointer',
+                      textTransform: 'uppercase',
+                      letterSpacing: '0.05em'
+                    }}
+                  >
+                    ▶ PREVIEW ON SPOTIFY
+                  </button>
+                ) : (
+                  <iframe
+                    src={`https://open.spotify.com/embed/album/${record.spotify.albumURL.split('/album/')[1]?.split('?')[0]}`}
+                    width="100%"
+                    height="380"
+                    frameBorder="0"
+                    allow="encrypted-media"
+                    title="Spotify Player"
+                    style={{
+                      border: `3px solid ${colors.black}`
+                    }}
+                  />
+                )}
+              </div>
+            )}
           </div>
 
           <div style={{
@@ -1209,27 +1266,28 @@ function RecordModal({ record, onClose }) {
               />
             </div>
 
-            <a
-              href={`https://venmo.com/u/Jackson-Visser?txn=pay&amount=${record.price}&note=${encodeURIComponent(record.artist + ' - ' + record.title)}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                display: 'inline-block',
-                padding: '16px 40px',
-                backgroundColor: colors.orange,
-                color: colors.white,
-                textDecoration: 'none',
-                fontWeight: '900',
-                fontSize: '1.1rem',
-                textTransform: 'uppercase',
-                letterSpacing: '0.05em',
-                border: `3px solid ${colors.black}`,
-                marginTop: '20px',
-                marginBottom: '16px'
-              }}
-            >
-              PAY ${record.price?.toFixed(2)}
-            </a>
+            {/* UPDATED VENMO BUTTON - uses displayPrice */}
+            
+             <a href={`https://venmo.com/u/Jackson-Visser?txn=pay&amount=${displayPrice}&note=${encodeURIComponent(record.artist + ' - ' + record.title)}`}
+  target="_blank"
+  rel="noopener noreferrer"
+  style={{
+    display: 'inline-block',
+    padding: '16px 40px',
+    backgroundColor: colors.orange,
+    color: colors.white,
+    textDecoration: 'none',
+    fontWeight: '900',
+    fontSize: '1.1rem',
+    textTransform: 'uppercase',
+    letterSpacing: '0.05em',
+    border: `3px solid ${colors.black}`,
+    marginTop: '20px',
+    marginBottom: '16px'
+  }}
+>
+  PAY ${displayPrice?.toFixed(2)}
+</a>
 
             <p style={{
               margin: '0 0 8px 0',
@@ -1249,117 +1307,10 @@ function RecordModal({ record, onClose }) {
             <p style={{ margin: '16px 0 0 0', fontSize: '0.85rem', color: colors.black, fontStyle: 'italic' }}>
               Don't have Venmo? Email to arrange payment.
             </p>
-            {/* // FOOTER*/}
-
-<footer style={{
-  backgroundColor: '#E8630A',
-  borderTop: `4px solid ${colors.black}`,
-  padding: '40px 20px',
-  marginTop: '60px'
-}}>
-  <div style={{
-    maxWidth: '1400px',
-    margin: '0 auto',
-    display: 'flex',
-    flexDirection: window.innerWidth < 768 ? 'column' : 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    gap: '20px'
-  }}>
-    <p style={{
-      margin: 0,
-      color: '#FFFFFF',
-      fontSize: '0.9rem',
-      fontWeight: '600',
-      letterSpacing: '0.05em'
-    }}>
-      © 2026 MOST LIKELY RECORDS
-    </p>
-
-    <div style={{
-      display: 'flex',
-      gap: '15px',
-      alignItems: 'center'
-    }}>
-      {/* Instagram */}
-      <a
-        href="https://www.instagram.com/mostlikelyrecords"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Visit our Instagram"
-        style={{
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          width: '50px',
-          height: '50px',
-          backgroundColor: '#40E0D0',
-          border: '3px solid #000000',
-          textDecoration: 'none',
-          transition: 'all 0.2s ease'
-        }}
-        onMouseEnter={(e) => {
-          e.currentTarget.style.backgroundColor = '#87CEEB';
-          e.currentTarget.style.transform = 'translateY(-2px)';
-        }}
-        onMouseLeave={(e) => {
-          e.currentTarget.style.backgroundColor = '#40E0D0';
-          e.currentTarget.style.transform = 'translateY(0)';
-        }}
-      >
-        <svg
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-          fill="#000000"
-        >
-          <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
-        </svg>
-      </a>
-
-      {/* TikTok */}
-      <a
-        href="https://www.tiktok.com/@mostlikelyrecords"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Visit our TikTok"
-        style={{
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          width: '50px',
-          height: '50px',
-          backgroundColor: '#40E0D0',
-          border: '3px solid #000000',
-          textDecoration: 'none',
-          transition: 'all 0.2s ease'
-        }}
-        onMouseEnter={(e) => {
-          e.currentTarget.style.backgroundColor = '#87CEEB';
-          e.currentTarget.style.transform = 'translateY(-2px)';
-        }}
-        onMouseLeave={(e) => {
-          e.currentTarget.style.backgroundColor = '#40E0D0';
-          e.currentTarget.style.transform = 'translateY(0)';
-        }}
-      >
-        <svg
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-          fill="#000000"
-        >
-          <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"/>
-        </svg>
-      </a>
-    </div>
-  </div>
-</footer>
           </div>
         </div>
       </div>
     </div>
-    
   );
 }
 
