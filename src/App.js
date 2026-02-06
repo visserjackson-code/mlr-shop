@@ -396,7 +396,7 @@ function PromoBanner() {
 </span>
         <br />
         Buy any record at regular price and add <strong>GNX</strong> <i>(current Grammy winning Best Rap Album) </i> 
-           and/or <strong>CHROMAKOPIA</strong> for just <strong style={{ fontSize: '1.2em' }}>$20</strong> each!
+           and/or <strong>CHROMAKOPIA</strong> for just <strong style={{ fontSize: '1.2em' }}>$19.99</strong> each!
         <br />
         <span style={{ fontSize: '0.85em' }}>
           Otherwise $35 each • Not valid with other discounts • Ends Monday 2/09 at 9AM EST
@@ -512,8 +512,12 @@ Most Likely Records is a curated vinyl shop run by me,
           </h2>
           <ol style={{ paddingLeft: '20px', lineHeight: '1.8' }}>
             <li>Browse the shop and click on any record for details</li>
-            <li>Pay via Venmo (scan QR code or click the payment link)</li>
-            <li>Email me confirmation at visserjackson@gmail.com</li>
+            <li>Click the "Email" button to send a custom invoice representing your order
+              <br />
+              <i>(This will include your total, any discounts, and $6 shipping)</i>
+               <br />
+              <i>(If you are able, please message me on Instagram or TikTok <strong>@mostlikelyrecords</strong> after ordering 2 or more records. This helps me quickly hide your order from other customers.)</i>
+            </li>
             <li>I'll ship within 1-2 business days and send tracking</li>
           </ol>
         </div>
@@ -1264,7 +1268,7 @@ function RecordModal({ record, onClose }) {
               marginBottom: '20px',
               fontWeight: '600'
             }}>
-              Email your order to get a custom Venmo request with your total, including any sale discounts and $6 shipping. <br /> <i>(other payment options also accepted!)</i>
+              Email your order to get a custom Venmo request with your final total. Your calculated final total will subtract any discounts and add $6.00 shipping. <br /> <i>(other payment options also accepted!)</i>
             </p>
 
             

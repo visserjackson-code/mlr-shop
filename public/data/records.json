@@ -25,7 +25,7 @@
   "artist": "Kendrick Lamar",
   "title": "GNX",
   "genre": [
-    "Hip Hop",
+    "Hip-Hop",
     "Rap"
   ],
   "labels": [
@@ -46,7 +46,7 @@
     "medium": "GNX finds Kendrick returning to his West Coast roots with gritty, sample-heavy production. The album balances introspection with club-ready bangers, showcasing his versatility as both a technical rapper and cultural commentator. Jack Antonoff and DJ Mustard's production shines throughout, adding a fresh layer to Kendrick's sound."
   },
   "price": 35.00,
-  "salePrice": 20.00,
+  "salePrice": 19.99,
   "saleCondition": "bundle_only",
   "quantity": 1,
   "isLimited": true,
@@ -90,8 +90,8 @@
   "artist": "Tyler, The Creator",
   "title": "CHROMAKOPIA",
   "genre": [
-    "Hip Hop",
-    "Alternative Hip Hop",
+    "Hip-Hop",
+    "Alternative Hip-Hop",
     "R&B"
   ],
   "labels": [
@@ -111,7 +111,7 @@
     "medium": "CHROMAKOPIA marks Tyler's most personal work to date, with his mother Bonita Smith providing narration and emotional anchor points. The production is lush and layered, drawing from soul, jazz, and electronic influences. Tyler balances vulnerability with his signature wit, creating an album that rewards repeated listens. The white vinyl pressing enhances the album's visual aesthetic."
   },
   "price": 35.00,
-  "salePrice": 20.00,
+  "salePrice": 19.99,
   "saleCondition": "bundle_only",
   "quantity": 1,
   "isLimited": true,
@@ -142,6 +142,201 @@
     "back": "/covers-optimized/chroma_back.webp",
     "disc": "/covers-optimized/chroma_disc.webp",
     "others": {}
+  }
+},
+{
+  "id": "15002915-Kanye-West-Graduation",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3?si=xUEeaso-RK6T6W4hrCC4nA",
+    "topSong": ""
+  },
+  "slug": "kanye-west-graduation-bootleg",
+  "catalogNo": "KANYEGRADUATION003",
+  "artist": "Kanye West",
+  "title": "Graduation",
+  "genre": [
+    "Hip-Hop",
+    "Rap"
+  ],
+  "labels": [
+    "Getting Out Our Dreams"
+  ],
+  "formatText": "2xLP, Album",
+  "year": "2013",
+  "discogsReleaseId": "15002915",
+  "condition": {
+    "media": "NM-",
+    "sleeve": "NM-"
+  },
+  "sealed": false,
+  "descriptions": {
+    "short": "Kanye's third studio album and a commercial juggernaut - became the #1 streamed rap album of 2025, nearly two decades after release. Features anthems like 'Stronger,' 'Good Life,' and 'Flashing Lights' that defined an era. Peak Ye before the chaos, showcasing his sample-flipping brilliance and arena-ready production.",
+    "medium": "Unofficial bootleg on dark purple vinyl featuring UK and Japanese bonus tracks. Played fewer than five times - sounds clean with no crackles or telltale bootleg compression issues. The pressing quality is surprisingly strong, doing justice to this era of Kanye's career. Includes anthems like 'Stronger,' 'Can't Tell Me Nothing,' and 'Flashing Lights' plus the hard-to-find bonus material. A practical way to own a classic album without dropping collector money on official variants."
+  },
+  "price": 39.99,
+  "quantity": 1,
+  "isLimited": true,
+  "limitedDetails": "Includes US, UK, and JPN bonus tracks on Side D.",
+  "isColored": true,
+  "vinylColors": [
+    {
+      "name": "Dark Purple",
+      "hex": "#5D4B8C",
+      "note": ""
+    }
+  ],
+  "colorDisplay": {
+    "mode": "singleDisc",
+    "discs": [
+      {
+        "name": "Dark Purple",
+        "hex": "#5D4B8C"
+      }
+    ]
+  },
+  "status": "active",
+  "sortWeight": 10,
+  "createdAt": "2026-02-06",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers-optimized/graduation_front.webp",
+    "back": "/covers-optimized/graduation_back.webp",
+    "disc": "/covers-optimized/graduation_disc.webp",
+    "others": {}
+  }
+},
+{
+  "id": "13041440",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK?si=izzsjrTsSXmPEPzhlPndPw",
+    "topSong": ""
+  },
+  "slug": "13041440-Kanye-West-Yeezus",
+  "catalogNo": "DJX-3313",
+  "artist": "Kanye West",
+  "title": "Yeezus",
+  "genre": [
+    "Hip-Hop",
+    "Rap"
+  ],
+  "labels": [
+    "Not on Label"
+  ],
+  "formatText": "LP, Album, Bootleg",
+  "year": "2018",
+  "discogsReleaseId": "13041440",
+  "condition": {
+    "media": "NM-",
+    "sleeve": "VG"
+  },
+  "sealed": false,
+  "descriptions": {
+    "short": "Kanye's most abrasive and polarizing album - stripped-down industrial assault that ditched maximalism for raw, distorted minimalism. Dropped in 2013 when trap was dominating, Yeezus went the opposite direction with Death Grips-influenced chaos and Rick Rubin's brutal production philosophy. Songs like 'Black Skinhead' and 'New Slaves' felt confrontational and unfinished by design. Love it or hate it, this redefined what mainstream rap could sound like.",
+    "medium": "Orange vinyl bootleg in a 'DJ EXCLUSIVE - FOR PROMOTIONAL USE ONLY' sleeve with 'LIMITED EDITION VINYL LP' stamping and a blank '___/500' numbering field. Pure bootleg theater, but the audio quality holds up - Yeezus's industrial chaos (distorted synths, Rick Rubin's brutal minimalism, primal drums) comes through without heavy compression or crackle. 'On Sight' and 'Blood on the Leaves' still sound confrontational and raw.  The orange wax fits the album's provocative aesthetic."
+  },
+  "price": 49.99,
+  "quantity": 1,
+  "isLimited": true,
+  "limitedDetails": "1/500",
+  "isColored": false,
+  "vinylColors": [
+    {
+      "name": "Orange",
+      "hex": "#c06b00",
+      "note": ""
+    }
+  ],
+  "colorDisplay": {
+    "mode": "singleDisc",
+    "discs": [
+      {
+        "name": "Orange",
+        "hex": "#c06b00"
+      }
+    ]
+  },
+  "status": "active",
+  "sortWeight": 10,
+  "createdAt": "2026-02-06",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers-optimized/yeezus_front.webp",
+    "back": "/covers-optimized/yeezus_back.webp",
+    "disc": "/covers-optimized/yeezus_disc.webp",
+    "others": {}
+  }
+},
+{
+  "id": "33457610",
+  "spotify": {
+    "albumURL": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1?si=b6n0fZT9RJuYLyyB_PmwgQ",
+    "topSong": ""
+  },
+  "slug": "33457610-Kanye-West-The-Life-Of-Pablo",
+  "catalogNo": "l709840",
+  "artist": "Kanye West",
+  "title": "The Life Of Pablo",
+  "genre": [
+    "Hip-Hop",
+    "Rap"
+  ],
+  "labels": [
+    "Getting Out Our Dreams"
+  ],
+  "formatText": "LP, Album, Bootleg",
+  "year": "2016",
+  "discogsReleaseId": "33457610",
+  "condition": {
+    "media": "NM-",
+    "sleeve": "NM-"
+  },
+  "sealed": false,
+  "descriptions": {
+    "short": "Kanye's messy, sprawling masterpiece - released exclusively on TIDAL in 2016, then continuously updated and tweaked in real-time. Gospel samples collide with trap drums, AutoTune crooning, and chaotic features across 20 tracks. 'Ultralight Beam,' 'Famous,' and 'Waves' capture Ye at his most unfiltered and ambitious. An album that refused to stay finished, reflecting Kanye's restless creative process.",
+    "medium": " The audio quality is surprisingly strong for a bootleg, with gospel samples, trap drums, and Auto-Tune vocals coming through clean. Played fewer than five times, no noticeable surface noise or compression artifacts that plague cheaper unofficial pressings. Tracks like 'Ultralight Beam,' 'Famous,' and 'Waves' showcase Kanye's maximalist chaos at its peak - sprawling, messy, ambitious, and unapologetically unfinished. A solid way to own this era of Ye without hunting down obscure official variants or paying collector premiums."
+  },
+
+  "price": 39.99,
+  "quantity": 1,
+  "isLimited": true,
+  "limitedDetails": "Yellow Marbled and Tan",
+  "isColored": false,
+  "vinylColors": [
+    {
+      "name": "Yellow Marbled",
+      "hex": "#9b6401",
+      "note": ""
+    },
+    {
+      "name": "Tan",
+      "hex": "#6a3841",
+      "note": ""
+    }
+  ],
+  "colorDisplay": {
+    "mode": "multiDisc",
+    "discs": [
+      {
+        "name": "Yellow Marbled",
+        "hex": "#9b6401"
+      },
+      {
+        "name": "Tan",
+        "hex": "#6a3841"
+      }
+    ]
+  },
+  "status": "active",
+  "sortWeight": 10,
+  "createdAt": "2026-02-06",
+  "soldAt": null,
+  "images": {
+    "cover": "/covers-optimized/lifeofpablo_front.webp",
+    "back": "/covers-optimized/lifeofpablo_back.webp",
+    "disc": "/covers-optimized/lifeofpablo_disc.webp",
+    "others": {
+      "disc2": "/covers-optimized/lifeofpablo_disc2.webp"
+    }
   }
 },
     {
@@ -296,6 +491,8 @@
         "medium": "This promo pressing captures the moment Kanye West transformed from underground producer to revolutionary artist. Chipmunk soul samples and conscious themes broke conventions, influencing a generation of rappers. The 'NOT FOR SALE' stamp adds historical significance to an album that changed hip-hop's trajectory."
       },
       "price": 32.99,
+      "salePrice": 29.99,
+      "saleCondition": "",
       "quantity": 1,
       "isLimited": true,
       "limitedDetails": "Promo Copy",
@@ -417,6 +614,8 @@
         "medium": "This collaboration showcases Boldy's monotone delivery and vivid storytelling over production that channels classic East Coast boom-bap with modern touches. The green vinyl variant adds collectibility to an album that represents Griselda's dedication to pure, unfiltered hip-hop craftsmanship."
       },
       "price": 54.99,
+      "salePrice": 49.99,
+      "saleCondition": "",
       "quantity": 1,
       "isLimited": true,
       "limitedDetails": "",
@@ -510,6 +709,65 @@
       }
     },
     {
+      "id": "action-bronson-only-for-dolphins",
+      "spotify": {
+        "albumURL": "https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k?si=3R975klhT2a_OMS2FC1WQQ",
+        "topSong": ""
+      },
+      "slug": "action-bronson-only-for-dolphins",
+      "artist": "Action Bronson",
+      "title": "Only for Dolphins",
+      "genre": [
+        "Hip-Hop",
+        "Rap"
+      ],
+      "labels": [
+        "Loma Vista Recordings"
+      ],
+      "formatText": "LP, Album",
+      "year": 2020,
+      "condition": {
+        "media": "VG+",
+        "sleeve": "VG+"
+      },
+      "sealed": false,
+      "descriptions": {
+        "short": "Action Bronson gets psychedelic and adventurous on Only for Dolphins. The production is colorful and eclectic, Bronson's bars equal parts food references and street tales. It's a fun, unpredictable listen.",
+        "medium": "'Capoeira' opens with hypnotic production and Bronson's rapid-fire flow. 'Latin Grammys' featuring Hologram is built around a dreamy sample and showcases Bronson's personality, while 'Sergio' is a reflection on his life and career over a stunning Alchemist beat."
+      },
+      "price": 33.99,
+      "salePrice": 24.99,
+      "saleCondition": "",
+      "quantity": 1,
+      "isLimited": false,
+      "isColored": false,
+      "vinylColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "note": ""
+        }
+      ],
+      "colorDisplay": {
+        "mode": "standardBlack",
+        "discs": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          }
+        ]
+      },
+      "status": "active",
+      "soldAt": null,
+      "createdAt": "2026-01-21",
+      "images": {
+        "cover": "/covers-optimized/dolphins_front.webp",
+        "back": "/covers-optimized/dolphins_back.webp",
+        "disc": "/covers-optimized/dolphins_disc.webp"
+      },
+      "sortWeight": 10
+    },
+    {
       "id": "discogs-5734419",
       "spotify": {
         "albumURL": "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=fcRJkPauTjyo8gTzBczzcw",
@@ -541,6 +799,8 @@
         "medium": "'Good Times Bad Times' kicks things off with one of the most powerful drum intros ever recorded. 'Dazed and Confused' stretches out into psychedelic territory with Jimmy Page's violin bow theatrics, while 'Babe I'm Gonna Leave You' shows their softer, folk-influenced side."
       },
       "price": 30.99,
+      "salePrice": 24.99,
+      "saleCondition": "",
       "quantity": 1,
       "isLimited": false,
       "limitedDetails": "",
@@ -569,70 +829,6 @@
         "cover": "/covers-optimized/ledzep_front.webp",
         "back": "/covers-optimized/ledzep_back.webp",
         "disc": "/covers-optimized/ledzep_disc_closeup.webp",
-        "others": {}
-      }
-    },
-    {
-      "id": "discogs-29019493",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT?si=LiBVPiBrRP2GFzypZcLJ5A",
-        "topSong": ""
-      },
-      "stripeProductId": "prod_Tm0Q7gZ76XrJkP",
-      "stripePriceId": "price_1SoSQHARP79DaMXlk1qSXJqP",
-      "slug": "trans-siberian-orchestra-christmas-eve-and-other-stories-29019493",
-      "catalogNo": "081227957629, R1 579576",
-      "artist": "Trans-Siberian Orchestra",
-      "title": "Christmas Eve And Other Stories",
-      "genre": [
-        "Prog Rock",
-        "Holiday"
-      ],
-      "labels": [
-        "Atlantic",
-        "Rhino Records (2)"
-      ],
-      "formatText": "LP, Ltd, RE, Cry",
-      "year": 2021,
-      "discogsReleaseId": 29019493,
-      "condition": {
-        "media": "VG+",
-        "sleeve": "VG+"
-      },
-      "sealed": false,
-      "descriptions": {
-        "short": "Trans-Siberian Orchestra turned holiday music into a rock opera. This album is over-the-top in the best way—orchestral, electric, and dramatic. Perfect for anyone who wants their Christmas music with more guitars and less Bing Crosby.",
-        "medium": "The album weaves a narrative through tracks like 'O Come All Ye Faithful/O Holy Night,' which builds from quiet reverence to full rock choir. 'Christmas Eve/Sarajevo 12/24' is their signature piece—a mashup of 'God Rest Ye Merry Gentlemen' and 'Carol of the Bells' that's become a modern holiday classic."
-      },
-      "price": 50.99,
-      "quantity": 1,
-      "isLimited": true,
-      "limitedDetails": "",
-      "isColored": true,
-      "vinylColors": [
-        {
-          "name": "Clear",
-          "hex": "#79786e",
-          "note": ""
-        }
-      ],
-      "colorDisplay": {
-        "mode": "singleDisc",
-        "discs": [
-          {
-            "name": "Clear",
-            "hex": "#79786e"
-          }
-        ]
-      },
-      "status": "active",
-      "sortWeight": 6,
-      "createdAt": "2026-01-17",
-      "soldAt": null,
-      "images": {
-        "cover": "/covers-optimized/transib_front.webp",
-        "back": "/covers-optimized/transib_back.webp",
-        "disc": "/covers-optimized/transib_disc.webp",
         "others": {}
       }
     },
@@ -668,6 +864,8 @@
         "medium": "The title track 'At Last' is one of the most iconic love songs ever recorded, with Etta's voice soaring over lush strings. 'I Just Want to Make Love to You' brings blues grit, while 'Sunday Kind of Love' is tender and wistful."
       },
       "price": 30.99,
+      "salePrice": 24.99,
+      "saleCondition": "",
       "quantity": 1,
       "isLimited": true,
       "limitedDetails": "",
@@ -756,63 +954,6 @@
       "sortWeight": 8
     },
     {
-      "id": "action-bronson-only-for-dolphins",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k?si=3R975klhT2a_OMS2FC1WQQ",
-        "topSong": ""
-      },
-      "slug": "action-bronson-only-for-dolphins",
-      "artist": "Action Bronson",
-      "title": "Only for Dolphins",
-      "genre": [
-        "Hip-Hop",
-        "Rap"
-      ],
-      "labels": [
-        "Loma Vista Recordings"
-      ],
-      "formatText": "LP, Album",
-      "year": 2020,
-      "condition": {
-        "media": "VG+",
-        "sleeve": "VG+"
-      },
-      "sealed": false,
-      "descriptions": {
-        "short": "Action Bronson gets psychedelic and adventurous on Only for Dolphins. The production is colorful and eclectic, Bronson's bars equal parts food references and street tales. It's a fun, unpredictable listen.",
-        "medium": "'Capoeira' opens with hypnotic production and Bronson's rapid-fire flow. 'Latin Grammys' featuring Hologram is built around a dreamy sample and showcases Bronson's personality, while 'Sergio' is a reflection on his life and career over a stunning Alchemist beat."
-      },
-      "price": 33.99,
-      "quantity": 1,
-      "isLimited": false,
-      "isColored": false,
-      "vinylColors": [
-        {
-          "name": "Black",
-          "hex": "#000000",
-          "note": ""
-        }
-      ],
-      "colorDisplay": {
-        "mode": "standardBlack",
-        "discs": [
-          {
-            "name": "Black",
-            "hex": "#000000"
-          }
-        ]
-      },
-      "status": "active",
-      "soldAt": null,
-      "createdAt": "2026-01-21",
-      "images": {
-        "cover": "/covers-optimized/dolphins_front.webp",
-        "back": "/covers-optimized/dolphins_back.webp",
-        "disc": "/covers-optimized/dolphins_disc.webp"
-      },
-      "sortWeight": 2
-    },
-    {
       "id": "new-order-power-corruption-lies",
       "spotify": {
         "albumURL": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ?si=9V-AeXhCRyaypBokMMEJcQ",
@@ -843,6 +984,8 @@
         "medium": "'Age of Consent' opens with one of the band's most iconic guitar riffs and propulsive drums. 'Your Silent Face' is atmospheric and emotional, featuring synths and Bernard Sumner's distant vocals, while '5 8 6' is pure dance-floor energy."
       },
       "price": 30.99,
+      "salePrice": 28.99,
+      "saleCondition": "",
       "quantity": 1,
       "isLimited": false,
       "isColored": false,
@@ -871,63 +1014,6 @@
         "disc": "/covers-optimized/neworder_power_disc.webp"
       },
       "sortWeight": 4
-    },
-    {
-      "id": "joy-division-love-will-tear-us-apart",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G?si=gmtzqTrXTtq5JYCcSAnQkw",
-        "topSong": ""
-      },
-      "slug": "joy-division-love-will-tear-us-apart",
-      "artist": "Joy Division",
-      "title": "Love Will Tear Us Apart",
-      "genre": [
-        "Indie",
-        "Alternative",
-        "Post-Punk"
-      ],
-      "labels": [
-        "Factory"
-      ],
-      "formatText": "7\", Single",
-      "year": 1980,
-      "condition": {
-        "media": "M",
-        "sleeve": "M"
-      },
-      "sealed": true,
-      "descriptions": {
-        "short": "This is one of the most iconic singles in post-punk history. Ian Curtis's haunting vocals over the shimmering synth line create something timeless. If you only own one Joy Division record, make it this one.",
-        "medium": "The A-side 'Love Will Tear Us Apart' is the definitive version of Joy Division's sound—emotional, precise, and devastating. The B-sides vary by pressing but often include tracks like 'These Days' which showcase the band's more experimental, atmospheric side."
-      },
-      "price": 36.99,
-      "quantity": 1,
-      "isLimited": false,
-      "isColored": false,
-      "vinylColors": [
-        {
-          "name": "Black",
-          "hex": "#000000",
-          "note": ""
-        }
-      ],
-      "colorDisplay": {
-        "mode": "standardBlack",
-        "discs": [
-          {
-            "name": "Black",
-            "hex": "#000000"
-          }
-        ]
-      },
-      "status": "sold",
-      "soldAt": "default",
-      "createdAt": "2026-01-21",
-      "images": {
-        "cover": "/covers-optimized/joydivision_single_front.webp",
-        "back": "/covers-optimized/joydivision_single_back.webp"
-      },
-      "sortWeight": 5
     },
     {
       "id": "chi-lites-best-of",
