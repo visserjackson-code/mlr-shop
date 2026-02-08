@@ -385,7 +385,7 @@ function PromoBanner() {
         letterSpacing: '0.03em'
       }}>
        <span style={{ 
-  fontSize: window.innerWidth < 768 ? '1.3rem' : '1.6rem',
+  fontSize: window.innerWidth < 768 ? '2.3rem' : '2.6rem',
   color: colors.orange,
   textTransform: 'uppercase',
   fontWeight: '900',
@@ -395,11 +395,10 @@ function PromoBanner() {
   🔥🏈 SUPER BOWL SALE 🏈🔥
 </span>
         <br />
-        Buy any record at regular price and add <strong>GNX</strong> <i>(current Grammy winning Best Rap Album) </i> 
-           and/or <strong>CHROMAKOPIA</strong> for just <strong style={{ fontSize: '1.2em' }}>$19.99</strong> each!
+       BUY 2+ RECORDS? GET FREE SHIPPING! ● BUY 3+ RECORDS? GET FREE WORLDWIDE SHIPPING AND 15% OFF YOUR TOTAL ● DISCOUNTS ARE APPLIED AT CHECKOUT.
         <br />
-        <span style={{ fontSize: '0.85em' }}>
-          Otherwise $35 each • Not valid with other discounts • Ends Monday 2/09 at 9AM EST
+        <span style={{ fontSize: window.innerWidth < 768 ? '2.6em' : '2.9em' }}>
+       🔁  NOW EXTENDED TO THURSDAY 2/12 AT 9AM EST. 🚀
         </span>
       </div>
     </div>

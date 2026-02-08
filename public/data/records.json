@@ -106,6 +106,8 @@
         "medium": "Macintosh Plus transformed Diana Ross and corporate muzak into hypnotic, disorienting soundscapes that critique and celebrate consumerism simultaneously. The iconic 'リサフランク420 / 現代のコンピュー' became vaporwave's signature track, defining internet music culture and aesthetic philosophy for a generation."
       },
       "price": 64.99,
+      "salePrice": 54.99,
+      "saleCondition": "",
       "quantity": 1,
       "isLimited": false,
       "limitedDetails": "",
@@ -227,7 +229,7 @@
         "medium": "This promo pressing captures the moment Kanye West transformed from underground producer to revolutionary artist. Chipmunk soul samples and conscious themes broke conventions, influencing a generation of rappers. The 'NOT FOR SALE' stamp adds historical significance to an album that changed hip-hop's trajectory."
       },
       "price": 32.99,
-      "salePrice": 29.99,
+      "salePrice": 24.99,
       "saleCondition": "",
       "quantity": 1,
       "isLimited": true,
@@ -250,7 +252,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 7,
+      "sortWeight": 5,
       "createdAt": "2026-01-27",
       "soldAt": null,
       "images": {
@@ -290,6 +292,8 @@
         "medium": "This album captured lightning in a bottle, showcasing Juice's ability to freestyle melancholic melodies over trap beats. The raw emotional honesty and pop hooks made him a voice for Gen Z heartbreak, while his effortless delivery influenced countless imitators in the emo rap wave."
       },
       "price": 19.99,
+      "salePrice": 14.99,
+      "saleCondition": "",
       "quantity": 1,
       "isLimited": false,
       "limitedDetails": "",
@@ -311,7 +315,7 @@
         ]
       },
       "status": "active",
-      "sortWeight": 3,
+      "sortWeight": 8,
       "createdAt": "2026-01-27",
       "soldAt": null,
       "images": {
@@ -320,65 +324,6 @@
         "disc": "/covers-optimized/juicewrld_disc.webp",
         "others": {}
       }
-    },
-    {
-      "id": "action-bronson-only-for-dolphins",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k?si=3R975klhT2a_OMS2FC1WQQ",
-        "topSong": ""
-      },
-      "slug": "action-bronson-only-for-dolphins",
-      "artist": "Action Bronson",
-      "title": "Only for Dolphins",
-      "genre": [
-        "Hip-Hop",
-        "Rap"
-      ],
-      "labels": [
-        "Loma Vista Recordings"
-      ],
-      "formatText": "LP, Album",
-      "year": 2020,
-      "condition": {
-        "media": "VG+",
-        "sleeve": "VG+"
-      },
-      "sealed": false,
-      "descriptions": {
-        "short": "Action Bronson gets psychedelic and adventurous on Only for Dolphins. The production is colorful and eclectic, Bronson's bars equal parts food references and street tales. It's a fun, unpredictable listen.",
-        "medium": "'Capoeira' opens with hypnotic production and Bronson's rapid-fire flow. 'Latin Grammys' featuring Hologram is built around a dreamy sample and showcases Bronson's personality, while 'Sergio' is a reflection on his life and career over a stunning Alchemist beat."
-      },
-      "price": 33.99,
-      "salePrice": 24.99,
-      "saleCondition": "",
-      "quantity": 1,
-      "isLimited": false,
-      "isColored": false,
-      "vinylColors": [
-        {
-          "name": "Black",
-          "hex": "#000000",
-          "note": ""
-        }
-      ],
-      "colorDisplay": {
-        "mode": "standardBlack",
-        "discs": [
-          {
-            "name": "Black",
-            "hex": "#000000"
-          }
-        ]
-      },
-      "status": "sold",
-      "soldAt": "",
-      "createdAt": "2026-01-21",
-      "images": {
-        "cover": "/covers-optimized/dolphins_front.webp",
-        "back": "/covers-optimized/dolphins_back.webp",
-        "disc": "/covers-optimized/dolphins_disc.webp"
-      },
-      "sortWeight": 10
     },
     {
       "id": "discogs-5734419",
@@ -412,7 +357,7 @@
         "medium": "'Good Times Bad Times' kicks things off with one of the most powerful drum intros ever recorded. 'Dazed and Confused' stretches out into psychedelic territory with Jimmy Page's violin bow theatrics, while 'Babe I'm Gonna Leave You' shows their softer, folk-influenced side."
       },
       "price": 30.99,
-      "salePrice": 24.99,
+      "salePrice": 14.99,
       "saleCondition": "",
       "quantity": 1,
       "isLimited": false,
@@ -597,7 +542,7 @@
         "medium": "'Age of Consent' opens with one of the band's most iconic guitar riffs and propulsive drums. 'Your Silent Face' is atmospheric and emotional, featuring synths and Bernard Sumner's distant vocals, while '5 8 6' is pure dance-floor energy."
       },
       "price": 30.99,
-      "salePrice": 28.99,
+      "salePrice": 24.99,
       "saleCondition": "",
       "quantity": 1,
       "isLimited": false,
