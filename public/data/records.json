@@ -757,8 +757,8 @@
           }
         ]
       },
-      "status": "active",
-      "soldAt": null,
+      "status": "sold",
+      "soldAt": "",
       "createdAt": "2026-01-21",
       "images": {
         "cover": "/covers-optimized/dolphins_front.webp",
