@@ -14,198 +14,7 @@
     ]
   },
   "records": [
-    {
-  "id": "kendrick-lamar-gnx-target-gray",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW?si=tX4V0tX4QoGZTf8bMp0k8w",
-    "topSong": ""
-  },
-  "slug": "kendrick-lamar-gnx",
-  "catalogNo": "602475686750",
-  "artist": "Kendrick Lamar",
-  "title": "GNX",
-  "genre": [
-    "Hip-Hop",
-    "Rap"
-  ],
-  "labels": [
-    "pgLang",
-    "Interscope Records"
-  ],
-  "formatText": "LP, Album",
-  "year": 2024,
-  "discogsReleaseId": "",
-  "condition": {
-    "media": "NM+",
-    "sleeve": "NM+",
-    "notes": "Target Exclusive"
-  },
-  "sealed": false,
-  "descriptions": {
-    "short": "Kendrick's surprise 2024 release featuring West Coast production and sharp lyricism. Grammy Best Rap Album winner. This Target exclusive gray vinyl pressing is near-mint, barely played twice. Features 'squabble up' and collaborations with SZA.",
-    "medium": "GNX finds Kendrick returning to his West Coast roots with gritty, sample-heavy production. The album balances introspection with club-ready bangers, showcasing his versatility as both a technical rapper and cultural commentator. Jack Antonoff and DJ Mustard's production shines throughout, adding a fresh layer to Kendrick's sound."
-  },
-  "price": 35.00,
-  "salePrice": 19.99,
-  "saleCondition": "bundle_only",
-  "quantity": 1,
-  "isLimited": true,
-  "limitedDetails": "Target Exclusive Gray Vinyl",
-  "isColored": true,
-  "vinylColors": [
-    {
-      "name": "Gray",
-      "hex": "#808080",
-      "note": "Target Exclusive"
-    }
-  ],
-  "colorDisplay": {
-    "mode": "singleDisc",
-    "discs": [
-      {
-        "name": "Gray",
-        "hex": "#808080"
-      }
-    ]
-  },
-  "status": "active",
-  "sortWeight": 11,
-  "createdAt": "2026-02-05",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers-optimized/gnx_front.webp",
-    "back": "/covers-optimized/gnx_back.webp",
-    "disc": "/covers-optimized/gnx_disc.webp",
-    "others": {}
-  }
-},
-{
-  "id": "tyler-chromakopia-white-vinyl",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1?si=msujkr-MS1WhqtKJFm0zEw",
-    "topSong": ""
-  },
-  "slug": "tyler-the-creator-chromakopia",
-  "catalogNo": "19802926461",
-  "artist": "Tyler, The Creator",
-  "title": "CHROMAKOPIA",
-  "genre": [
-    "Hip-Hop",
-    "Alternative Hip-Hop",
-    "R&B"
-  ],
-  "labels": [
-    "Columbia Records"
-  ],
-  "formatText": "2xLP, Album",
-  "year": 2024,
-  "discogsReleaseId": "35518975",
-  "condition": {
-    "media": "NM-",
-    "sleeve": "NM-",
-    "notes": "White Vinyl Variant (includes 'Mother')"
-  },
-  "sealed": false,
-  "descriptions": {
-    "short": "Tyler's self-produced 2024 album blending soul, R&B, and experimental hip-hop. Grammy-nominated. This white vinyl variant features introspective production and guest appearances from his mother throughout. A mature, cohesive project showcasing Tyler's evolution as an artist and producer.",
-    "medium": "CHROMAKOPIA marks Tyler's most personal work to date, with his mother Bonita Smith providing narration and emotional anchor points. The production is lush and layered, drawing from soul, jazz, and electronic influences. Tyler balances vulnerability with his signature wit, creating an album that rewards repeated listens. The white vinyl pressing enhances the album's visual aesthetic."
-  },
-  "price": 35.00,
-  "salePrice": 19.99,
-  "saleCondition": "bundle_only",
-  "quantity": 1,
-  "isLimited": true,
-  "limitedDetails": "White Vinyl Variant",
-  "isColored": true,
-  "vinylColors": [
-    {
-      "name": "White",
-      "hex": "#FFFFFF",
-      "note": ""
-    }
-  ],
-  "colorDisplay": {
-    "mode": "singleDisc",
-    "discs": [
-      {
-        "name": "White",
-        "hex": "#FFFFFF"
-      }
-    ]
-  },
-  "status": "active",
-  "sortWeight": 12,
-  "createdAt": "2026-02-06",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers-optimized/chroma_front.webp",
-    "back": "/covers-optimized/chroma_back.webp",
-    "disc": "/covers-optimized/chroma_disc.webp",
-    "others": {}
-  }
-},
-{
-  "id": "15002915-Kanye-West-Graduation",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3?si=xUEeaso-RK6T6W4hrCC4nA",
-    "topSong": ""
-  },
-  "slug": "kanye-west-graduation-bootleg",
-  "catalogNo": "KANYEGRADUATION003",
-  "artist": "Kanye West",
-  "title": "Graduation",
-  "genre": [
-    "Hip-Hop",
-    "Rap"
-  ],
-  "labels": [
-    "Getting Out Our Dreams"
-  ],
-  "formatText": "2xLP, Album",
-  "year": "2013",
-  "discogsReleaseId": "15002915",
-  "condition": {
-    "media": "NM-",
-    "sleeve": "NM-"
-  },
-  "sealed": false,
-  "descriptions": {
-    "short": "Kanye's third studio album and a commercial juggernaut - became the #1 streamed rap album of 2025, nearly two decades after release. Features anthems like 'Stronger,' 'Good Life,' and 'Flashing Lights' that defined an era. Peak Ye before the chaos, showcasing his sample-flipping brilliance and arena-ready production.",
-    "medium": "Unofficial bootleg on dark purple vinyl featuring UK and Japanese bonus tracks. Played fewer than five times - sounds clean with no crackles or telltale bootleg compression issues. The pressing quality is surprisingly strong, doing justice to this era of Kanye's career. Includes anthems like 'Stronger,' 'Can't Tell Me Nothing,' and 'Flashing Lights' plus the hard-to-find bonus material. A practical way to own a classic album without dropping collector money on official variants."
-  },
-  "price": 39.99,
-  "quantity": 1,
-  "isLimited": true,
-  "limitedDetails": "Includes US, UK, and JPN bonus tracks on Side D.",
-  "isColored": true,
-  "vinylColors": [
-    {
-      "name": "Dark Purple",
-      "hex": "#5D4B8C",
-      "note": ""
-    }
-  ],
-  "colorDisplay": {
-    "mode": "singleDisc",
-    "discs": [
-      {
-        "name": "Dark Purple",
-        "hex": "#5D4B8C"
-      }
-    ]
-  },
-  "status": "active",
-  "sortWeight": 10,
-  "createdAt": "2026-02-06",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers-optimized/graduation_front.webp",
-    "back": "/covers-optimized/graduation_back.webp",
-    "disc": "/covers-optimized/graduation_disc.webp",
-    "others": {}
-  }
-},
-{
+  {
   "id": "13041440",
   "spotify": {
     "albumURL": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK?si=izzsjrTsSXmPEPzhlPndPw",
@@ -264,79 +73,6 @@
     "back": "/covers-optimized/yeezus_back.webp",
     "disc": "/covers-optimized/yeezus_disc.webp",
     "others": {}
-  }
-},
-{
-  "id": "33457610",
-  "spotify": {
-    "albumURL": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1?si=b6n0fZT9RJuYLyyB_PmwgQ",
-    "topSong": ""
-  },
-  "slug": "33457610-Kanye-West-The-Life-Of-Pablo",
-  "catalogNo": "l709840",
-  "artist": "Kanye West",
-  "title": "The Life Of Pablo",
-  "genre": [
-    "Hip-Hop",
-    "Rap"
-  ],
-  "labels": [
-    "Getting Out Our Dreams"
-  ],
-  "formatText": "LP, Album, Bootleg",
-  "year": "2016",
-  "discogsReleaseId": "33457610",
-  "condition": {
-    "media": "NM-",
-    "sleeve": "NM-"
-  },
-  "sealed": false,
-  "descriptions": {
-    "short": "Kanye's messy, sprawling masterpiece - released exclusively on TIDAL in 2016, then continuously updated and tweaked in real-time. Gospel samples collide with trap drums, AutoTune crooning, and chaotic features across 20 tracks. 'Ultralight Beam,' 'Famous,' and 'Waves' capture Ye at his most unfiltered and ambitious. An album that refused to stay finished, reflecting Kanye's restless creative process.",
-    "medium": " The audio quality is surprisingly strong for a bootleg, with gospel samples, trap drums, and Auto-Tune vocals coming through clean. Played fewer than five times, no noticeable surface noise or compression artifacts that plague cheaper unofficial pressings. Tracks like 'Ultralight Beam,' 'Famous,' and 'Waves' showcase Kanye's maximalist chaos at its peak - sprawling, messy, ambitious, and unapologetically unfinished. A solid way to own this era of Ye without hunting down obscure official variants or paying collector premiums."
-  },
-
-  "price": 39.99,
-  "quantity": 1,
-  "isLimited": true,
-  "limitedDetails": "Yellow Marbled and Tan",
-  "isColored": false,
-  "vinylColors": [
-    {
-      "name": "Yellow Marbled",
-      "hex": "#9b6401",
-      "note": ""
-    },
-    {
-      "name": "Tan",
-      "hex": "#6a3841",
-      "note": ""
-    }
-  ],
-  "colorDisplay": {
-    "mode": "multiDisc",
-    "discs": [
-      {
-        "name": "Yellow Marbled",
-        "hex": "#9b6401"
-      },
-      {
-        "name": "Tan",
-        "hex": "#6a3841"
-      }
-    ]
-  },
-  "status": "active",
-  "sortWeight": 10,
-  "createdAt": "2026-02-06",
-  "soldAt": null,
-  "images": {
-    "cover": "/covers-optimized/lifeofpablo_front.webp",
-    "back": "/covers-optimized/lifeofpablo_back.webp",
-    "disc": "/covers-optimized/lifeofpablo_disc.webp",
-    "others": {
-      "disc2": "/covers-optimized/lifeofpablo_disc2.webp"
-    }
   }
 },
     {
@@ -586,129 +322,6 @@
       }
     },
     {
-      "id": "discogs-33791067-boldy-james-hidden-in-plain-sight",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/4I0JgHeRwkkV51z2zPdQgN?si=6bRxh_VAT5CECJ4x-KwIpQ",
-        "topSong": ""
-      },
-      "slug": "boldy-james-hidden-in-plain-sight",
-      "catalogNo": "",
-      "artist": "Boldy James & WhoTheHellisCarlo",
-      "title": "Hidden In Plain Sight",
-      "genre": [
-        "Hip Hop"
-      ],
-      "labels": [
-        "Griselda Records"
-      ],
-      "formatText": "LP, Album",
-      "year": 2024,
-      "discogsReleaseId": "33791067",
-      "condition": {
-        "media": "VG+",
-        "sleeve": "G"
-      },
-      "sealed": false,
-      "descriptions": {
-        "short": "Boldy James delivers razor-sharp Detroit street narratives over WhoTheHellisCarlo's dusty, sample-heavy production. Limited green vinyl pressing from Griselda captures raw, uncompromising lyricism that defines contemporary underground hip-hop.",
-        "medium": "This collaboration showcases Boldy's monotone delivery and vivid storytelling over production that channels classic East Coast boom-bap with modern touches. The green vinyl variant adds collectibility to an album that represents Griselda's dedication to pure, unfiltered hip-hop craftsmanship."
-      },
-      "price": 54.99,
-      "salePrice": 49.99,
-      "saleCondition": "",
-      "quantity": 1,
-      "isLimited": true,
-      "limitedDetails": "",
-      "isColored": true,
-      "vinylColors": [
-        {
-          "name": "Green",
-          "hex": "#4e7860",
-          "note": ""
-        }
-      ],
-      "colorDisplay": {
-        "mode": "singleDisc",
-        "discs": [
-          {
-            "name": "Green",
-            "hex": "#4e7860"
-          }
-        ]
-      },
-      "status": "active",
-      "sortWeight": 9,
-      "createdAt": "2026-01-27",
-      "soldAt": null,
-      "images": {
-        "cover": "/covers-optimized/boldyhips_front.webp",
-        "back": "/covers-optimized/boldyhips_back.webp",
-        "disc": "/covers-optimized/boldyhips_disc.webp",
-        "others": {}
-      }
-    },
-    {
-      "id": "discogs-17295373",
-      "spotify": {
-        "albumURL": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu?si=NSy25hOKSKqFCfOJxkugyA",
-        "topSong": ""
-      },
-      "slug": "deftones-around-the-fur",
-      "catalogNo": "9 46810-2",
-      "artist": "Deftones",
-      "title": "Around the Fur",
-      "genre": [
-        "Alternative Metal",
-        "Nu Metal"
-      ],
-      "labels": [
-        "Maverick"
-      ],
-      "formatText": "LP, Album, RE",
-      "year": 1997,
-      "discogsReleaseId": 17295373,
-      "condition": {
-        "media": "VG+",
-        "sleeve": "VG+"
-      },
-      "sealed": false,
-      "descriptions": {
-        "short": "The album that launched Deftones into the stratosphere. Around the Fur is a masterclass in controlled chaos—Chino Moreno's whisper-to-scream vocals over Stephen Carpenter's crushing riffs created a blueprint that bands still copy today. If you're into shoegaze, metal, or just raw emotion, this is essential.",
-        "medium": "'My Own Summer (Shove It)' is the sludgy opener that put them on the map, but the real magic is in tracks like 'Be Quiet and Drive (Far Away)'—atmospheric, heavy, and genuinely beautiful. 'Mascara' showcases their emotional range, while 'Dai the Flu' is pure aggression. Recorded in Seattle at Studio Litho (Pearl Jam's spot), the album captures lightning in a bottle. Gen Z discovered Deftones through TikTok, but this is where it all started—before White Pony, before the memes, just pure Sacramento fury."
-      },
-      "price": 39.99,
-      "quantity": 1,
-      "isLimited": false,
-      "limitedDetails": "",
-      "isColored": false,
-      "vinylColors": [
-        {
-          "name": "Black",
-          "hex": "#000000",
-          "note": ""
-        }
-      ],
-      "colorDisplay": {
-        "mode": "standardBlack",
-        "discs": [
-          {
-            "name": "Black",
-            "hex": "#000000"
-          }
-        ]
-      },
-      "status": "active",
-      "sortWeight": 6,
-      "createdAt": "2026-01-24",
-      "soldAt": null,
-      "images": {
-        "cover": "/covers-optimized/deftones_fur_front.webp",
-        "back": "/covers-optimized/deftones_fur_back.webp",
-        "disc": "/covers-optimized/deftones_fur_disc.webp",
-        "others": {}
-      }
-    },
-    {
       "id": "action-bronson-only-for-dolphins",
       "spotify": {
         "albumURL": "https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k?si=3R975klhT2a_OMS2FC1WQQ",
@@ -758,7 +371,7 @@
         ]
       },
       "status": "sold",
-      "soldAt": "2026-02-07",
+      "soldAt": "",
       "createdAt": "2026-01-21",
       "images": {
         "cover": "/covers-optimized/dolphins_front.webp",
@@ -855,10 +468,10 @@
       "year": 2013,
       "discogsReleaseId": 5466884,
       "condition": {
-        "media": "M",
-        "sleeve": "M"
+        "media": "NM-",
+        "sleeve": "NM-"
       },
-      "sealed": true,
+      "sealed": false,
       "descriptions": {
         "short": "Etta James' voice is the main event here. At Last! is a masterclass in vocal jazz and soul, full of emotion and restraint. This is essential listening for anyone who loves classic American music.",
         "medium": "The title track 'At Last' is one of the most iconic love songs ever recorded, with Etta's voice soaring over lush strings. 'I Just Want to Make Love to You' brings blues grit, while 'Sunday Kind of Love' is tender and wistful."
@@ -945,8 +558,8 @@
           }
         ]
       },
-      "status": "active",
-      "soldAt": null,
+      "status": "sold",
+      "soldAt": "2026-02-08",
       "createdAt": "2026-01-21",
       "images": {
         "cover": "/covers-optimized/souls93_front.webp"
@@ -1071,7 +684,7 @@
         "back": "/covers-optimized/chilites_back.webp",
         "disc": "/covers-optimized/chilites_disc.webp"
       },
-      "sortWeight": 1
+      "sortWeight": 8
     }
   ]
 }
